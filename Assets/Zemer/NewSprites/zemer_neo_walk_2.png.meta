@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 36975208a042c9a4db1f5e2f11d57636
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7079204948655025182
+    second: zemer_neo_walk_2_0
+  - first:
+      213: 6623581206896784954
+    second: zemer_neo_walk_2_1
+  - first:
+      213: -6914559541993672552
+    second: zemer_neo_walk_2_2
+  - first:
+      213: -5062968524486002918
+    second: zemer_neo_walk_2_3
+  - first:
+      213: -8375191075946286925
+    second: zemer_neo_walk_2_4
+  - first:
+      213: -2613766202782563243
+    second: zemer_neo_walk_2_5
+  - first:
+      213: 8723744621824797150
+    second: zemer_neo_walk_2_6
+  - first:
+      213: 3113619204395016021
+    second: zemer_neo_walk_2_7
+  - first:
+      213: 4078090482291843755
+    second: zemer_neo_walk_2_8
+  - first:
+      213: 9008415534204209608
+    second: zemer_neo_walk_2_9
+  - first:
+      213: -3647476061269136006
+    second: zemer_neo_walk_2_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30943853, y: 0.36734882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c25c0c4636e3260800000000000000
+      internalID: 7079204948655025182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_1
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.3038111, y: 0.36846474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363902b300bbeb50800000000000000
+      internalID: 6623581206896784954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30381137, y: 0.36846474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fd214bbc8a00a0800000000000000
+      internalID: -6914559541993672552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_3
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30665478, y: 0.36644116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a173705a3f8bcb9b0800000000000000
+      internalID: -5062968524486002918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_4
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30665478, y: 0.36644116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03330171855cb80800000000000000
+      internalID: -8375191075946286925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_5
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30381137, y: 0.36846483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5544935ac790abbd0800000000000000
+      internalID: -2613766202782563243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_6
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30381137, y: 0.36848134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9671f5387f01970800000000000000
+      internalID: 8723744621824797150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_7
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30507585, y: 0.36943078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9cc37b2cc53b20800000000000000
+      internalID: 3113619204395016021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_8
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30220902, y: 0.36739066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba228eedfa9489830800000000000000
+      internalID: 4078090482291843755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_9
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30507585, y: 0.36943078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c94a512332540d70800000000000000
+      internalID: 9008415534204209608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_10
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 0
+        width: 474
+        height: 666
+      alignment: 9
+      pivot: {x: 0.30507585, y: 0.36739066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7def41f8df816dc0800000000000000
+      internalID: -3647476061269136006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

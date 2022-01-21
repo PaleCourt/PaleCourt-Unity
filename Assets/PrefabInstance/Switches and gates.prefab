@@ -1,0 +1,754 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1405871066043246}
+  m_IsPrefabParent: 1
+--- !u!1 &1405871066043246
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4942240776224466}
+  - component: {fileID: 114665479671783630}
+  m_Layer: 0
+  m_Name: Switches and gates
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4942240776224466
+Transform:
+  m_GameObject: {fileID: 1405871066043246}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114665479671783630
+MonoBehaviour:
+  m_GameObject: {fileID: 1405871066043246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05396f6cbd199a408220d85dcd12130, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  clips:
+  - name: Toll Gate Idle
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Toll Gate Open
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 8
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 9
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 1
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 2
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 7
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 4
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 3
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 0
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 5
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Switch Idle
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 36
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 38
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 39
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 35
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 40
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 33
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 37
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 34
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 0
+  - name: Switch Hit
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 16
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 17
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 13
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 20
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 14
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 18
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 11
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 15
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 19
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Gate Idle
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 21
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Gate Open
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 27
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 23
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 28
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 31
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 26
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Gate Opened
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 30
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Pillar Idle
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 45
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Pillar Shake
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 55
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 45
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 10
+    loopStart: 0
+    wrapMode: 0
+  - name: Pillar Open
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 45
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 42
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 44
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 56
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 48
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Pillar Opened
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 54
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 6
+  - name: BG Opened
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 43
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: BG Close 1
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 49
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 47
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 51
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: BG Open
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 51
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 47
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 49
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: BG Closed
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 41
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: BG Effect
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 53
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 58
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 52
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 59
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: BG Close 2
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 50
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 41
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Bone Gate Closed
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 64
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Bone Gate Open
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 60
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 62
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 61
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 63
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Bone Gate Close
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 63
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 61
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 62
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 60
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Bone Gate Opened
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 63
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Switch Activated
+    frames:
+    - spriteCollection: {fileID: 114347043149773395, guid: ed9365125b5b7914aa02b56267d6f7c0, type: 2}
+      spriteId: 19
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 0

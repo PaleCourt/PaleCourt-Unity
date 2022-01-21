@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f865154d82271bb40aaccc0c129b7174
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Zemer_cheese_counter__0
+  - first:
+      213: 21300002
+    second: Zemer_cheese_counter__1
+  - first:
+      213: 21300004
+    second: Zemer_cheese_counter__2
+  - first:
+      213: 21300006
+    second: Zemer_cheese_counter__3
+  - first:
+      213: 21300008
+    second: Zemer_cheese_counter__4
+  - first:
+      213: 21300010
+    second: Zemer_cheese_counter__5
+  - first:
+      213: 21300012
+    second: Zemer_cheese_counter__6
+  - first:
+      213: 21300014
+    second: Zemer_cheese_counter__7
+  - first:
+      213: 21300016
+    second: Zemer_cheese_counter__8
+  - first:
+      213: 21300018
+    second: Zemer_cheese_counter__9
+  - first:
+      213: 21300020
+    second: Zemer_cheese_counter__10
+  - first:
+      213: 21300022
+    second: Zemer_cheese_counter__11
+  - first:
+      213: 21300024
+    second: Zemer_cheese_counter__12
+  - first:
+      213: 21300026
+    second: Zemer_cheese_counter__13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3273
+        width: 513
+        height: 720
+      alignment: 9
+      pivot: {x: 0.34263936, y: 0.37522176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__1
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3273
+        width: 548
+        height: 720
+      alignment: 9
+      pivot: {x: 0.37407333, y: 0.3734134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__2
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 3272
+        width: 504
+        height: 696
+      alignment: 9
+      pivot: {x: 0.33207873, y: 0.38962668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__3
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 3273
+        width: 530
+        height: 663
+      alignment: 9
+      pivot: {x: 0.30346635, y: 0.4980362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2303
+        width: 649
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__5
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 2336
+        width: 708
+        height: 606
+      alignment: 9
+      pivot: {x: 0.44446507, y: 0.4675591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__6
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2360
+        width: 699
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5220761, y: 0.3971872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__7
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1993
+        width: 907
+        height: 1132
+      alignment: 9
+      pivot: {x: 0.5774467, y: 0.5236931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1254
+        width: 937
+        height: 696
+      alignment: 9
+      pivot: {x: 0.34887904, y: 0.4637695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1305
+        width: 736
+        height: 724
+      alignment: 9
+      pivot: {x: 0.43674785, y: 0.3553241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__10
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1264
+        width: 541
+        height: 616
+      alignment: 9
+      pivot: {x: 0.4738607, y: 0.4672041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__11
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 1278
+        width: 766
+        height: 600
+      alignment: 9
+      pivot: {x: 0.52637386, y: 0.3653178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 177
+        width: 754
+        height: 849
+      alignment: 9
+      pivot: {x: 0.44636956, y: 0.4272328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_cheese_counter__13
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 169
+        width: 580
+        height: 775
+      alignment: 9
+      pivot: {x: 0.42290103, y: 0.39229333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

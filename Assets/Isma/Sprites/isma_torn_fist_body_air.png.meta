@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 66dd1c2a0f23ada4c97461f3103a8739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: isma_torn_fist_body_air_0
+  - first:
+      213: 21300002
+    second: isma_torn_fist_body_air_1
+  - first:
+      213: 21300004
+    second: isma_torn_fist_body_air_2
+  - first:
+      213: 21300006
+    second: isma_torn_fist_body_air_3
+  - first:
+      213: 21300008
+    second: isma_torn_fist_body_air_4
+  - first:
+      213: 21300010
+    second: isma_torn_fist_body_air_5
+  - first:
+      213: 21300012
+    second: isma_torn_fist_body_air_6
+  - first:
+      213: 21300014
+    second: isma_torn_fist_body_air_7
+  - first:
+      213: 21300016
+    second: isma_torn_fist_body_air_8
+  - first:
+      213: 21300018
+    second: isma_torn_fist_body_air_9
+  - first:
+      213: 21300020
+    second: isma_torn_fist_body_air_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_0
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 623
+        width: 292
+        height: 300
+      alignment: 9
+      pivot: {x: 0.511609, y: 0.08756246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_2
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 623
+        width: 235
+        height: 300
+      alignment: 9
+      pivot: {x: 0.61480635, y: 0.09211548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_3
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 618
+        width: 231
+        height: 303
+      alignment: 9
+      pivot: {x: 0.57517415, y: 0.065059245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_4
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 314
+        width: 209
+        height: 304
+      alignment: 9
+      pivot: {x: 0.2979364, y: 0.031529076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_5
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 312
+        width: 180
+        height: 303
+      alignment: 9
+      pivot: {x: 0.178144, y: 0.08961673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_6
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 314
+        width: 209
+        height: 304
+      alignment: 9
+      pivot: {x: 0.2970794, y: 0.031658877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_7
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 309
+        width: 231
+        height: 303
+      alignment: 9
+      pivot: {x: 0.57498497, y: 0.06349651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 235
+        height: 300
+      alignment: 9
+      pivot: {x: 0.61568475, y: 0.09053376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_torn_fist_body_air_10
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 5
+        width: 292
+        height: 300
+      alignment: 9
+      pivot: {x: 0.51755637, y: 0.07963922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ismawin
+  assetBundleVariant: 

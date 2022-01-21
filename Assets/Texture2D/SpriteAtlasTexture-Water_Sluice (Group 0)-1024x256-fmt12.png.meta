@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: c885c1fa55a840542b08ca95b2809d93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ruins_fences_0002_a
+  - first:
+      213: 21300002
+    second: ruins_fences_0004_a
+  - first:
+      213: 21300004
+    second: ruins_fences_0001_a
+  - first:
+      213: 21300006
+    second: ruins_fences_0003_a
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21.99119
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruins_fences_0002_a
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 78
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4992485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -127.6916}
+        - {x: -39, y: -115.6916}
+        - {x: -39, y: 127.3084}
+        - {x: 39, y: 127.3084}
+        - {x: 39, y: -109.6916}
+        - {x: 30, y: -127.6916}
+      physicsShape:
+      - - {x: 32, y: -37.69163}
+        - {x: 28, y: -33.69163}
+        - {x: 30, y: 2.308372}
+        - {x: 32, y: 20.30837}
+        - {x: 33, y: 56.30838}
+        - {x: 36, y: 98.30837}
+        - {x: 39, y: 104.3084}
+        - {x: 39, y: 120.3084}
+        - {x: 38, y: 125.3084}
+        - {x: 26, y: 127.3084}
+        - {x: -34, y: 127.3084}
+        - {x: -39, y: 122.3084}
+        - {x: -39, y: 68.30837}
+        - {x: -38, y: 57.30837}
+        - {x: -36, y: 34.30837}
+        - {x: -38, y: 18.30837}
+        - {x: -37, y: -9.691628}
+        - {x: -36, y: -20.69163}
+        - {x: -36, y: -61.69163}
+        - {x: -39, y: -65.69163}
+        - {x: -39, y: -84.69163}
+        - {x: -38, y: -108.6916}
+        - {x: -36, y: -122.6916}
+        - {x: -26, y: -127.6916}
+        - {x: 26, y: -127.6916}
+        - {x: 29, y: -122.6916}
+        - {x: 28, y: -91.69163}
+        - {x: 33, y: -65.69163}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins_fences_0004_a
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 198
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4989789, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.20219, y: 23}
+        - {x: -99.20219, y: 45}
+        - {x: -99.20219, y: 103}
+        - {x: -98.20219, y: 106}
+        - {x: -60.20219, y: 125}
+        - {x: -19.20219, y: 128}
+        - {x: 89.79781, y: 128}
+        - {x: 98.79781, y: 120}
+        - {x: 98.79781, y: 28}
+        - {x: 96.79781, y: -47}
+        - {x: 93.79781, y: -108}
+        - {x: 91.79781, y: -128}
+        - {x: -36.20219, y: -128}
+        - {x: -58.20219, y: -114}
+        - {x: -68.20219, y: -104}
+        - {x: -80.20219, y: -69}
+        - {x: -83.20219, y: -34}
+      physicsShape:
+      - - {x: 90.79781, y: -70}
+        - {x: 93.79781, y: -54}
+        - {x: 93.79781, y: -25}
+        - {x: 91.79781, y: -19}
+        - {x: 96.79781, y: 16}
+        - {x: 94.79781, y: 54}
+        - {x: 98.79781, y: 63}
+        - {x: 98.79781, y: 118}
+        - {x: 87.79781, y: 128}
+        - {x: 29.79781, y: 128}
+        - {x: 24.79781, y: 127}
+        - {x: -8.202187, y: 127}
+        - {x: -24.20219, y: 124}
+        - {x: -59.20219, y: 124}
+        - {x: -65.20219, y: 122}
+        - {x: -74.20219, y: 112}
+        - {x: -86.20219, y: 107}
+        - {x: -99.20219, y: 98}
+        - {x: -99.20219, y: 81}
+        - {x: -97.20219, y: 78}
+        - {x: -96.20219, y: 61}
+        - {x: -95.20219, y: 30}
+        - {x: -94.20219, y: 24}
+        - {x: -85.20219, y: -9}
+        - {x: -83.20219, y: -30}
+        - {x: -76.20219, y: -72}
+        - {x: -69.20219, y: -97}
+        - {x: -63.20219, y: -105}
+        - {x: -53.20219, y: -116}
+        - {x: -44.20219, y: -118}
+        - {x: -36.20219, y: -127}
+        - {x: -33.20219, y: -128}
+        - {x: 91.79781, y: -128}
+        - {x: 91.79781, y: -96}
+        - {x: 89.79781, y: -83}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins_fences_0001_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4994604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.8813, y: 42}
+        - {x: 109.8813, y: -39}
+        - {x: 104.8813, y: -120}
+        - {x: 97.88128, y: -128}
+        - {x: 80.88128, y: -128}
+        - {x: 75.88128, y: -122}
+        - {x: 68.88128, y: -107}
+        - {x: 39.88128, y: -111}
+        - {x: -14.11872, y: -111}
+        - {x: -55.11872, y: -116}
+        - {x: -100.1187, y: -110}
+        - {x: -108.1187, y: -99}
+        - {x: -109.1187, y: -43}
+        - {x: -110.1187, y: 40}
+        - {x: -110.1187, y: 117}
+        - {x: -105.1187, y: 128}
+        - {x: 103.8813, y: 128}
+        - {x: 109.8813, y: 126}
+        - {x: 109.8813, y: 49}
+      physicsShape:
+      - - {x: 99.88128, y: -45}
+        - {x: 106.8813, y: -36}
+        - {x: 105.8813, y: -8}
+        - {x: 101.8813, y: 8}
+        - {x: 105.8813, y: 30}
+        - {x: 105.8813, y: 35}
+        - {x: 109.8813, y: 67}
+        - {x: 109.8813, y: 114}
+        - {x: 98.88128, y: 121}
+        - {x: 89.88128, y: 123}
+        - {x: 34.88128, y: 123}
+        - {x: 29.88128, y: 121}
+        - {x: -12.11872, y: 121}
+        - {x: -32.11872, y: 119}
+        - {x: -43.11872, y: 122}
+        - {x: -95.11872, y: 121}
+        - {x: -107.1187, y: 115}
+        - {x: -110.1187, y: 95}
+        - {x: -110.1187, y: 84}
+        - {x: -105.1187, y: 37}
+        - {x: -105.1187, y: 9}
+        - {x: -103.1187, y: -18}
+        - {x: -107.1187, y: -51}
+        - {x: -104.1187, y: -95}
+        - {x: -98.11872, y: -100}
+        - {x: -91.11872, y: -103}
+        - {x: -52.11872, y: -105}
+        - {x: -34.11872, y: -104}
+        - {x: -14.11872, y: -103}
+        - {x: 6.881279, y: -104}
+        - {x: 36.88128, y: -103}
+        - {x: 73.88128, y: -100}
+        - {x: 85.88128, y: -118}
+        - {x: 90.88128, y: -118}
+        - {x: 94.88128, y: -113}
+        - {x: 100.8813, y: -96}
+        - {x: 102.8813, y: -81}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruins_fences_0003_a
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 79
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4989159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -127.2775}
+        - {x: -39.5, y: -65.27753}
+        - {x: -39.5, y: 127.7225}
+        - {x: 39.5, y: 127.7225}
+        - {x: 39.5, y: -127.2775}
+        - {x: 37.5, y: -128.2775}
+        - {x: -30.5, y: -128.2775}
+      physicsShape:
+      - - {x: 39.5, y: -93.27753}
+        - {x: 39.5, y: -62.27752}
+        - {x: 36.5, y: -32.27753}
+        - {x: 38.5, y: -9.277527}
+        - {x: 37.5, y: 46.72247}
+        - {x: 39.5, y: 68.72247}
+        - {x: 39.5, y: 124.7225}
+        - {x: 35.5, y: 127.7225}
+        - {x: -31.5, y: 127.7225}
+        - {x: -35.5, y: 126.7225}
+        - {x: -39.5, y: 121.7225}
+        - {x: -39.5, y: 105.7225}
+        - {x: -37.5, y: 98.72247}
+        - {x: -34.5, y: 79.72247}
+        - {x: -31.5, y: 51.72247}
+        - {x: -31.5, y: 3.722473}
+        - {x: -26.5, y: -3.277527}
+        - {x: -27.5, y: -19.27753}
+        - {x: -32.5, y: -37.27753}
+        - {x: -33.5, y: -65.27753}
+        - {x: -27.5, y: -89.27753}
+        - {x: -27.5, y: -111.2775}
+        - {x: -30.5, y: -119.2775}
+        - {x: -26.5, y: -128.2775}
+        - {x: 26.5, y: -128.2775}
+        - {x: 31.5, y: -125.2775}
+        - {x: 36.5, y: -119.2775}
+        - {x: 37.5, y: -113.2775}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: owarenadep
+  assetBundleVariant: 

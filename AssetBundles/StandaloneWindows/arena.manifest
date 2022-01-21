@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1908637574
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c44fe8158614e8752e57b3e444eeb439
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27c5bd9308a4481035be6ed151614c61
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+Assets:
+- Assets/border01.prefab
+Dependencies: []

@@ -1,0 +1,174 @@
+ManifestFileVersion: 0
+CRC: 907251220
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54731940a90831a277f07d49ac69d27c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2470b64dde42fa878c79f1421ca396fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03b2c34f699d61f48b15227d428d4125, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Zemer/Sound/ZAudP2Death2.wav
+- Assets/Zemer/Animation/Zemer/ZCAtt.anim
+- Assets/Test/WaveEffectShader.shader
+- Assets/Zemer/Music/ZP2Intro.wav
+- Assets/Zemer/Animation/Zemer/ZAtt1Intro.anim
+- Assets/Test/Shockwave.prefab
+- Assets/Zemer/Sound/AudBasicSlash1.wav
+- Assets/Zemer/new_hypercut.png
+- Assets/Zemer/Animation/Zemer/ZAtt1End.anim
+- Assets/Zemer/Music/ZP1Loop.wav
+- Assets/Zemer/Animation/Zemer/Z6LaserSpin.anim
+- Assets/Zemer/NewSprites/zemer_air_throw_.png
+- Assets/Zemer/NewSprites/zemer_attack_variant.png
+- Assets/Zemer/megaslash_new_start.png
+- Assets/Zemer/Sound/ZAudP1Death.wav
+- Assets/Zemer/new_cut.png
+- Assets/Test/sonar.png
+- Assets/Zemer/Animation/Zemer/ZIntro.anim
+- Assets/Zemer/NewSprites/zemer_recover.png
+- Assets/Zemer/Sound/ZAudAtt4.wav
+- Assets/Zemer/newest_cut.png
+- Assets/Zemer/Sound/ZAudP2Death1.wav
+- Assets/Zemer/Animation/Zemer/ZAtt1.anim
+- Assets/Zemer/Animation/Zemer/Zemer.controller
+- Assets/Zemer/NewSprites/zemer_walk_fixed.png
+- Assets/Zemer/Animation/Zemer/ZCCancel.anim
+- Assets/Zemer/Sound/ZAudBow.wav
+- Assets/Zemer/Animation/ZAerial.anim
+- Assets/Zemer/Animation/Zemer/ZIdle.anim
+- Assets/Other/Material.mat
+- Assets/Zemer/Prefab/Zemer.prefab
+- Assets/Zemer/Animation/Zemer/ZThrow3Gnd.anim
+- Assets/Zemer/Animation/HorizSlashFX.controller
+- Assets/Zemer/Sound/ZAudCounter.wav
+- Assets/Zemer/Animation/Zemer/ZWalkRight.anim
+- Assets/Zemer/Sound/AudBigSlash.wav
+- Assets/Other/UnlitFlash.shader
+- Assets/Zemer/NewSprites/zemer_nyooom_.png
+- Assets/Zemer/Button_flash0003.png
+- Assets/Zemer/Animation/ZAtt1Base.anim
+- Assets/Zemer/Animation/Zemer/Z3Swing.anim
+- Assets/Zemer/zemer_counter_new.png
+- Assets/Zemer/Sound/AudBigSlash2.wav
+- Assets/Zemer/Prefab/NewSlash2.prefab
+- Assets/Zemer/Sound/ZAudAtt5.wav
+- Assets/Zemer/Animation/ZDash2.anim
+- Assets/Zemer/zemer_new_cheese_counter.png
+- Assets/Zemer/Animation/Zemer/ZWalk.anim
+- Assets/Test/WaveEffectMaterial.mat
+- Assets/Zemer/Laser.anim
+- Assets/Zemer/Sound/AudLand.wav
+- Assets/Zemer/Sound/AudDashIntro.wav
+- Assets/Zemer/Sound/AudDash.wav
+- Assets/Other/UnlitFlashMat.mat
+- Assets/Zemer/Animation/Zemer/ZCIdle.anim
+- Assets/Zemer/Animation/Zemer/ZDodge.anim
+- Assets/Zemer/Animation/Zemer/ZZip.anim
+- Assets/Zemer/new_beam_slash_0.controller
+- Assets/Zemer/Animation/Zemer/ZAtt1Loop.anim
+- Assets/Zemer/NewSprites/Zemer_en_garde_.png
+- Assets/Zemer/Animation/Zemer/ZSpin.anim
+- Assets/Zemer/Zemer_attack_normal_pattern_second_.png
+- Assets/Zemer/Animation/Zemer/ZCInit.anim
+- Assets/Zemer/Button_flash0007.png
+- Assets/Zemer/zemer_stand_iddle.png
+- Assets/Zemer/NewSprites/petal-test.png
+- Assets/Zemer/Animation/Zemer/Z1ZipIn.anim
+- Assets/Zemer/Music/ZP1Intro.wav
+- Assets/Zemer/Animation/Zemer/ZThrow3Air.anim
+- Assets/Zemer/Animation/Zemer/ZRecover.anim
+- Assets/Zemer/NewSprites/dung-test.png
+- Assets/Zemer/zemer_aereal_slash_combo.png
+- Assets/Zemer/Animation/Zemer/ZKnocked.anim
+- Assets/Zemer/Sound/AudBasicSlash2.wav
+- Assets/Zemer/zemer_stab_ki_.png
+- Assets/Zemer/NewSprites/zemer_knock_off.png
+- Assets/Zemer/Prefab/Shockwave.prefab
+- Assets/Zemer/Animation/Zemer/Z5LandSlide.anim
+- Assets/Zemer/Sound/ZAudAtt2.wav
+- Assets/Zemer/Animation/Zemer/ZAtt2.anim
+- Assets/Zemer/Animation/Zemer/Z4AirSweep.anim
+- Assets/Zemer/Music/ZP2Loop.wav
+- Assets/Zemer/NewSprites/zemer_throwing_nail_body_.png
+- Assets/Zemer/zemer_turn.png
+- Assets/Zemer/Sound/ZAudLaser.wav
+- Assets/Zemer/NewSprites/zemer_throwing_nail_nail_.png
+- Assets/Zemer/Animation/KiBlast.controller
+- Assets/Zemer/Zemer_charge_dash_slash_.png
+- Assets/Zemer/NewSprites/Zemer_second_face_.png
+- Assets/Zemer/Animation/Zemer/ZTurn.anim
+- Assets/Zemer/Animation/ZWalkLeft.anim
+- Assets/Zemer/Animation/Zemer/ZSlam.anim
+- Assets/Zemer/Animation/Zemer/ZThrow2B.anim
+- Assets/Zemer/Animation/KiAnim.anim
+- Assets/Zemer/Animation/Zemer/Z2Crawl.anim
+- Assets/Zemer/new_beam_slash.png
+- Assets/Zemer/Zemer_dodge_.png
+- Assets/Zemer/Animation/Zemer/ZDash.anim
+- Assets/Zemer/newest_cut_0.controller
+- Assets/Zemer/NewSprites/zemer_kick_.png
+- Assets/Zemer/NewSlash2.anim
+- Assets/Zemer/hypercut.png
+- Assets/Zemer/NewSlash3.anim
+- Assets/Zemer/Sound/ZAudHoriz.wav
+- Assets/Zemer/zemer_aerial_attack_2.png
+- Assets/Zemer/Button_flash0002.png
+- Assets/Zemer/Prefab/NewSlash.prefab
+- Assets/Zemer/NewSprites/Zemer_slam_.png
+- Assets/Zemer/Animation/Zemer/ZThrow1.anim
+- Assets/Zemer/NewSprites/Zemer_P2(1).png
+- Assets/Zemer/zemer_aerial_extra_new.png
+- Assets/Zemer/Button_flash0006.png
+- Assets/Zemer/Animation/SlashAnim.anim
+- Assets/Zemer/Zemer_cheese_counter_.png
+- Assets/Zemer/Animation/DashCounter.anim
+- Assets/Zemer/Prefab/Slash.prefab
+- Assets/Zemer/Ze'mer_fixed_arrive_bow_draw_walk_.png
+- Assets/Zemer/Sound/ZAudAtt3.wav
+- Assets/Zemer/Animation/HorizFX.anim
+- Assets/Zemer/Button_flash0004.png
+- Assets/Test/noise.png
+- Assets/Zemer/Sound/ZAudAtt1.wav
+- Assets/Zemer/Button_flash0005.png
+- Assets/Zemer/Animation/Zemer/ZCounter.anim
+- Assets/Zemer/Animation/ZAerial2.anim
+- Assets/Zemer/Animation/Zemer/ZThrow2.anim
+- Assets/Zemer/Sound/ZAudAtt6.wav
+Dependencies: []

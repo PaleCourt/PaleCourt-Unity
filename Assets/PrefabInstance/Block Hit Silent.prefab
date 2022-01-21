@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1995392873244436}
+  m_IsPrefabParent: 1
+--- !u!1 &1995392873244436
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4716395347319207}
+  - component: {fileID: 23336548927881896}
+  - component: {fileID: 33876066609050093}
+  - component: {fileID: 114220422876296366}
+  - component: {fileID: 114579327164542041}
+  - component: {fileID: 114040308604343606}
+  m_Layer: 0
+  m_Name: Block Hit Silent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4716395347319207
+Transform:
+  m_GameObject: {fileID: 1995392873244436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 34.73932, y: 25.79481, z: 0}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23336548927881896
+MeshRenderer:
+  m_GameObject: {fileID: 1995392873244436}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 1403107b32a49b74ba1627c8a27bcc0e, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 1
+--- !u!33 &33876066609050093
+MeshFilter:
+  m_GameObject: {fileID: 1995392873244436}
+  m_Mesh: {fileID: 0}
+--- !u!114 &114220422876296366
+MonoBehaviour:
+  m_GameObject: {fileID: 1995392873244436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6ad557b87caea4fbddbf303bc6fb6b, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  collection: {fileID: 114216140218474199, guid: 280747769e396e249be30a27e0c16a95, type: 2}
+  _color: {r: 1, g: 1, b: 1, a: 1}
+  _scale: {x: 1, y: 1, z: 1}
+  _spriteId: 43
+  boxCollider2D: {fileID: 0}
+  polygonCollider2D: []
+  edgeCollider2D: []
+  boxCollider: {fileID: 0}
+  meshCollider: {fileID: 0}
+  meshColliderPositions: []
+  meshColliderMesh: {fileID: 0}
+  renderLayer: 1
+--- !u!114 &114579327164542041
+MonoBehaviour:
+  m_GameObject: {fileID: 1995392873244436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d22fb556a2a1df4b9d5c6d6877d70d9, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  library: {fileID: 114541785472568235, guid: 3f3a883f11e17b04892eee9df6bdd56c, type: 2}
+  defaultClipId: 2
+  playAutomatically: 1
+--- !u!114 &114040308604343606
+MonoBehaviour:
+  m_GameObject: {fileID: 1995392873244436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47749895bb26e004fa6c4929055b750c, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  spriteAnimator: {fileID: 114579327164542041}
+  randomiseRotation: 0

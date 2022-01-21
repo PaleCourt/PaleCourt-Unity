@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 242d8dd66a2ff5948a899cf89122dce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fungd_wall_02
+  - first:
+      213: 21300002
+    second: single_arch
+  - first:
+      213: 21300004
+    second: fungd_wall_side_01
+  - first:
+      213: 21300006
+    second: fungd_wall_03
+  - first:
+      213: 21300008
+    second: fungd_wall_01_r
+  - first:
+      213: 21300010
+    second: fungd_wall_01
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fungd_wall_02
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 85
+        height: 238
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -119}
+        - {x: -42.5, y: -80}
+        - {x: -42.5, y: 103}
+        - {x: -36.5, y: 119}
+        - {x: 41.5, y: 119}
+        - {x: 42.5, y: 118}
+        - {x: 42.5, y: -119}
+      physicsShape:
+      - - {x: 39.5, y: 118}
+        - {x: 38.5, y: 119}
+        - {x: -30.5, y: 119}
+        - {x: -35.5, y: 116}
+        - {x: -42.5, y: 70}
+        - {x: -42.5, y: 17}
+        - {x: -40.5, y: -3}
+        - {x: -33.5, y: -9}
+        - {x: -33.5, y: -73}
+        - {x: -32.5, y: -116}
+        - {x: -28.5, y: -118}
+        - {x: 40.5, y: -118}
+        - {x: 40.5, y: -106}
+        - {x: 39.5, y: -106}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: single_arch
+      rect:
+        serializedVersion: 2
+        x: 0.02675098
+        y: 239
+        width: 296.9732
+        height: 218
+      alignment: 9
+      pivot: {x: 0.499955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131.4866, y: -106}
+        - {x: 124.4866, y: -97}
+        - {x: 124.4866, y: -98}
+        - {x: 121.4866, y: -99}
+        - {x: 119.4866, y: -96}
+        - {x: 121.4866, y: -94}
+        - {x: 122.4866, y: -94}
+        - {x: 93.48663, y: -56}
+        - {x: 44.48663, y: -34}
+        - {x: 14.48663, y: -32}
+        - {x: -51.51337, y: -62}
+        - {x: -67.51337, y: -89}
+        - {x: -88.51337, y: -109}
+        - {x: -134.5134, y: -109}
+        - {x: -146.5134, y: -98}
+        - {x: -148.5134, y: -94}
+        - {x: -148.5134, y: -74}
+        - {x: -145.5134, y: -54}
+        - {x: -136.5134, y: -34}
+        - {x: -135.5134, y: 46}
+        - {x: -133.5134, y: 109}
+        - {x: 148.4866, y: 109}
+        - {x: 148.4866, y: -109}
+        - {x: 145.4866, y: -109}
+      physicsShape:
+      - - {x: -17.51337, y: -39}
+        - {x: 31.48663, y: -31}
+        - {x: 57.48663, y: -36}
+        - {x: 94.48663, y: -54}
+        - {x: 124.4866, y: -92}
+        - {x: 133.4866, y: -104}
+        - {x: 147.4866, y: -107}
+        - {x: 148.4866, y: -106}
+        - {x: 148.4866, y: 109}
+        - {x: -131.5134, y: 109}
+        - {x: -132.5134, y: -39}
+        - {x: -140.5134, y: -53}
+        - {x: -147.5134, y: -69}
+        - {x: -147.5134, y: -91}
+        - {x: -146.5134, y: -94}
+        - {x: -140.5134, y: -102}
+        - {x: -130.5134, y: -106}
+        - {x: -123.5134, y: -109}
+        - {x: -100.5134, y: -109}
+        - {x: -95.51337, y: -108}
+        - {x: -80.51337, y: -101}
+        - {x: -60.51337, y: -70}
+        - {x: -44.51337, y: -54}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungd_wall_side_01
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 79
+        height: 258
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -129}
+        - {x: -39.5, y: -128}
+        - {x: -39.5, y: 126}
+        - {x: -35.5, y: 129}
+        - {x: 39.5, y: 129}
+        - {x: 39.5, y: -84}
+        - {x: 38.5, y: -129}
+      physicsShape:
+      - - {x: 35.5, y: 117}
+        - {x: 36.5, y: 118}
+        - {x: 36.5, y: 125}
+        - {x: 31.5, y: 129}
+        - {x: -27.5, y: 129}
+        - {x: -30.5, y: 127}
+        - {x: -35.5, y: 123}
+        - {x: -35.5, y: 118}
+        - {x: -38.5, y: 113}
+        - {x: -38.5, y: 99}
+        - {x: -37.5, y: 92}
+        - {x: -33.5, y: 86}
+        - {x: -36.5, y: 83}
+        - {x: -37.5, y: 77}
+        - {x: -31.5, y: 69}
+        - {x: -30.5, y: -75}
+        - {x: -36.5, y: -78}
+        - {x: -38.5, y: -86}
+        - {x: -38.5, y: -103}
+        - {x: -37.5, y: -110}
+        - {x: -33.5, y: -116}
+        - {x: -36.5, y: -119}
+        - {x: -36.5, y: -124}
+        - {x: -32.5, y: -129}
+        - {x: 34.5, y: -129}
+        - {x: 34.5, y: -122}
+        - {x: 35.5, y: -113}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungd_wall_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 237
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -114.5}
+        - {x: -49, y: -100.5}
+        - {x: -47, y: -76.5}
+        - {x: -57, y: -60.5}
+        - {x: -76, y: -43.5}
+        - {x: -101, y: -29.5}
+        - {x: -142, y: -21.5}
+        - {x: -142, y: 118.5}
+        - {x: 142, y: 118.5}
+        - {x: 142, y: -21.5}
+        - {x: 109, y: -27.5}
+        - {x: 84, y: -38.5}
+        - {x: 66, y: -52.5}
+        - {x: 51, y: -71.5}
+        - {x: 50, y: -96.5}
+        - {x: 48, y: -103.5}
+        - {x: 45, y: -111.5}
+        - {x: 40, y: -118.5}
+        - {x: -36, y: -118.5}
+      physicsShape:
+      - - {x: 71, y: -45.5}
+        - {x: 117, y: -24.5}
+        - {x: 142, y: -20.5}
+        - {x: 142, y: 118.5}
+        - {x: -142, y: 118.5}
+        - {x: -142, y: -20.5}
+        - {x: -97, y: -29.5}
+        - {x: -79, y: -39.5}
+        - {x: -48, y: -70.5}
+        - {x: -42, y: -84.5}
+        - {x: -47, y: -99.5}
+        - {x: -41, y: -113.5}
+        - {x: -36, y: -116.5}
+        - {x: 37, y: -116.5}
+        - {x: 42, y: -111.5}
+        - {x: 48, y: -96.5}
+        - {x: 43, y: -81.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungd_wall_01_r
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 252
+        width: 201
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.5, y: -21}
+        - {x: -100.5, y: -20}
+        - {x: -100.5, y: 125}
+        - {x: 86.5, y: 125}
+        - {x: 90.5, y: 124}
+        - {x: 98.5, y: 71}
+        - {x: 100.5, y: 49}
+        - {x: 100.5, y: -4}
+        - {x: 93.5, y: -28}
+        - {x: 95.5, y: -97}
+        - {x: 84.5, y: -114}
+        - {x: 73.5, y: -125}
+        - {x: 8.5, y: -125}
+        - {x: -11.5, y: -98}
+        - {x: -35.5, y: -41}
+      physicsShape:
+      - - {x: 89.5, y: -30}
+        - {x: 87.5, y: -10}
+        - {x: 95.5, y: -3}
+        - {x: 100.5, y: 9}
+        - {x: 100.5, y: 39}
+        - {x: 94.5, y: 67}
+        - {x: 87.5, y: 78}
+        - {x: 87.5, y: 119}
+        - {x: 82.5, y: 124}
+        - {x: -98.5, y: 124}
+        - {x: -100.5, y: 122}
+        - {x: -100.5, y: -15}
+        - {x: -99.5, y: -17}
+        - {x: -54.5, y: -28}
+        - {x: -23.5, y: -45}
+        - {x: 0.5, y: -75}
+        - {x: -2.5, y: -98}
+        - {x: 1.5, y: -111}
+        - {x: 17.5, y: -125}
+        - {x: 70.5, y: -125}
+        - {x: 83.5, y: -113}
+        - {x: 90.5, y: -96}
+        - {x: 89.5, y: -91}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fungd_wall_01
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 201
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -115}
+        - {x: -93.5, y: -101}
+        - {x: -92.5, y: -12}
+        - {x: -100.5, y: 1}
+        - {x: -100.5, y: 74}
+        - {x: -90.5, y: 125}
+        - {x: 100.5, y: 125}
+        - {x: 100.5, y: -19}
+        - {x: 45.5, y: -37}
+        - {x: 8.5, y: -71}
+        - {x: 5.5, y: -103}
+        - {x: -9.5, y: -122}
+        - {x: -15.5, y: -125}
+        - {x: -73.5, y: -125}
+      physicsShape:
+      - - {x: 23.5, y: -45}
+        - {x: 54.5, y: -28}
+        - {x: 96.5, y: -18}
+        - {x: 100.5, y: -15}
+        - {x: 100.5, y: 122}
+        - {x: 98.5, y: 124}
+        - {x: -82.5, y: 124}
+        - {x: -87.5, y: 119}
+        - {x: -88.5, y: 79}
+        - {x: -95.5, y: 62}
+        - {x: -100.5, y: 45}
+        - {x: -100.5, y: 1}
+        - {x: -87.5, y: -10}
+        - {x: -90.5, y: -30}
+        - {x: -89.5, y: -52}
+        - {x: -87.5, y: -78}
+        - {x: -93.5, y: -91}
+        - {x: -87.5, y: -115}
+        - {x: -70.5, y: -125}
+        - {x: -16.5, y: -125}
+        - {x: -0.5, y: -112}
+        - {x: 2.5, y: -95}
+        - {x: -4.5, y: -87}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: owarenadep
+  assetBundleVariant: 

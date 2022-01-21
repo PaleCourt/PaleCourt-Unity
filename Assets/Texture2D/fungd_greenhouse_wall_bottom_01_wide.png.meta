@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 0e07e6e7998987c43a1e945516f2343d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fungd_greenhouse_wall_bottom_01_wide
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 209
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fungd_greenhouse_wall_bottom_01_wide
+      rect:
+        serializedVersion: 2
+        x: 6.026751
+        y: 0
+        width: 83.9465
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4821314, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -104.5}
+        - {x: -35, y: -104.5}
+        - {x: -42, y: -98.5}
+        - {x: -42, y: 104.5}
+        - {x: 4.999996, y: 104.5}
+        - {x: 42, y: -27.5}
+        - {x: 42, y: -100.5}
+      physicsShape:
+      - - {x: 42, y: -50.5}
+        - {x: 42, y: -40.5}
+        - {x: 40, y: -34.5}
+        - {x: 28, y: -32.5}
+        - {x: 1.999996, y: -34.5}
+        - {x: 0.9999962, y: -28.5}
+        - {x: -7.000004, y: -25.5}
+        - {x: -6.000004, y: -10.5}
+        - {x: -10, y: -3.5}
+        - {x: -15, y: -1.5}
+        - {x: -13, y: 19.5}
+        - {x: -7.000004, y: 44.5}
+        - {x: -4.000004, y: 71.5}
+        - {x: -1.000004, y: 94.5}
+        - {x: -7.000004, y: 103.5}
+        - {x: -10, y: 104.5}
+        - {x: -17, y: 104.5}
+        - {x: -30, y: 99.5}
+        - {x: -36, y: 92.5}
+        - {x: -37, y: 71.5}
+        - {x: -37, y: 61.5}
+        - {x: -36, y: 56.5}
+        - {x: -37, y: 39.5}
+        - {x: -34, y: 14.5}
+        - {x: -38, y: 4.5}
+        - {x: -38, y: -32.5}
+        - {x: -40, y: -60.5}
+        - {x: -40, y: -79.5}
+        - {x: -36, y: -94.5}
+        - {x: -31, y: -103.5}
+        - {x: -28, y: -104.5}
+        - {x: 34, y: -104.5}
+        - {x: 38, y: -102.5}
+        - {x: 40, y: -94.5}
+        - {x: 40, y: -59.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: owarenadep
+  assetBundleVariant: 

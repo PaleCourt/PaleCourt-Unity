@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: ebac78edfded1064385466e22c9450de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ze'mer_fixed_arrive_bow_draw_walk__0
+  - first:
+      213: 21300002
+    second: Ze'mer_fixed_arrive_bow_draw_walk__1
+  - first:
+      213: 21300004
+    second: Ze'mer_fixed_arrive_bow_draw_walk__2
+  - first:
+      213: 21300006
+    second: Ze'mer_fixed_arrive_bow_draw_walk__3
+  - first:
+      213: 21300008
+    second: Ze'mer_fixed_arrive_bow_draw_walk__4
+  - first:
+      213: 21300010
+    second: Ze'mer_fixed_arrive_bow_draw_walk__5
+  - first:
+      213: 21300012
+    second: Ze'mer_fixed_arrive_bow_draw_walk__6
+  - first:
+      213: 21300014
+    second: Ze'mer_fixed_arrive_bow_draw_walk__7
+  - first:
+      213: 21300016
+    second: Ze'mer_fixed_arrive_bow_draw_walk__8
+  - first:
+      213: 21300018
+    second: Ze'mer_fixed_arrive_bow_draw_walk__9
+  - first:
+      213: 21300020
+    second: Ze'mer_fixed_arrive_bow_draw_walk__10
+  - first:
+      213: 21300022
+    second: Ze'mer_fixed_arrive_bow_draw_walk__11
+  - first:
+      213: 21300024
+    second: Ze'mer_fixed_arrive_bow_draw_walk__12
+  - first:
+      213: 21300026
+    second: Ze'mer_fixed_arrive_bow_draw_walk__13
+  - first:
+      213: 21300028
+    second: Ze'mer_fixed_arrive_bow_draw_walk__14
+  - first:
+      213: 21300030
+    second: Ze'mer_fixed_arrive_bow_draw_walk__15
+  - first:
+      213: 21300032
+    second: Ze'mer_fixed_arrive_bow_draw_walk__16
+  - first:
+      213: 21300034
+    second: Ze'mer_fixed_arrive_bow_draw_walk__17
+  - first:
+      213: 21300036
+    second: Ze'mer_fixed_arrive_bow_draw_walk__18
+  - first:
+      213: 21300038
+    second: Ze'mer_fixed_arrive_bow_draw_walk__19
+  - first:
+      213: 21300040
+    second: Ze'mer_fixed_arrive_bow_draw_walk__20
+  - first:
+      213: 21300042
+    second: Ze'mer_fixed_arrive_bow_draw_walk__21
+  - first:
+      213: 21300044
+    second: Ze'mer_fixed_arrive_bow_draw_walk__22
+  - first:
+      213: 21300046
+    second: Ze'mer_fixed_arrive_bow_draw_walk__23
+  - first:
+      213: 21300048
+    second: Ze'mer_fixed_arrive_bow_draw_walk__24
+  - first:
+      213: 21300050
+    second: Ze'mer_fixed_arrive_bow_draw_walk__25
+  - first:
+      213: 21300052
+    second: Ze'mer_fixed_arrive_bow_draw_walk__26
+  - first:
+      213: 21300054
+    second: Ze'mer_fixed_arrive_bow_draw_walk__27
+  - first:
+      213: 21300056
+    second: Ze'mer_fixed_arrive_bow_draw_walk__28
+  - first:
+      213: 21300058
+    second: Ze'mer_fixed_arrive_bow_draw_walk__29
+  - first:
+      213: 21300060
+    second: Ze'mer_fixed_arrive_bow_draw_walk__30
+  - first:
+      213: 21300062
+    second: Ze'mer_fixed_arrive_bow_draw_walk__31
+  - first:
+      213: 21300064
+    second: Ze'mer_fixed_arrive_bow_draw_walk__32
+  - first:
+      213: 21300066
+    second: Ze'mer_fixed_arrive_bow_draw_walk__33
+  - first:
+      213: 21300068
+    second: Ze'mer_fixed_arrive_bow_draw_walk__34
+  - first:
+      213: 21300070
+    second: Ze'mer_fixed_arrive_bow_draw_walk__35
+  - first:
+      213: 21300072
+    second: Ze'mer_fixed_arrive_bow_draw_walk__36
+  - first:
+      213: 21300074
+    second: Ze'mer_fixed_arrive_bow_draw_walk__37
+  - first:
+      213: 21300076
+    second: Ze'mer_fixed_arrive_bow_draw_walk__38
+  - first:
+      213: 21300078
+    second: Ze'mer_fixed_arrive_bow_draw_walk__39
+  - first:
+      213: 21300080
+    second: Ze'mer_fixed_arrive_bow_draw_walk__40
+  - first:
+      213: 21300082
+    second: Ze'mer_fixed_arrive_bow_draw_walk__41
+  - first:
+      213: 21300084
+    second: Ze'mer_fixed_arrive_bow_draw_walk__42
+  - first:
+      213: 21300086
+    second: Ze'mer_fixed_arrive_bow_draw_walk__43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 0
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4739
+        width: 285
+        height: 790
+      alignment: 9
+      pivot: {x: 0.39332458, y: 0.367779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__1
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 4745
+        width: 437
+        height: 753
+      alignment: 9
+      pivot: {x: 0.46664268, y: 0.36573693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__2
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 4737
+        width: 440
+        height: 761
+      alignment: 9
+      pivot: {x: 0.45737055, y: 0.36786827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__3
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 4733
+        width: 422
+        height: 758
+      alignment: 9
+      pivot: {x: 0.49515074, y: 0.37041673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__4
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 4713
+        width: 436
+        height: 769
+      alignment: 9
+      pivot: {x: 0.47653338, y: 0.4042029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__5
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 4740
+        width: 377
+        height: 706
+      alignment: 9
+      pivot: {x: 0.48914447, y: 0.39275587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__6
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 4732
+        width: 351
+        height: 709
+      alignment: 9
+      pivot: {x: 0.43558443, y: 0.39120007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3959
+        width: 407
+        height: 723
+      alignment: 9
+      pivot: {x: 0.51168543, y: 0.35089388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__8
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3952
+        width: 375
+        height: 714
+      alignment: 9
+      pivot: {x: 0.43658593, y: 0.36455736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__9
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3946
+        width: 402
+        height: 729
+      alignment: 9
+      pivot: {x: 0.40929598, y: 0.36734423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__10
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 3933
+        width: 407
+        height: 715
+      alignment: 9
+      pivot: {x: 0.46192485, y: 0.38407317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__11
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3927
+        width: 549
+        height: 634
+      alignment: 9
+      pivot: {x: 0.45547792, y: 0.44134927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__12
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 3919
+        width: 538
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5032401, y: 0.43765852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__13
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 3957
+        width: 493
+        height: 589
+      alignment: 9
+      pivot: {x: 0.50844437, y: 0.4195563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3159
+        width: 475
+        height: 693
+      alignment: 9
+      pivot: {x: 0.46736503, y: 0.36771348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__15
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3148
+        width: 435
+        height: 728
+      alignment: 9
+      pivot: {x: 0.4387861, y: 0.3804375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__16
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 3156
+        width: 532
+        height: 745
+      alignment: 9
+      pivot: {x: 0.3789127, y: 0.34788105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__17
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 3151
+        width: 619
+        height: 721
+      alignment: 9
+      pivot: {x: 0.34967878, y: 0.37094477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__18
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 3145
+        width: 545
+        height: 727
+      alignment: 9
+      pivot: {x: 0.37304553, y: 0.37200987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__19
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 3150
+        width: 561
+        height: 740
+      alignment: 9
+      pivot: {x: 0.36390793, y: 0.3597498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__20
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 3153
+        width: 477
+        height: 706
+      alignment: 9
+      pivot: {x: 0.36938322, y: 0.37119713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2352
+        width: 564
+        height: 716
+      alignment: 9
+      pivot: {x: 0.4670322, y: 0.38084778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__22
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2365
+        width: 516
+        height: 712
+      alignment: 9
+      pivot: {x: 0.466724, y: 0.36643553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__23
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2366
+        width: 487
+        height: 709
+      alignment: 9
+      pivot: {x: 0.45789477, y: 0.36400712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__24
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2352
+        width: 520
+        height: 737
+      alignment: 9
+      pivot: {x: 0.45672795, y: 0.3684814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__25
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 2357
+        width: 512
+        height: 730
+      alignment: 9
+      pivot: {x: 0.4693818, y: 0.36542633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__26
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 2364
+        width: 522
+        height: 703
+      alignment: 9
+      pivot: {x: 0.4519492, y: 0.37215054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__27
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 2353
+        width: 496
+        height: 721
+      alignment: 9
+      pivot: {x: 0.45575148, y: 0.37534234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1568
+        width: 518
+        height: 710
+      alignment: 9
+      pivot: {x: 0.43728173, y: 0.3705702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__29
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1584
+        width: 500
+        height: 691
+      alignment: 9
+      pivot: {x: 0.44491798, y: 0.35976347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__30
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1587
+        width: 517
+        height: 688
+      alignment: 9
+      pivot: {x: 0.40529633, y: 0.35470402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__31
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1579
+        width: 542
+        height: 700
+      alignment: 9
+      pivot: {x: 0.41154632, y: 0.3615665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__32
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1580
+        width: 543
+        height: 690
+      alignment: 9
+      pivot: {x: 0.40983072, y: 0.36547357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__33
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 1578
+        width: 466
+        height: 705
+      alignment: 9
+      pivot: {x: 0.34722245, y: 0.35894126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__34
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1569
+        width: 523
+        height: 716
+      alignment: 9
+      pivot: {x: 0.40492707, y: 0.36742157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 772
+        width: 539
+        height: 715
+      alignment: 9
+      pivot: {x: 0.42352545, y: 0.37509203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__36
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 779
+        width: 495
+        height: 729
+      alignment: 9
+      pivot: {x: 0.40053588, y: 0.36178443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__37
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 779
+        width: 533
+        height: 726
+      alignment: 9
+      pivot: {x: 0.40547886, y: 0.36279044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__38
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 779
+        width: 497
+        height: 706
+      alignment: 9
+      pivot: {x: 0.38941708, y: 0.36863437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__39
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 769
+        width: 522
+        height: 730
+      alignment: 9
+      pivot: {x: 0.42322806, y: 0.3713847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__40
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 789
+        width: 506
+        height: 706
+      alignment: 9
+      pivot: {x: 0.40496078, y: 0.3556598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__41
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 779
+        width: 520
+        height: 719
+      alignment: 9
+      pivot: {x: 0.39871168, y: 0.36463946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 473
+        height: 693
+      alignment: 9
+      pivot: {x: 0.3537073, y: 0.35946953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ze'mer_fixed_arrive_bow_draw_walk__43
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 560
+        height: 707
+      alignment: 9
+      pivot: {x: 0.39931706, y: 0.3495649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1942596145939545}
+  m_IsPrefabParent: 1
+--- !u!1 &1942596145939545
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4905349521144694}
+  - component: {fileID: 114888883584079144}
+  m_Layer: 0
+  m_Name: White Defender Anim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4905349521144694
+Transform:
+  m_GameObject: {fileID: 1942596145939545}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114888883584079144
+MonoBehaviour:
+  m_GameObject: {fileID: 1942596145939545}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05396f6cbd199a408220d85dcd12130, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  clips:
+  - name: Antic
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 11
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Antic R
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 11
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Back Roll
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 13
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 14
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Ball Idle
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 71
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Ball Burst
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 60
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 62
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 67
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 101
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Burrow Effect
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 17
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 18
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 20
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 16
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 19
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 15
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 2
+    wrapMode: 1
+  - name: Burrow End
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 18
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 17
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 18
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Dive Attack
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 35
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 30
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 38
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 40
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 37
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 33
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 0
+  - name: Dive In 1
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 30
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 38
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 40
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Dive In 2
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 37
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 33
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Dolphin Dive
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 40
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 32
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 37
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 33
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 36
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 36
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 35
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 30
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 38
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Dolphin Antic
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 31
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 34
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 39
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 30
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 38
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Erupt Up
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 74
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 30
+    loopStart: 0
+    wrapMode: 6
+  - name: Erupt Down
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 75
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 73
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 72
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 76
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 0
+  - name: Evade Ball
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 90
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 87
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 86
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 0
+  - name: Evade
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 13
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 14
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Idle
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 81
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 78
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 80
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 77
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 79
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 0
+  - name: Roar
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 85
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 84
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 82
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 83
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 1
+    wrapMode: 1
+  - name: Roll
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 88
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 93
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 89
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 91
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 92
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 86
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 87
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 90
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 5
+    wrapMode: 1
+  - name: Roll End
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 91
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 11
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Stun
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 97
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 100
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 98
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 3
+  - name: Stun Air
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 99
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 96
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Stun Recover
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 96
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 99
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 11
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Throw 1
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 65
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Throw 2
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 66
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 54
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 70
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: TurnToIdle
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 94
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 95
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 81
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 78
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 80
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 77
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 79
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 2
+    wrapMode: 1
+  - name: Throw Antic 1
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 10
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Throw Antic 2
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 58
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 53
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 56
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 59
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 64
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 61
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 22
+    loopStart: 0
+    wrapMode: 2
+  - name: Throw Antic 3
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 55
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 68
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 63
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 57
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Ground Slam Antic
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 45
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 46
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 49
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 43
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 43
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 43
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 43
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Ground Slam
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 47
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 41
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Ground Slam Recover
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 46
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 49
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 45
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 81
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 78
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 80
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 77
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 79
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 3
+    wrapMode: 1
+  - name: Dung Pillar Up
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 44
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 42
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Dung Pillar Idle
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 51
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 48
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Dung Pillar Break
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 50
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 52
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 15
+    loopStart: 0
+    wrapMode: 2
+  - name: Air Dive Antic
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 9
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 9
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 7
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 7
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 3
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 3
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 3
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 5
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 2
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 1
+    wrapMode: 2
+  - name: Air Dive
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 1
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 20
+    loopStart: 0
+    wrapMode: 2
+  - name: Death Land
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 0
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 106
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 105
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 8
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 102
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 103
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 34
+    wrapMode: 1
+  - name: Death End
+    frames:
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 8
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 105
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 6
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 114906900671777878, guid: a7c9ca48fa1acc841b45b552a46cdc74, type: 2}
+      spriteId: 4
+      triggerEvent: 0
+      eventInfo:
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2

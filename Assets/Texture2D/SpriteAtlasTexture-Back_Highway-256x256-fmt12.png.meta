@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: 1e5ddfc54e38a434691072dd11b52a6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: bg_highway_bridge_0004_1
+  - first:
+      213: 21300002
+    second: bg_highway_bridge_0000_5
+  - first:
+      213: 21300004
+    second: bg_highway_bridge_0001_4
+  - first:
+      213: 21300006
+    second: bg_highway_bridge_0003_2
+  - first:
+      213: 21300008
+    second: bg_highway_bridge_0002_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8.64135
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_highway_bridge_0004_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 32
+        height: 12.55696
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -6.278481}
+        - {x: -16, y: 6.278481}
+        - {x: 16, y: 6.278481}
+        - {x: 16, y: -6.278481}
+      physicsShape:
+      - - {x: -1, y: 2.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -6.5}
+        - {x: 2, y: -6.5}
+        - {x: 2, y: -0.5}
+        - {x: 1, y: 1.5}
+      - - {x: 5, y: 6.5}
+        - {x: 4, y: 5.5}
+        - {x: 4, y: -6.5}
+        - {x: 14, y: -6.5}
+        - {x: 16, y: -3.5}
+        - {x: 16, y: 6.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_highway_bridge_0000_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4990234, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.25, y: -56}
+        - {x: -128.25, y: -29}
+        - {x: -128.25, y: 56}
+        - {x: 127.75, y: 56}
+        - {x: 127.75, y: 16}
+        - {x: 114.75, y: -49}
+        - {x: 111.75, y: -56}
+        - {x: -72.25, y: -56}
+        - {x: -78.25, y: -51}
+        - {x: -78.25, y: -56}
+      physicsShape:
+      - - {x: -84.25, y: 8}
+        - {x: -80.25, y: 16}
+        - {x: -70.25, y: 27}
+        - {x: -54.25, y: 24}
+        - {x: -44.25, y: 10}
+        - {x: -42.25, y: 9}
+        - {x: -42.25, y: -45}
+        - {x: -45.25, y: -46}
+        - {x: -49.25, y: -55}
+        - {x: -47.25, y: -56}
+        - {x: -18.25, y: -56}
+        - {x: -17.25, y: -55}
+        - {x: -17.25, y: -52}
+        - {x: -21.25, y: -45}
+        - {x: -21.25, y: 10}
+        - {x: -17.25, y: 18}
+        - {x: -7.25, y: 27}
+        - {x: 0.75, y: 27}
+        - {x: 11.75, y: 22}
+        - {x: 14.75, y: 15}
+        - {x: 19.75, y: 10}
+        - {x: 19.75, y: -44}
+        - {x: 14.75, y: -51}
+        - {x: 14.75, y: -55}
+        - {x: 15.75, y: -56}
+        - {x: 43.75, y: -56}
+        - {x: 44.75, y: -55}
+        - {x: 44.75, y: -51}
+        - {x: 40.75, y: -37}
+        - {x: 40.75, y: -35}
+        - {x: 41.75, y: -18}
+        - {x: 41.75, y: -1}
+        - {x: 39.75, y: 10}
+        - {x: 44.75, y: 16}
+        - {x: 44.75, y: 21}
+        - {x: 68.75, y: 26}
+        - {x: 77.75, y: 13}
+        - {x: 81.75, y: 10}
+        - {x: 81.75, y: -44}
+        - {x: 76.75, y: -49}
+        - {x: 75.75, y: -56}
+        - {x: 106.75, y: -56}
+        - {x: 108.75, y: -55}
+        - {x: 103.75, y: -45}
+        - {x: 102.75, y: 7}
+        - {x: 106.75, y: 16}
+        - {x: 110.75, y: 24}
+        - {x: 124.75, y: 27}
+        - {x: 127.75, y: 32}
+        - {x: 127.75, y: 49}
+        - {x: 126.75, y: 55}
+        - {x: 125.75, y: 56}
+        - {x: -128.25, y: 56}
+        - {x: -128.25, y: 31}
+        - {x: -126.25, y: 27}
+        - {x: -112.25, y: 21}
+        - {x: -110.25, y: 16}
+        - {x: -104.25, y: 9}
+        - {x: -105.25, y: -7}
+        - {x: -106.25, y: -27}
+        - {x: -105.25, y: -44}
+        - {x: -112.25, y: -51}
+        - {x: -110.25, y: -56}
+        - {x: -80.25, y: -56}
+        - {x: -79.25, y: -55}
+        - {x: -79.25, y: -52}
+        - {x: -84.25, y: -46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_highway_bridge_0001_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 7
+        height: 30.1
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -15.05}
+        - {x: -3.5, y: 15.05}
+        - {x: 3.5, y: 15.05}
+        - {x: 3.5, y: -15.05}
+      physicsShape:
+      - - {x: -0.5, y: 15.5}
+        - {x: -3.5, y: 14.5}
+        - {x: -3.5, y: -15.5}
+        - {x: 3.5, y: -15.5}
+        - {x: 3.5, y: 13.5}
+        - {x: 2.5, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_highway_bridge_0003_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 114
+        width: 31.30435
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.65217, y: -10}
+        - {x: -15.65217, y: 10}
+        - {x: 15.65217, y: 10}
+        - {x: 15.65217, y: -10}
+      physicsShape:
+      - - {x: -12, y: 10}
+        - {x: -16, y: 7.000001}
+        - {x: -16, y: -10}
+        - {x: -2, y: -10}
+        - {x: -2, y: 4}
+        - {x: -3, y: 10}
+      - - {x: 2, y: 3}
+        - {x: 0, y: 1}
+        - {x: 0, y: -7.000001}
+        - {x: 1, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_highway_bridge_0002_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 31.76471
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.88235, y: -10}
+        - {x: -15.88235, y: 10}
+        - {x: 15.88235, y: 10}
+        - {x: 15.88235, y: -10}
+      physicsShape:
+      - - {x: -11, y: 10}
+        - {x: -16, y: 5}
+        - {x: -16, y: -8}
+        - {x: -15, y: -10}
+        - {x: 16, y: -10}
+        - {x: 16, y: 9}
+        - {x: 15, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: owarenadep
+  assetBundleVariant: 

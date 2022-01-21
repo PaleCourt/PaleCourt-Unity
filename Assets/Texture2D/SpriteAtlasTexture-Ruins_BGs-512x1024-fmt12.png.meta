@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: c3af6c0ba8016bd44b9ada7030d377ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ruin_layered_0050_p
+  - first:
+      213: 21300002
+    second: ruin_layered_0028_Layer-54
+  - first:
+      213: 21300004
+    second: ruin_layered_0027_Layer-53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruin_layered_0050_p
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 258
+        width: 32
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -153}
+        - {x: -16, y: -139}
+        - {x: -16, y: 152}
+        - {x: -15, y: 153}
+        - {x: 16, y: 153}
+        - {x: 16, y: -153}
+      physicsShape:
+      - - {x: -16, y: -135}
+        - {x: -9, y: -150}
+        - {x: 1, y: -153}
+        - {x: 16, y: -153}
+        - {x: 16, y: 152}
+        - {x: -16, y: 152}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruin_layered_0028_Layer-54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 349
+        height: 710
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167.5, y: -179}
+        - {x: 157.5, y: -195}
+        - {x: 154.5, y: -205}
+        - {x: 151.5, y: -214}
+        - {x: 148.5, y: -216}
+        - {x: 143.5, y: -217}
+        - {x: 137.5, y: -236}
+        - {x: 129.5, y: -252}
+        - {x: 128.5, y: -261}
+        - {x: 122.5, y: -279}
+        - {x: 110.5, y: -301}
+        - {x: 96.5, y: -322}
+        - {x: 80.5, y: -344}
+        - {x: 71.5, y: -352}
+        - {x: 65.5, y: -355}
+        - {x: 57.5, y: -355}
+        - {x: 47.5, y: -349}
+        - {x: 34.5, y: -332}
+        - {x: 22.5, y: -313}
+        - {x: 8.5, y: -295}
+        - {x: -40.5, y: -242}
+        - {x: -63.5, y: -218}
+        - {x: -86.5, y: -198}
+        - {x: -164.5, y: -135}
+        - {x: -174.5, y: -121}
+        - {x: -174.5, y: 182}
+        - {x: -173.5, y: 198}
+        - {x: -171.5, y: 231}
+        - {x: -169.5, y: 262}
+        - {x: -166.5, y: 295}
+        - {x: -162.5, y: 330}
+        - {x: -160.5, y: 345}
+        - {x: -159.5, y: 353}
+        - {x: -155.5, y: 355}
+        - {x: -136.5, y: 355}
+        - {x: -112.5, y: 344}
+        - {x: -100.5, y: 336}
+        - {x: -76.5, y: 319}
+        - {x: -52.5, y: 304}
+        - {x: -28.5, y: 292}
+        - {x: 2.5, y: 273}
+        - {x: 16.5, y: 260}
+        - {x: 38.5, y: 238}
+        - {x: 59.5, y: 214}
+        - {x: 74.5, y: 197}
+        - {x: 85.5, y: 182}
+        - {x: 101.5, y: 159}
+        - {x: 111.5, y: 143}
+        - {x: 119.5, y: 127}
+        - {x: 132.5, y: 96}
+        - {x: 143.5, y: 62}
+        - {x: 148.5, y: 38}
+        - {x: 156.5, y: 46}
+        - {x: 166.5, y: 46}
+        - {x: 169.5, y: 45}
+        - {x: 174.5, y: 39}
+        - {x: 174.5, y: -125}
+        - {x: 169.5, y: -128}
+        - {x: 164.5, y: -164}
+        - {x: 166.5, y: -164}
+      physicsShape:
+      - - {x: 107.5, y: -302}
+        - {x: 121.5, y: -277}
+        - {x: 123.5, y: -270}
+        - {x: 128.5, y: -249}
+        - {x: 134.5, y: -238}
+        - {x: 142.5, y: -216}
+        - {x: 149.5, y: -213}
+        - {x: 155.5, y: -192}
+        - {x: 159.5, y: -183}
+        - {x: 164.5, y: -177}
+        - {x: 162.5, y: -157}
+        - {x: 161.5, y: -117}
+        - {x: 162.5, y: -106}
+        - {x: 170.5, y: -107}
+        - {x: 172.5, y: -103}
+        - {x: 172.5, y: -70}
+        - {x: 171.5, y: -69}
+        - {x: 171.5, y: 38}
+        - {x: 168.5, y: 43}
+        - {x: 160.5, y: 45}
+        - {x: 156.5, y: 41}
+        - {x: 150.5, y: 31}
+        - {x: 144.5, y: 47}
+        - {x: 141.5, y: 58}
+        - {x: 135.5, y: 79}
+        - {x: 129.5, y: 98}
+        - {x: 117.5, y: 126}
+        - {x: 105.5, y: 149}
+        - {x: 79.5, y: 187}
+        - {x: 73.5, y: 195}
+        - {x: 37.5, y: 237}
+        - {x: 27.5, y: 248}
+        - {x: -6.5, y: 276}
+        - {x: -14.5, y: 281}
+        - {x: -64.5, y: 309}
+        - {x: -91.5, y: 326}
+        - {x: -111.5, y: 342}
+        - {x: -139.5, y: 355}
+        - {x: -151.5, y: 355}
+        - {x: -153.5, y: 354}
+        - {x: -157.5, y: 349}
+        - {x: -159.5, y: 324}
+        - {x: -163.5, y: 283}
+        - {x: -164.5, y: 272}
+        - {x: -166.5, y: 247}
+        - {x: -167.5, y: 233}
+        - {x: -169.5, y: 198}
+        - {x: -170.5, y: 176}
+        - {x: -171.5, y: 151}
+        - {x: -172.5, y: 117}
+        - {x: -172.5, y: 65}
+        - {x: -173.5, y: 64}
+        - {x: -174.5, y: 36}
+        - {x: -174.5, y: -86}
+        - {x: -173.5, y: -97}
+        - {x: -172.5, y: -121}
+        - {x: -163.5, y: -134}
+        - {x: -147.5, y: -146}
+        - {x: -124.5, y: -165}
+        - {x: -104.5, y: -180}
+        - {x: -91.5, y: -191}
+        - {x: -63.5, y: -215}
+        - {x: -62.5, y: -215}
+        - {x: -37.5, y: -241}
+        - {x: -22.5, y: -257}
+        - {x: 8.5, y: -291}
+        - {x: 7.5, y: -293}
+        - {x: 31.5, y: -322}
+        - {x: 43.5, y: -341}
+        - {x: 56.5, y: -352}
+        - {x: 69.5, y: -352}
+        - {x: 81.5, y: -340}
+        - {x: 86.5, y: -331}
+        - {x: 99.5, y: -315}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruin_layered_0027_Layer-53
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 59
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4957705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.25046, y: 55}
+        - {x: 26.25046, y: 57}
+        - {x: 26.25046, y: 63}
+        - {x: 29.25046, y: 64}
+        - {x: 29.25046, y: 55}
+      - - {x: -26.74954, y: -116}
+        - {x: -29.74954, y: -46}
+        - {x: -29.74954, y: 128}
+        - {x: 26.25046, y: 128}
+        - {x: 26.25046, y: 73}
+        - {x: 20.25046, y: -123}
+        - {x: 18.25046, y: -128}
+        - {x: 6.250458, y: -128}
+      physicsShape:
+      - - {x: 23.25046, y: 115}
+        - {x: 23.25046, y: 117}
+        - {x: 24.25046, y: 121}
+        - {x: 24.25046, y: 128}
+        - {x: -29.74954, y: 128}
+        - {x: -29.74954, y: 114}
+        - {x: -25.74954, y: 110}
+        - {x: -24.74954, y: 70}
+        - {x: -26.74954, y: 0}
+        - {x: -24.74954, y: -115}
+        - {x: -1.749542, y: -125}
+        - {x: 5.250458, y: -128}
+        - {x: 18.25046, y: -128}
+        - {x: 19.25046, y: -125}
+        - {x: 19.25046, y: -11}
+        - {x: 18.25046, y: 110}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: owarenadep
+  assetBundleVariant: 

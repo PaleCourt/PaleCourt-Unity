@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: fbc8357309a4c00419eb92e61cdc0ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8302281158365833904
+    second: isma_newhip_whip_0
+  - first:
+      213: -5644130957469144374
+    second: isma_newhip_whip_1
+  - first:
+      213: 2533305049663658088
+    second: isma_newhip_whip_2
+  - first:
+      213: -5939278361570232283
+    second: isma_newhip_whip_3
+  - first:
+      213: 982740806280835980
+    second: isma_newhip_whip_4
+  - first:
+      213: 3309302233092831447
+    second: isma_newhip_whip_5
+  - first:
+      213: 2995389499362778518
+    second: isma_newhip_whip_6
+  - first:
+      213: 3029731953298262722
+    second: isma_newhip_whip_7
+  - first:
+      213: 4760549052013510716
+    second: isma_newhip_whip_8
+  - first:
+      213: -6654617764553456860
+    second: isma_newhip_whip_9
+  - first:
+      213: 611435082684603657
+    second: isma_newhip_whip_10
+  - first:
+      213: 8243244622209894602
+    second: isma_newhip_whip_11
+  - first:
+      213: -7132868130037856201
+    second: isma_newhip_whip_12
+  - first:
+      213: -5170222146439511592
+    second: isma_newhip_whip_13
+  - first:
+      213: 385399773219250721
+    second: isma_newhip_whip_14
+  - first:
+      213: -7402339462347659994
+    second: isma_newhip_whip_15
+  - first:
+      213: 3498356446004644888
+    second: isma_newhip_whip_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isma_newhip_whip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7392
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.08787277, y: 0.3164443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba60d5e9b0a73370800000000000000
+      internalID: 8302281158365833904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6930
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.046151247, y: 0.17043446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca244e4cc40ca1b0800000000000000
+      internalID: -5644130957469144374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6468
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.19472057, y: 0.3790204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d7e8458b182320800000000000000
+      internalID: 2533305049663658088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6006
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.15055132, y: 0.28932565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528317c3cc1739da0800000000000000
+      internalID: -5939278361570232283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5544
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.14027342, y: 0.24367982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8376a87e8563ad00800000000000000
+      internalID: 982740806280835980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5082
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.18481101, y: 0.39466336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8b7e9f8d00ded20800000000000000
+      internalID: 3309302233092831447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4620
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.19851486, y: 0.49297804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d147121e2c19920800000000000000
+      internalID: 2995389499362778518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4158
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.17881556, y: 0.3806184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4ef8c825cb0a20800000000000000
+      internalID: 3029731953298262722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.13770396, y: 0.31741557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30861de32ed01240800000000000000
+      internalID: 4760549052013510716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3234
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.15055132, y: 0.30337062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42389cb966c06a3a0800000000000000
+      internalID: -6654617764553456860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2772
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.1522643, y: 0.34901646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d90aad7f04c7800800000000000000
+      internalID: 611435082684603657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2310
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.10173128, y: 0.4016853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8487f2f43e56270800000000000000
+      internalID: 8243244622209894602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.15911624, y: 0.42977497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738836f2a36f20d90800000000000000
+      internalID: -7132868130037856201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.15055132, y: 0.5912922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d18d9fc95eaf38b0800000000000000
+      internalID: -5170222146439511592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.111152686, y: 0.46137664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ef334d07395500800000000000000
+      internalID: 385399773219250721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.111152686, y: 0.38061735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62569ef6a7b954990800000000000000
+      internalID: -7402339462347659994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_newhip_whip_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1894
+        height: 462
+      alignment: 9
+      pivot: {x: 0.11372217, y: 0.35603905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c0ecd07a8ac8030800000000000000
+      internalID: 3498356446004644888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

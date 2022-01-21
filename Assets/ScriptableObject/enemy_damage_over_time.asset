@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d056b82ce065de4e80eca20c6680a63, type: 3}
+  m_Name: enemy_damage_over_time
+  m_EditorClassIdentifier:
+  options:
+  - Clip: {fileID: 8300000, guid: 5d47c0a0e32fb9449ba96910c2011ddc, type: 3}
+    Weight: 1
+  pitchMin: 0.85
+  pitchMax: 1.15

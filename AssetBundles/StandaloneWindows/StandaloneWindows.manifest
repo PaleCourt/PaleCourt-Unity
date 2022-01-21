@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1449449259
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ismawin
+      Dependencies:
+        Dependency_0: zemerwin
+    Info_1:
+      Name: hub
+      Dependencies: {}
+    Info_2:
+      Name: arena
+      Dependencies: {}
+    Info_3:
+      Name: zemerwin
+      Dependencies: {}

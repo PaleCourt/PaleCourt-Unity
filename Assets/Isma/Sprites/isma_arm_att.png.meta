@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 9752249386950304b826773b4897e597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6750060485364724276
+    second: isma_arm_att_0
+  - first:
+      213: -8875505769184659241
+    second: isma_arm_att_1
+  - first:
+      213: -1017295088325992293
+    second: isma_arm_att_2
+  - first:
+      213: 7461721070016224761
+    second: isma_arm_att_3
+  - first:
+      213: -5752375328465240416
+    second: isma_arm_att_4
+  - first:
+      213: 5595081138482031728
+    second: isma_arm_att_5
+  - first:
+      213: 6876780840785619019
+    second: isma_arm_att_6
+  - first:
+      213: 9081533251368460540
+    second: isma_arm_att_7
+  - first:
+      213: 6363487121924048721
+    second: isma_arm_att_8
+  - first:
+      213: 6151579903963121324
+    second: isma_arm_att_9
+  - first:
+      213: 2236330460908959828
+    second: isma_arm_att_10
+  - first:
+      213: 4576634453135832881
+    second: isma_arm_att_11
+  - first:
+      213: 4713434044949188965
+    second: isma_arm_att_12
+  - first:
+      213: -7925522580646456817
+    second: isma_arm_att_13
+  - first:
+      213: -4355927844131013836
+    second: isma_arm_att_14
+  - first:
+      213: 2052049077272270987
+    second: isma_arm_att_15
+  - first:
+      213: -3094023347972107859
+    second: isma_arm_att_16
+  - first:
+      213: -1151380381730118517
+    second: isma_arm_att_17
+  - first:
+      213: 5471054173279639959
+    second: isma_arm_att_18
+  - first:
+      213: -4507270041568173686
+    second: isma_arm_att_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: isma_arm_att_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1497
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.012012596, y: 0.4366208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b0928f380dad50800000000000000
+      internalID: 6750060485364724276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_1
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1497
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.055332903, y: 0.50685304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d871d1078ed3d480800000000000000
+      internalID: -8875505769184659241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_2
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1497
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.07886884, y: 0.4901595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90649cc187d1e1f0800000000000000
+      internalID: -1017295088325992293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_3
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 1497
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.07832456, y: 0.49262905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5d5f77cb5d8760800000000000000
+      internalID: 7461721070016224761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_4
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 1497
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.07473147, y: 0.49505407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aebb1cbd157b20b0800000000000000
+      internalID: -5752375328465240416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.07343948, y: 0.49507365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca5b4c6a8b5ad40800000000000000
+      internalID: 5595081138482031728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_6
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 998
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.07383522, y: 0.4912151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482d3d6dbb3f6f50800000000000000
+      internalID: 6876780840785619019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_7
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 998
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.078754686, y: 0.50456554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf027b74066180e70800000000000000
+      internalID: 9081533251368460540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_8
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 998
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.081231415, y: 0.50063163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574e0b72d5af4850800000000000000
+      internalID: 6363487121924048721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_9
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 998
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.08147663, y: 0.50018346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64727845dce5550800000000000000
+      internalID: 6151579903963121324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.080485165, y: 0.5010862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583dd2a4ba090f10800000000000000
+      internalID: 2236330460908959828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_11
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.080710635, y: 0.50157875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137b9fd79c8738f30800000000000000
+      internalID: 4576634453135832881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_12
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.080863185, y: 0.5012991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561dd618a4b796140800000000000000
+      internalID: 4713434044949188965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_13
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.081114314, y: 0.50189406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021b314433e20290800000000000000
+      internalID: -7925522580646456817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_14
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.08450328, y: 0.50033903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b765754b2ac83c0800000000000000
+      internalID: -4355927844131013836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.08667456, y: 0.49470386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885b7873c75a7c10800000000000000
+      internalID: 2052049077272270987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_16
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 0
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.08920634, y: 0.50173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da19b596822df05d0800000000000000
+      internalID: -3094023347972107859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_17
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 0
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.089570336, y: 0.48388478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846f91a4a97500f0800000000000000
+      internalID: -1151380381730118517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_18
+      rect:
+        serializedVersion: 2
+        x: 7272
+        y: 0
+        width: 1818
+        height: 499
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995041a8c61deb40800000000000000
+      internalID: 5471054173279639959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_arm_att_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499
+        width: 1818
+        height: 499
+      alignment: 9
+      pivot: {x: 0.081625514, y: 0.4822812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a19917c5f271c0800000000000000
+      internalID: -4507270041568173686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ismawin
+  assetBundleVariant: 

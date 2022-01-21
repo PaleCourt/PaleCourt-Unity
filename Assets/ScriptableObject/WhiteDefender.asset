@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff729d6884d25f40b9f75da5af26f1a, type: 3}
+  m_Name: WhiteDefender
+  m_EditorClassIdentifier:
+  originalMusicEventName: WHITE DEFENDER
+  originalMusicTrackNumber: 38
+  snapshot: {fileID: 0, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  channelInfos:
+  - clip: {fileID: 8300000, guid: cbd1a0cac7b6308478e7d032d26bc514, type: 3}
+    sync: 0
+  - clip: {fileID: 0}
+    sync: 2
+  - clip: {fileID: 0}
+    sync: 2
+  - clip: {fileID: 0}
+    sync: 2
+  - clip: {fileID: 0}
+    sync: 2
+  - clip: {fileID: 0}
+    sync: 2
+  alternatives: []
