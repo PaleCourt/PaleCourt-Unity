@@ -24561,7 +24561,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 4ccd05c7cde4dd64c83080b4a60ca34b, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -39797,7 +39796,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: fabfedb7153bcec4d9c81843ab77b6f3, type: 2}
-  - {fileID: 2100000, guid: fabfedb7153bcec4d9c81843ab77b6f3, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -45951,7 +45949,6 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0dc4433ec5e1ebb4799c075bfbcd388b, type: 2}
   - {fileID: 2100000, guid: 0dc4433ec5e1ebb4799c075bfbcd388b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -66665,7 +66662,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 88f51b09d58084046bcd97bc90349b63, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -85506,7 +85502,7 @@ EdgeCollider2D:
   - {x: 50, y: 0}
   - {x: 50, y: 32}
   - {x: 37, y: 32}
-  - {x: 37, y: 6.0662975}
+  - {x: 37, y: 6}
   - {x: 0, y: 6}
   - {x: 0, y: 0}
   m_AdjacentStartPoint: {x: 0, y: 0}
@@ -99914,7 +99910,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 4ccd05c7cde4dd64c83080b4a60ca34b, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -114621,7 +114616,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 88f51b09d58084046bcd97bc90349b63, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
