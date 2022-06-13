@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4119637549258624434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6881268534207307185}
+  - component: {fileID: 2240006232787702209}
+  m_Layer: 0
+  m_Name: DryyaSilhouetteSpriteCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6881268534207307185
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4119637549258624434}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2240006232787702209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4119637549258624434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  materialIdsValid: 1
+  needMaterialInstance: 0
+  spriteDefinitions:
+  - name: Yeet 0
+    boundsData:
+    - {x: -0.18499999, y: -0.425, z: 0}
+    - {x: 0.9499999, y: 1.7099999, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 2.56, y: 2.56, z: 0}
+    texelSize: {x: 0.01, y: 0.01}
+    positions:
+    - {x: -0.65999997, y: -1.28, z: 0}
+    - {x: 0.29, y: -1.28, z: 0}
+    - {x: -0.65999997, y: 0.42999998, z: 0}
+    - {x: 0.29, y: 0.42999998, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.38672265, y: 0.007816406}
+    - {x: 0.75780857, y: 0.007816406}
+    - {x: 0.38672265, y: 0.6757773}
+    - {x: 0.75780857, y: 0.6757773}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 1, y: 0}
+    - {x: 0, y: 1}
+    - {x: 1, y: 1}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 3a378492c6ac3a046a88365abcae1a18, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: 98fc6a1a667f0e3498f1e04762a488e8
+    extractRegion: 1
+    regionX: 0
+    regionY: 256
+    regionW: 256
+    regionH: 256
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: Yeet 1
+    boundsData:
+    - {x: -0.18499999, y: -0.19999999, z: 0}
+    - {x: 0.92999995, y: 2.1599998, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 2.56, y: 2.56, z: 0}
+    texelSize: {x: 0.01, y: 0.01}
+    positions:
+    - {x: -0.65, y: -1.28, z: 0}
+    - {x: 0.28, y: -1.28, z: 0}
+    - {x: -0.65, y: 0.88, z: 0}
+    - {x: 0.28, y: 0.88, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.007816406, y: 0.007816406}
+    - {x: 0.37108985, y: 0.007816406}
+    - {x: 0.007816406, y: 0.85155857}
+    - {x: 0.37108985, y: 0.85155857}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 1, y: 0}
+    - {x: 0, y: 1}
+    - {x: 1, y: 1}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 3a378492c6ac3a046a88365abcae1a18, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: 98fc6a1a667f0e3498f1e04762a488e8
+    extractRegion: 1
+    regionX: 256
+    regionY: 256
+    regionW: 256
+    regionH: 256
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: Yeet 2
+    boundsData:
+    - {x: -0.089999996, y: -0.089999974, z: 0}
+    - {x: 0.45999998, y: 2.38, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 2.56, y: 2.56, z: 0}
+    texelSize: {x: 0.01, y: 0.01}
+    positions:
+    - {x: -0.32, y: -1.28, z: 0}
+    - {x: 0.14, y: -1.28, z: 0}
+    - {x: -0.32, y: 1.1, z: 0}
+    - {x: 0.14, y: 1.1, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.77344143, y: 0.007816406}
+    - {x: 0.95312107, y: 0.007816406}
+    - {x: 0.77344143, y: 0.93749607}
+    - {x: 0.95312107, y: 0.93749607}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 1, y: 0}
+    - {x: 0, y: 1}
+    - {x: 1, y: 1}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 3a378492c6ac3a046a88365abcae1a18, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: 98fc6a1a667f0e3498f1e04762a488e8
+    extractRegion: 1
+    regionX: 0
+    regionY: 0
+    regionW: 256
+    regionH: 256
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  premultipliedAlpha: 0
+  material: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 3a378492c6ac3a046a88365abcae1a18, type: 2}
+  textures:
+  - {fileID: 2800000, guid: 0e9ee815b8db45044b8ee3486a806ef8, type: 3}
+  pngTextures: []
+  materialPngTextureId: 00000000
+  textureFilterMode: 1
+  textureMipMaps: 0
+  allowMultipleAtlases: 0
+  spriteCollectionGUID: 9896d346c3d1931438a42fe138f77629
+  spriteCollectionName: DryyaSilhouetteSpriteCollection
+  assetName: 
+  loadable: 0
+  invOrthoSize: 2
+  halfTargetHeight: 50
+  buildKey: 1767556353
+  dataGuid: b09f60ed67490fd4d84001efc542dd1e
+  managedSpriteCollection: 0
+  hasPlatformData: 0
+  spriteCollectionPlatforms: []
+  spriteCollectionPlatformGUIDs: []

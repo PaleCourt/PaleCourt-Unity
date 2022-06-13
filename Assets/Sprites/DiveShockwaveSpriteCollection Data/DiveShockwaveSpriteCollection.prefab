@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2006856425546637114
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8599870161617694750}
+  - component: {fileID: 4932040689802294363}
+  m_Layer: 0
+  m_Name: DiveShockwaveSpriteCollection
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8599870161617694750
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006856425546637114}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4932040689802294363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2006856425546637114}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  materialIdsValid: 1
+  needMaterialInstance: 0
+  spriteDefinitions:
+  - name: Shockwave 0
+    boundsData:
+    - {x: -0.26363635, y: -4.109091, z: 0}
+    - {x: 5.2181816, y: 10.4, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 18.618181, y: 18.618181, z: 0}
+    texelSize: {x: 0.018181818, y: 0.018181818}
+    positions:
+    - {x: -2.8727272, y: -9.309091, z: 0}
+    - {x: 2.3454545, y: -9.309091, z: 0}
+    - {x: -2.8727272, y: 1.090909, z: 0}
+    - {x: 2.3454545, y: 1.090909, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.66504, y: 0.0009770507}
+    - {x: 0.94531155, y: 0.0009770507}
+    - {x: 0.66504, y: 0.28027296}
+    - {x: 0.94531155, y: 0.28027296}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 1, y: 0}
+    - {x: 0, y: 0.99999994}
+    - {x: 1, y: 0.99999994}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 89ef1c8fd459c4345bbc3d8910ba2ac6, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: c5c6b213adb08484bb960c3cc4fbe201
+    extractRegion: 1
+    regionX: 0
+    regionY: 1024
+    regionW: 1024
+    regionH: 1024
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: Shockwave 1
+    boundsData:
+    - {x: 1.3181818, y: -5.863636, z: 0}
+    - {x: 11.472727, y: 6.890909, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 18.618181, y: 18.618181, z: 0}
+    texelSize: {x: 0.018181818, y: 0.018181818}
+    positions:
+    - {x: -4.418182, y: -9.309091, z: 0}
+    - {x: 7.0545454, y: -9.309091, z: 0}
+    - {x: -4.418182, y: -2.4181817, z: 0}
+    - {x: 7.0545454, y: -2.4181817, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.0019541015, y: 0.50293016}
+    - {x: 0.0019541015, y: 0.8110347}
+    - {x: 0.37206933, y: 0.50293016}
+    - {x: 0.37206933, y: 0.8110347}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 0, y: 1}
+    - {x: 1, y: 0}
+    - {x: 1, y: 1}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 89ef1c8fd459c4345bbc3d8910ba2ac6, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: c5c6b213adb08484bb960c3cc4fbe201
+    extractRegion: 1
+    regionX: 1024
+    regionY: 1024
+    regionW: 1024
+    regionH: 1024
+    flipped: 1
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  - name: Shockwave 2
+    boundsData:
+    - {x: 1.3, y: 0, z: 0}
+    - {x: 12.272726, y: 18.618181, z: 0}
+    untrimmedBoundsData:
+    - {x: 0, y: 0, z: 0}
+    - {x: 18.618181, y: 18.618181, z: 0}
+    texelSize: {x: 0.018181818, y: 0.018181818}
+    positions:
+    - {x: -4.8363633, y: -9.309091, z: 0}
+    - {x: 7.436363, y: -9.309091, z: 0}
+    - {x: -4.8363633, y: 9.309091, z: 0}
+    - {x: 7.436363, y: 9.309091, z: 0}
+    normals: []
+    tangents: []
+    uvs:
+    - {x: 0.0019541015, y: 0.0009770507}
+    - {x: 0.66113186, y: 0.0009770507}
+    - {x: 0.0019541015, y: 0.5009761}
+    - {x: 0.66113186, y: 0.5009761}
+    normalizedUvs:
+    - {x: 0, y: 0}
+    - {x: 0.99999994, y: 0}
+    - {x: 0, y: 1}
+    - {x: 0.99999994, y: 1}
+    indices: 000000000300000001000000020000000300000000000000
+    material: {fileID: 2100000, guid: 89ef1c8fd459c4345bbc3d8910ba2ac6, type: 2}
+    materialId: 0
+    materialIndexData: 000000000000000006000000
+    sourceTextureGUID: c5c6b213adb08484bb960c3cc4fbe201
+    extractRegion: 1
+    regionX: 0
+    regionY: 0
+    regionW: 1024
+    regionH: 1024
+    flipped: 0
+    complexGeometry: 0
+    physicsEngine: 0
+    colliderType: 0
+    customColliders: []
+    colliderVertices: []
+    colliderIndicesFwd: 
+    colliderIndicesBack: 
+    colliderConvex: 0
+    colliderSmoothSphereCollisions: 0
+    polygonCollider2D: []
+    edgeCollider2D: []
+    attachPoints: []
+  premultipliedAlpha: 0
+  material: {fileID: 0}
+  materials:
+  - {fileID: 2100000, guid: 89ef1c8fd459c4345bbc3d8910ba2ac6, type: 2}
+  textures:
+  - {fileID: 2800000, guid: 4594fb5f51a24154188d09671e98c892, type: 3}
+  pngTextures: []
+  materialPngTextureId: 00000000
+  textureFilterMode: 1
+  textureMipMaps: 0
+  allowMultipleAtlases: 0
+  spriteCollectionGUID: fd6fe83a4d8ff47459b2b50fbf0a2247
+  spriteCollectionName: DiveShockwaveSpriteCollection
+  assetName: 
+  loadable: 0
+  invOrthoSize: 2
+  halfTargetHeight: 27.5
+  buildKey: 2137239801
+  dataGuid: 0de52788301d25541804dad522bd9968
+  managedSpriteCollection: 0
+  hasPlatformData: 0
+  spriteCollectionPlatforms: []
+  spriteCollectionPlatformGUIDs: []
