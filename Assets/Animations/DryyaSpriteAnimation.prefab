@@ -1245,7 +1245,7 @@ MonoBehaviour:
     - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
         type: 3}
       spriteId: 137
-      triggerEvent: 0
+      triggerEvent: 1
       eventInfo: 
       eventInt: 0
       eventFloat: 0
@@ -1342,6 +1342,313 @@ MonoBehaviour:
         type: 3}
       spriteId: 133
       triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Start
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 12
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 100
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 102
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 103
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 104
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Ground In
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 105
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 106
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Ground 1
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 107
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 108
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 109
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 110
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 111
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 112
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Ground 2
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 115
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 116
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 117
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 118
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 119
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Air In
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 120
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 121
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Air Out 2
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 121
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 120
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Air 1
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 122
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 123
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 124
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 125
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Air 2
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 126
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 127
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 128
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 129
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Ground Out
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 130
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 131
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy End
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 132
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 133
+      triggerEvent: 1
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
+  - name: Frenzy Air Out 1
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 113
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 114
+      triggerEvent: 0
       eventInfo: 
       eventInt: 0
       eventFloat: 0

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{92412440-121C-33BA-9F30-2C224C20D5BB}</ProjectGuid>
+    <ProjectGuid>{AEB4629B-D87A-9904-046C-D3A5A428C391}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.AssetBundleBrowser.Editor.Tests</AssemblyName>
@@ -306,43 +306,43 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpression">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpressionEditor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
     </Reference>
     <Reference Include="PlayMakerEditor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
     </Reference>
     <Reference Include="PlayMakerEditorResources">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
     </Reference>
     <Reference Include="PlayMaker">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
     </Reference>
     <Reference Include="PaleCourt">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/Scripts/PaleCourt.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/Scripts/PaleCourt.dll</HintPath>
     </Reference>
     <Reference Include="tk2dExternal">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/TK2DROOT/tk2d/Editor/tk2dExternal.dll</HintPath>
     </Reference>
     <Reference Include="tk2dSkin">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/TK2DROOT/tk2d/Editor/tk2dSkin.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -701,7 +701,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.AssetBundleBrowser.Editor.csproj">
-      <Project>{1EC7F334-6502-984A-908C-18E6D244098E}</Project>
+      <Project>{B0B99935-9E37-2ABC-5960-49A6DFE9C541}</Project>
       <Name>Unity.AssetBundleBrowser.Editor</Name>
     </ProjectReference>
   </ItemGroup>

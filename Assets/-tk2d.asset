@@ -26,11 +26,39 @@ MonoBehaviour:
     dataGUID: 
     managed: 0
     loadable: 0
+  - assetGUID: 1bd46ee676c7c64438f808b3bae96e5e
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: bd7ac751ec0941648bfac88be89f1580
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: c95e537190650364497a6c0133bfc977
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 8a1fc5f7d05688b41929c38e7dffd92f
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 272818e9b287b044c99d93d2b9b9b30c
+    dataGUID: 
+    managed: 0
+    loadable: 0
   - assetGUID: 33744df908116e24f92dedf84699d06f
     dataGUID: 
     managed: 0
     loadable: 0
   - assetGUID: 2b2b72d75b4b173418969e83cbda4ac0
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 3f88a50cc1e8ee24d8905246aae51ae2
+    dataGUID: 
+    managed: 0
+    loadable: 0
+  - assetGUID: 89e7f4ce4db0981448b8b9a4cc40617d
     dataGUID: 
     managed: 0
     loadable: 0
@@ -78,10 +106,10 @@ MonoBehaviour:
     - 871eb2b697bff4f4e832b95668b9b3cc
     - 75f62f68bfc69b04d876f87672036e09
     spriteTextureTimeStamps:
-    - 1556559831
-    - 1556559935
-    - 1556559962
-    - 1556559937
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -180,50 +208,50 @@ MonoBehaviour:
     - f38c1e9651d69654c87ea0956466e36d
     - f38c1e9651d69654c87ea0956466e36d
     spriteTextureTimeStamps:
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
-    - 1556560079
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -332,55 +360,55 @@ MonoBehaviour:
     - fa207f7bcc782490fa19b3fa60b34f8e
     - fa207f7bcc782490fa19b3fa60b34f8e
     spriteTextureTimeStamps:
-    - 1556559950
-    - 1556560012
-    - 1556559888
-    - 1556559917
-    - 1556560008
-    - 1556560026
-    - 1556559870
-    - 1556559850
-    - 1556560082
-    - 1556560065
-    - 1556559980
-    - 1556559918
-    - 1556559879
-    - 1556559818
-    - 1556560016
-    - 1556560038
-    - 1556560054
-    - 1556559889
-    - 1556559988
-    - 1556559985
-    - 1556559928
-    - 1556559855
-    - 1556559955
-    - 1556560085
-    - 1556559858
-    - 1556559876
-    - 1556559849
-    - 1556560031
-    - 1556559949
-    - 1556560027
-    - 1556560063
-    - 1556560077
-    - 1556559992
-    - 1556559997
-    - 1556560096
-    - 1556560021
-    - 1556559828
-    - 1556560042
-    - 1556560048
-    - 1556559970
-    - 1556560057
-    - 1556559924
-    - 1556559848
-    - 1556560092
-    - 1556560092
-    - 1556560092
-    - 1556560092
-    - 1556560092
-    - 1556560092
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -399,10 +427,10 @@ MonoBehaviour:
     - 775e311b21d73a74c93ca74a71671b1e
     - 03fff0d1701d7e14399d5ee2209561dc
     spriteTextureTimeStamps:
-    - 1556560018
-    - 1556559894
-    - 1556559939
-    - 1556559810
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -457,28 +485,28 @@ MonoBehaviour:
     - 
     - 197a84f0983385f41a1d2b3cb0a99dd9
     spriteTextureTimeStamps:
-    - 1556559824
-    - 1556560030
-    - 1556560078
-    - 1556560023
-    - 1556559986
-    - 1556559995
-    - 1556559871
-    - 1556559984
-    - 1556559987
-    - 1556560084
-    - 1556559892
-    - 1556559999
-    - 1556560059
-    - 1556559965
-    - 1556560014
-    - 1556559853
-    - 1556559898
-    - 1556560072
-    - 1556559880
-    - 1556559841
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     - 0
-    - 1556559833
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -515,19 +543,19 @@ MonoBehaviour:
     - 37ab6cccc3fca43c9b22ef17ad289719
     - decb81f6e18f248ff88c3eed04676420
     spriteTextureTimeStamps:
-    - 1556560047
-    - 1556559972
-    - 1556559883
-    - 1556559857
-    - 1556559851
-    - 1556559856
-    - 1556559820
-    - 1556560012
-    - 1556559887
-    - 1556560009
-    - 1556560071
-    - 1556559868
-    - 1556560053
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -644,59 +672,567 @@ MonoBehaviour:
     - 501d2022a48b64cb09a5d51f14934d38
     - 113be3445db084cd88073b16fbb9fff2
     spriteTextureTimeStamps:
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556559863
-    - 1556560089
-    - 1556559821
-    - 1556560070
-    - 1556559877
-    - 1556559952
-    - 1556560068
-    - 1556560005
-    - 1556559867
-    - 1556559847
-    - 1556560096
-    - 1556560025
-    - 1556560083
-    - 1556559846
-    - 1556559933
-    - 1556560055
-    - 1556560034
-    - 1556559948
-    - 1556559969
-    - 1556560043
-    - 1556559998
-    - 1556559986
-    - 1556559994
-    - 1556559893
-    - 1556559826
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    - 1605881550
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: DiveShockwaveSpriteCollection
+    spriteCollectionGUID: fd6fe83a4d8ff47459b2b50fbf0a2247
+    spriteCollectionDataGUID: 0de52788301d25541804dad522bd9968
+    spriteNames:
+    - Shockwave 0
+    - Shockwave 1
+    - Shockwave 2
+    spriteTextureGUIDs:
+    - c5c6b213adb08484bb960c3cc4fbe201
+    - c5c6b213adb08484bb960c3cc4fbe201
+    - c5c6b213adb08484bb960c3cc4fbe201
+    spriteTextureTimeStamps:
+    - 1615626034
+    - 1615626034
+    - 1615626034
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: DryyaSilhouetteSpriteCollection
+    spriteCollectionGUID: 9896d346c3d1931438a42fe138f77629
+    spriteCollectionDataGUID: b09f60ed67490fd4d84001efc542dd1e
+    spriteNames:
+    - Yeet 0
+    - Yeet 1
+    - Yeet 2
+    spriteTextureGUIDs:
+    - 98fc6a1a667f0e3498f1e04762a488e8
+    - 98fc6a1a667f0e3498f1e04762a488e8
+    - 98fc6a1a667f0e3498f1e04762a488e8
+    spriteTextureTimeStamps:
+    - 1615626110
+    - 1615626110
+    - 1615626110
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: DryyaSpriteCollection
+    spriteCollectionGUID: d52a2edbbb9b71447af7dea238372c47
+    spriteCollectionDataGUID: 9222594e3c4b17a409bdf36ce55de6d4
+    spriteNames:
+    - Standing 0
+    - Bow 0
+    - Bow 1
+    - Bow 2
+    - Bow 3
+    - Bow to Flourish 0
+    - Intro Fall 0
+    - Intro Fall 1
+    - Intro Land 0
+    - Intro Land 1
+    - Intro Land 2
+    - Backstep 1 0
+    - 3rd Phase Attack 0
+    - Backstep 1 1
+    - Backstep 2 0
+    - Backstep 2 1
+    - Backstep 2 2
+    - Idle 0
+    - Idle to Walk 0
+    - Idle to Walk 1
+    - Idle to Walk 2
+    - Walk 0
+    - Walk 1
+    - Walk 2
+    - Walk 3
+    - Walk 4
+    - Walk 5
+    - Walk 6
+    - Slash 1 Antic 0
+    - Slash 1 Antic 1
+    - Slash 1 0
+    - Slash 1 1
+    - Slash 2 Antic 0
+    - Slash 2 0
+    - Slash 2 1
+    - Slash 3 Antic 0
+    - Slash 3 0
+    - Slash 3 1
+    - Slash End 0
+    - Slash End 1
+    - Slash End 2
+    - Turn 0
+    - Counter Antic 0
+    - Counter Antic 1
+    - Counter Antic 2
+    - Countering 0
+    - Countered 0
+    - Countered 1
+    - Counter Slash End 0
+    - Counter Slash End 1
+    - Stab Antic 0
+    - Stab Antic 1
+    - Stab Antic 2
+    - Stab 0
+    - Stab End 0
+    - Stab End 1
+    - Stab End 2
+    - Evade Antic 0
+    - Evade Antic 1
+    - Evading 0
+    - Dive Jump 0
+    - Dive Spin 0
+    - Dive Spin 1
+    - Dive Antic 0
+    - Dive Antic 1
+    - Diving 0
+    - Dive Land 0
+    - Dive Land 1
+    - Dive Recover 0
+    - Dive Recover 1
+    - Countering 1
+    - Countering 2
+    - Countering 3
+    - Countering 4
+    - Countering 5
+    - Idle 1
+    - Idle 2
+    - Idle 3
+    - Idle 4
+    - Idle 5
+    - Dive Spin 2
+    - Elegy Slash 1 Antic 0
+    - Elegy Slash 1 Antic 1
+    - Elegy Slash 1 Antic 2
+    - Elegy Slash 1 0
+    - Elegy Slash 1 1
+    - Elegy Slash 2 0
+    - Elegy Slash 2 1
+    - KO 0
+    - KO 1
+    - KO Land 0
+    - KO Land 1
+    - KO Land 2
+    - KO Leave 0
+    - KO Leave 1
+    - KO Leave 2
+    - Cheeky Slash Antic 0
+    - Cheeky Slash Antic 1
+    - Cheeky Slash 0
+    - Cheeky Slash 1
+    - 3rd Phase Attack 1
+    - Cheeky Slash 2
+    - 3rd Phase Attack 2
+    - 3rd Phase Attack 3
+    - 3rd Phase Attack 4
+    - 3rd Phase Attack 5
+    - 3rd Phase Attack 6
+    - 3rd Phase Attack 7
+    - 3rd Phase Attack 8
+    - 3rd Phase Attack 9
+    - 3rd Phase Attack 10
+    - 3rd Phase Attack 11
+    - 3rd Phase Attack 12
+    - 3rd Phase Attack 13
+    - 3rd Phase Attack 14
+    - 3rd Phase Attack 15
+    - 3rd Phase Attack 16
+    - 3rd Phase Attack 17
+    - 3rd Phase Attack 18
+    - 3rd Phase Attack 19
+    - 3rd Phase Attack 20
+    - 3rd Phase Attack 21
+    - 3rd Phase Attack 22
+    - 3rd Phase Attack 23
+    - 3rd Phase Attack 24
+    - 3rd Phase Attack 25
+    - 3rd Phase Attack 26
+    - 3rd Phase Attack 27
+    - 3rd Phase Attack 28
+    - 3rd Phase Attack 29
+    - 3rd Phase Attack 30
+    - 3rd Phase Attack 31
+    - 3rd Phase Attack 32
+    - 3rd Phase Attack 33
+    - Throw 0
+    - Throw 1
+    - Throw 2
+    - Throw 3
+    - Throw 4
+    - Throw 5
+    - Throw 6
+    - Throw 7
+    - Throw 8
+    spriteTextureGUIDs:
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - 87cb07042da745d488579d1438c15854
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - a8080085c4746304cb6694cdf9fc93fe
+    - 87cb07042da745d488579d1438c15854
+    - a8080085c4746304cb6694cdf9fc93fe
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - 87cb07042da745d488579d1438c15854
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    - c4aeb49b2fb7cd547a4fb576330e7b32
+    spriteTextureTimeStamps:
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626066
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626109
+    - 1615626066
+    - 1615626109
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1615626066
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    - 1617319805
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: DryyaSpriteCollection
+    version: 3
+  - name: ElegyBeamSpriteCollection
+    spriteCollectionGUID: 61a4bac9cd5ae40438ea125e6209c83e
+    spriteCollectionDataGUID: b3e2adad9e0f8a24f88ce5536288252c
+    spriteNames:
+    - Beam Antic 0
+    - Beam Antic 1
+    - Beam Antic 2
+    - Beam Antic 3
+    - Beam Antic 4
+    - Beam 0
+    - Beam 1
+    spriteTextureGUIDs:
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    - d2b7daec69de2394f8d1299b69cffbfb
+    spriteTextureTimeStamps:
+    - 1615626129
+    - 1615626129
+    - 1615626129
+    - 1615626129
+    - 1615626129
+    - 1615626129
+    - 1615626129
     managedSpriteCollection: 0
     loadable: 0
     assetName: 
@@ -1197,6 +1733,359 @@ MonoBehaviour:
     - 1609769755.52345
     - 1609769755.52345
     - 1609769755.52345
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: StabFlashSpriteCollection
+    spriteCollectionGUID: 2d4f644fdd1644d4c893f9582b92cc04
+    spriteCollectionDataGUID: 1e5accd003b11f14f893214b5863daed
+    spriteNames:
+    - Flash 0
+    - Flash 1
+    - Flash 2
+    spriteTextureGUIDs:
+    - fc7bc7404b484134786ad6ee89ef95a3
+    - fc7bc7404b484134786ad6ee89ef95a3
+    - fc7bc7404b484134786ad6ee89ef95a3
+    spriteTextureTimeStamps:
+    - 1615626132
+    - 1615626132
+    - 1615626132
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: TisoSpriteCollection
+    spriteCollectionGUID: 3c02268c3eb772341b5f7c728121faf7
+    spriteCollectionDataGUID: 5a011384c08c8a74a8b7e52c2684e331
+    spriteNames:
+    - shield_boomerang_2nd/0
+    - shield_boomerang_2nd/1
+    - shield_boomerang_2nd/2
+    - shield_misc/0
+    - shield_misc/1
+    - shield_misc/2
+    - shield_misc/3
+    - tiso_dodge/0
+    - tiso_dodge/1
+    - tiso_dodge/2
+    - tiso_glider_attack_/0
+    - tiso_glider_attack_/1
+    - tiso_glider_attack_/2
+    - tiso_glider_attack_/3
+    - tiso_glider_attack_/4
+    - tiso_glider_attack_/5
+    - tiso_glider_attack_/6
+    - tiso_glider_attack_/7
+    - tiso_glider_attack_/8
+    - tiso_glider_attack_/9
+    - tiso_glider_attack_/10
+    - tiso_glider_attack_/11
+    - tiso_glider_attack_/12
+    - tiso_glider_attack_/13
+    - tiso_multitool_arm/0
+    - tiso_multitool_arm/1
+    - tiso_multitool_arm/2
+    - tiso_multitool_arm/3
+    - tiso_multitool_arm/4
+    - tiso_multitool_impacts/0
+    - tiso_multitool_impacts/1
+    - tiso_multitool_impacts/2
+    - tiso_multitool_tools/0
+    - tiso_multitool_tools/1
+    - tiso_multitool_tools/2
+    - tiso_multitool_tools/3
+    - tiso_multitool_tools/4
+    - tiso_multitool_tools/5
+    - tiso_multitool_tools/6
+    - tiso_multitool_tools/7
+    - tiso_multitool_tools/8
+    - tiso_run/0
+    - tiso_run/1
+    - tiso_run/2
+    - tiso_run/3
+    - tiso_run/4
+    - tiso_run/5
+    - tiso_run/6
+    - tiso_run/7
+    - tiso_run/8
+    - tiso_run/9
+    - 
+    - 
+    - tiso_shield_basic_attack/0
+    - tiso_shield_basic_attack/1
+    - tiso_shield_basic_attack/2
+    - tiso_shield_basic_attack/3
+    - tiso_shield_block_front/0
+    - tiso_shield_block_front/1
+    - tiso_shield_block_front/2
+    - tiso_shield_block_up_parry_/0
+    - tiso_shield_block_up_parry_/1
+    - tiso_shield_block_up_parry_/2
+    - tiso_shield_block_up_parry_/3
+    - tiso_shield_block_up_parry_/4
+    - tiso_shield_block_up_parry_/5
+    - tiso_shield_block_up_parry_/6
+    - tiso_shield_block_up_parry_/7
+    - tiso_shield_stand_body/0
+    - tiso_shield_stand_body/1
+    - tiso_shield_stand_body/2
+    - tiso_shield_stand_body/3
+    - tiso_shield_stand_body/4
+    - tiso_shield_stand_body/5
+    - tiso_shield_stand_hand/0
+    - tiso_shield_stand_hand/1
+    - tiso_shield_toss/0
+    - tiso_shield_toss/1
+    - tiso_shield_toss/2
+    - tiso_shield_toss/3
+    - tiso_shield_toss/4
+    - tiso_shield_toss/5
+    - tiso_shield_toss/6
+    - tiso_shield_toss/7
+    - tiso_shield_toss/8
+    - tiso_shield_toss/9
+    - Tiso - Death/0
+    - Tiso - Death/1
+    - Tiso - Death/2
+    - Tiso - Death/3
+    - Tiso - Death/4
+    - Tiso - Death/5
+    - Tiso - Death/6
+    - Tiso - Idle/0
+    - Tiso - Idle/1
+    - Tiso - Idle/2
+    - Tiso - Idle/3
+    - Tiso - Idle/4
+    - Tiso - Idle/5
+    - Tiso - Intro/0
+    - 
+    - 
+    - Tiso - Intro/3
+    - 
+    - Tiso - Intro/5
+    - Tiso - Intro/6
+    - Tiso - Intro/7
+    - Tiso - Intro/8
+    spriteTextureGUIDs:
+    - 499fd12a7758b43469dc9ac3abd516ab
+    - 499fd12a7758b43469dc9ac3abd516ab
+    - 499fd12a7758b43469dc9ac3abd516ab
+    - c5d0ecb1d534ff9419e603bf79adf803
+    - c5d0ecb1d534ff9419e603bf79adf803
+    - c5d0ecb1d534ff9419e603bf79adf803
+    - c5d0ecb1d534ff9419e603bf79adf803
+    - 101b2f5e82c8aef42855004afedbb8a7
+    - 101b2f5e82c8aef42855004afedbb8a7
+    - 101b2f5e82c8aef42855004afedbb8a7
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f41a6b137c97d624b85a8c5f8f0a37c0
+    - f52d59f67f71eaa4180fd6584372ed12
+    - f52d59f67f71eaa4180fd6584372ed12
+    - f52d59f67f71eaa4180fd6584372ed12
+    - f52d59f67f71eaa4180fd6584372ed12
+    - f52d59f67f71eaa4180fd6584372ed12
+    - 87db73e91fe82ea4da45eae3b7c5d129
+    - 87db73e91fe82ea4da45eae3b7c5d129
+    - 87db73e91fe82ea4da45eae3b7c5d129
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - 0ae0e0e547c2d6843a9766c63cf0dde2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - b224a63141ecb0a46b8168e96a3067e2
+    - 
+    - 
+    - a4cbeb833407d5a42acc05be5015b5a0
+    - a4cbeb833407d5a42acc05be5015b5a0
+    - a4cbeb833407d5a42acc05be5015b5a0
+    - a4cbeb833407d5a42acc05be5015b5a0
+    - 8eadb0438e9150741bf300f6c49ec0e1
+    - 8eadb0438e9150741bf300f6c49ec0e1
+    - 8eadb0438e9150741bf300f6c49ec0e1
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - 287bc640d58ee8f4dacaf91918645e4b
+    - a94032c68b87cc241bbaa61e35bd115a
+    - a94032c68b87cc241bbaa61e35bd115a
+    - a94032c68b87cc241bbaa61e35bd115a
+    - a94032c68b87cc241bbaa61e35bd115a
+    - a94032c68b87cc241bbaa61e35bd115a
+    - a94032c68b87cc241bbaa61e35bd115a
+    - 5f5e33afdb77d59439893488baa831ac
+    - 5f5e33afdb77d59439893488baa831ac
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - b005f4fa580dba34cb5f7b8c5ca1c843
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - d9f58836045f8b54f879668f2e1e0a95
+    - c22078267d2762d4bb31e7a374ec00e9
+    - c22078267d2762d4bb31e7a374ec00e9
+    - c22078267d2762d4bb31e7a374ec00e9
+    - c22078267d2762d4bb31e7a374ec00e9
+    - c22078267d2762d4bb31e7a374ec00e9
+    - c22078267d2762d4bb31e7a374ec00e9
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    - 
+    - 
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    - 
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    - 31a5bbfa60d7ce94c89b908420ae165e
+    spriteTextureTimeStamps:
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 0
+    - 0
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613752142
+    - 1613756243
+    - 1613756243
+    - 1613756243
+    - 1613756243
+    - 1613756243
+    - 1613756243
+    - 1613756243
+    - 1613755319
+    - 1613755319
+    - 1613755319
+    - 1613755319
+    - 1613755319
+    - 1613755319
+    - 1613756152
+    - 0
+    - 0
+    - 1613756152
+    - 0
+    - 1613756152
+    - 1613756152
+    - 1613756152
+    - 1613756152
     managedSpriteCollection: 0
     loadable: 0
     assetName: 

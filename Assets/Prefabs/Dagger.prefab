@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 6161535787292683817}
   - component: {fileID: 6161535787292683816}
   - component: {fileID: 6161535787292683819}
-  - component: {fileID: 6161535787292683818}
-  - component: {fileID: 6161535786501402072}
+  - component: {fileID: 8044803280027760430}
+  - component: {fileID: 5107285800122453847}
   m_Layer: 22
   m_Name: Dagger
   m_TagString: Untagged
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 6161535787292683821}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 30.65, y: 2.63, z: 0}
-  m_LocalScale: {x: 1.3, y: 1.3, z: 1}
+  m_LocalScale: {x: 2.6, y: 2.6, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -108,7 +108,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.14, y: 0.73}
   m_EdgeRadius: 0
---- !u!114 &6161535787292683818
+--- !u!114 &8044803280027760430
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -117,14 +117,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 6161535787292683821}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b9cba359441c1b04992c675f33b13213, type: 3}
+  m_Script: {fileID: 11500000, guid: 18115614daf53d3498e83c320eb2fbf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   damageDealt: 1
   hazardType: 1
   shadowDashHazard: 0
   resetOnEnable: 0
---- !u!114 &6161535786501402072
+--- !u!114 &5107285800122453847
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6161535787292683821}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1786408462, guid: d9d499ec687b6a7498707a80de6c4764, type: 3}
+  m_Script: {fileID: 1786408462, guid: b2da73be62f860046a4f8607fbc26a57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 10
+  Speed: 21

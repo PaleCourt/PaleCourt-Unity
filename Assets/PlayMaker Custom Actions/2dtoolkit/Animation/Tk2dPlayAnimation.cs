@@ -47,7 +47,8 @@ namespace HutongGames.PlayMaker.Actions
 		{
 			_getSprite();
 			
-			DoPlayAnimation();		
+			DoPlayAnimation();	
+			Finish();	
 		}
 
 		void DoPlayAnimation()

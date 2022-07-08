@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{980742C8-888C-35C3-1789-DCB97DC3DC82}</ProjectGuid>
+    <ProjectGuid>{E953FBCB-E46E-C63B-8928-6300AE48FDD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -105,6 +105,7 @@
     <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetScale.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetText.cs" />
     <Compile Include="Assets\PlayMaker Custom Actions\2dtoolkit\TextMesh\Tk2dTextMeshSetTextureGradient.cs" />
+    <Compile Include="Assets\PlayMaker Custom Actions\FiveKnights\WaitScaled.cs" />
     <Compile Include="Assets\PlayMaker Unity 2D\Actions\Internal\IFsmCollider2DStateAction.cs" />
     <Compile Include="Assets\PlayMaker Unity 2D\Actions\Internal\RigidBody2dActionBase.cs" />
     <Compile Include="Assets\PlayMaker Unity 2D\Components\PlayMakerUnity2DProxy.cs" />
@@ -353,6 +354,7 @@
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SelectRandomGameObject.cs" />
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SetGameObject.cs" />
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SetLayer.cs" />
+    <Compile Include="Assets\PlayMaker\Actions\GameObject\SetMeshRenderer.cs" />
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SetName.cs" />
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SetParent.cs" />
     <Compile Include="Assets\PlayMaker\Actions\GameObject\SetTag.cs" />
@@ -551,6 +553,7 @@
     <Compile Include="Assets\PlayMaker\Actions\Physics\UseGravity.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics\WakeAllRigidBodies.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics\WakeUp.cs" />
+    <Compile Include="Assets\PlayMaker\Actions\Physics2D\AccelerateVelocity.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\AddForce2d.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\AddRelativeForce2d.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\AddTorque2d.cs" />
@@ -577,6 +580,7 @@
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\MousePick2dEvent.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\RayCast2d.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\ScreenPick2d.cs" />
+    <Compile Include="Assets\PlayMaker\Actions\Physics2D\SetCollider.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\SetCollider2dIsTrigger.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\SetGravity2d.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Physics2D\SetGravity2dScale.cs" />
@@ -780,6 +784,7 @@
     <Compile Include="Assets\PlayMaker\Actions\Time\RandomWait.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Time\ScaleTime.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Time\Wait.cs" />
+    <Compile Include="Assets\PlayMaker\Actions\Transform\FlipScale.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Transform\GetAngleToTarget.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Transform\GetPosition.cs" />
     <Compile Include="Assets\PlayMaker\Actions\Transform\GetRotation.cs" />
@@ -985,6 +990,7 @@
     <Compile Include="Assets\Scripts\FlukeParticleDamageEnemies.cs" />
     <Compile Include="Assets\Scripts\FSMUtility.cs" />
     <Compile Include="Assets\Scripts\GameObjectHandler.cs" />
+    <Compile Include="Assets\Scripts\LogVelocity.cs" />
     <Compile Include="Assets\Scripts\Mace2.cs" />
     <Compile Include="Assets\Scripts\Modhooks.cs" />
     <Compile Include="Assets\Scripts\ObjectBounce.cs" />
@@ -1117,19 +1123,19 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TK2DROOT\tk2d_demo\democameradata\source\democamerafont.fnt" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -1333,16 +1339,16 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpression">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
     </Reference>
     <Reference Include="PlayMaker">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
     </Reference>
     <Reference Include="PaleCourt">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Assets/Scripts/PaleCourt.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Assets/Scripts/PaleCourt.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/WillDavis/Desktop/Hegemol_Unity-master/Hegemol_Unity-master/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/WillDavis/Desktop/HegDryya_Unity/UnityRepo/Repo/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.19f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -1692,7 +1698,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.AssetBundleBrowser.Editor.csproj">
-      <Project>{1EC7F334-6502-984A-908C-18E6D244098E}</Project>
+      <Project>{B0B99935-9E37-2ABC-5960-49A6DFE9C541}</Project>
       <Name>Unity.AssetBundleBrowser.Editor</Name>
     </ProjectReference>
   </ItemGroup>
