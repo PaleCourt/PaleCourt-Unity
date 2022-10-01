@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6316274189596361233}
   - component: {fileID: 4574894456143562855}
   - component: {fileID: 1524258230442567829}
-  - component: {fileID: 1160326949482500761}
+  - component: {fileID: 1554620937055283668}
   m_Layer: 0
   m_Name: ThornPlant
   m_TagString: Untagged
@@ -103,8 +103,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!60 &1160326949482500761
-PolygonCollider2D:
+--- !u!61 &1554620937055283668
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -116,7 +116,7 @@ PolygonCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.15, y: -0.6}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -126,10 +126,6 @@ PolygonCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: -0.357006, y: 0.72606313}
-      - {x: -0.15338506, y: 3.1456094}
-      - {x: -0.01860672, y: 2.4416766}
-      - {x: 0.28926426, y: -4.074737}
-      - {x: -0.5458145, y: -4.0850186}
+  serializedVersion: 2
+  m_Size: {x: 0.6, y: 7}
+  m_EdgeRadius: 0
