@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: ae4c6ef9070f09648b7cb68e6f4f10f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5887732363783024355
+    second: hegemol_slam_0
+  - first:
+      213: -1270931989903159443
+    second: hegemol_slam_1
+  - first:
+      213: -7064621535237380491
+    second: hegemol_slam_2
+  - first:
+      213: 7038799960075590399
+    second: hegemol_slam_3
+  - first:
+      213: 7537495090399202608
+    second: hegemol_slam_4
+  - first:
+      213: 5265756749382047012
+    second: hegemol_slam_5
+  - first:
+      213: 5753742866003203766
+    second: hegemol_slam_6
+  - first:
+      213: 1085138724033097881
+    second: hegemol_slam_7
+  - first:
+      213: -3771149299862450075
+    second: hegemol_slam_8
+  - first:
+      213: -8383916487901732860
+    second: hegemol_slam_9
+  - first:
+      213: -6522674851868684867
+    second: hegemol_slam_10
+  - first:
+      213: -3391838625435842166
+    second: hegemol_slam_11
+  - first:
+      213: -2830057678950801289
+    second: hegemol_slam_12
+  - first:
+      213: -1748238550619194392
+    second: hegemol_slam_13
+  - first:
+      213: -5094991304522712945
+    second: hegemol_slam_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hegemol_slam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeabdbe36d65b150800000000000000
+      internalID: 5887732363783024355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_1
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1938
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f4420c61ebc5ee0800000000000000
+      internalID: -1270931989903159443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_2
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1938
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e997c42c65fd90800000000000000
+      internalID: -7064621535237380491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_3
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1938
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad6514547dea160800000000000000
+      internalID: 7038799960075590399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dce7f69df8a9860800000000000000
+      internalID: 7537495090399202608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1292
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42558884dd9b31940800000000000000
+      internalID: 5265756749382047012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_6
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1292
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61f09e6a669df40800000000000000
+      internalID: 5753742866003203766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_7
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1292
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99073029bef2f0f00800000000000000
+      internalID: 1085138724033097881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605cb231bf2aabc0800000000000000
+      internalID: -3771149299862450075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 646
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a318cf5856ab80800000000000000
+      internalID: -8383916487901732860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_10
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 646
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4ef4e7cdca75a0800000000000000
+      internalID: -6522674851868684867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_11
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 646
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89827badb4cde0d0800000000000000
+      internalID: -3391838625435842166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7706548098d99b8d0800000000000000
+      internalID: -2830057678950801289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_13
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf2bffc420db7e0800000000000000
+      internalID: -1748238550619194392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_slam_14
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 0
+        width: 933
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8838382764fa49b0800000000000000
+      internalID: -5094991304522712945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
