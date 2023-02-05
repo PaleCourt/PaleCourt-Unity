@@ -1000,7 +1000,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.94092226, y: -2.7140324}
+  m_Offset: {x: -0.8564787, y: -2.7140324}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1011,7 +1011,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.9705715, y: 3.8736157}
+  m_Size: {x: 1.4639187, y: 3.8736157}
   m_EdgeRadius: 0
 --- !u!1 &2290374747296496061
 GameObject:
@@ -1850,10 +1850,12 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.30295599, y: 0.8470173}
-      - {x: -1.887738, y: -4.2192297}
+    - - {x: 0.14193058, y: -4.12586}
+      - {x: -0.19927883, y: -0.2416029}
+      - {x: -0.3798113, y: -4.099389}
+      - {x: -1.2537146, y: -5.5506773}
       - {x: 0.021850586, y: -9.172417}
-      - {x: 1.2396145, y: -4.179228}
+      - {x: 1.049407, y: -5.5106754}
 --- !u!114 &2907479408021924171
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3255,7 +3257,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.16267195, y: 0.33080077}
+  m_Offset: {x: -0.16267192, y: 0.24635768}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -3266,7 +3268,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.1864364, y: 2.3511987}
+  m_Size: {x: 2.1864364, y: 2.1823125}
   m_EdgeRadius: 0
 --- !u!1 &4355110421598949982
 GameObject:
@@ -27117,7 +27119,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.37285632, y: -1.2768261}
+  m_Offset: {x: -0.37285632, y: -1.4034903}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -27128,7 +27130,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.65265834, y: 5.930016}
+  m_Size: {x: 0.65265834, y: 5.6766877}
   m_EdgeRadius: 0
 --- !u!1 &6903627351080157279
 GameObject:
@@ -27607,7 +27609,7 @@ MonoBehaviour:
     type: 3}
   _color: {r: 1, g: 1, b: 1, a: 1}
   _scale: {x: 1, y: 1, z: 1}
-  _spriteId: 2
+  _spriteId: 0
   boxCollider2D: {fileID: 0}
   polygonCollider2D: []
   edgeCollider2D: []
