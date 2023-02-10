@@ -1,0 +1,177 @@
+ManifestFileVersion: 0
+CRC: 1407334214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 36dc1ee6f99f5708b7777dea252c1878
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 221b804bdeae75ffc45c7ef260fdd5c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Isma/Sprites/chock_1_2_0050.png
+- Assets/Isma/Animations/IsmaAnim/OgrimCatchIntro.anim
+- Assets/Isma/Sprites/acid_swipe/acid_a.png
+- Assets/Isma/Sprites/dung_flat.0048.png
+- Assets/Isma/Animations/Wall/P1.controller
+- Assets/Isma/Sprites/ogrim_watch_body.png
+- Assets/Isma/Animations/BallAnim/BallSquish.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0002.png
+- Assets/Isma/Animations/Wall/Front.controller
+- Assets/Isma/Animations/BallAnim/BallFx.anim
+- Assets/Isma/Prefabs/Wall.prefab
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0003.png
+- Assets/Isma/Sprites/isma_knock_out_.png
+- Assets/Isma/Sprites/acid_swipe/acid_b.png
+- Assets/Isma/Animations/BallAnim/BallSmash.anim
+- Assets/Isma/Sprites/ogrim_watch_head.png
+- Assets/Isma/Animations/Wall/WallBackBuild.anim
+- Assets/Isma/Animations/IsmaAnim/AFist2.anim
+- Assets/Isma/Animations/IsmaAnim/AFistEnd.anim
+- Assets/Isma/Animations/PlantAnim/PlantGrow.anim
+- Assets/Isma/Sprites/isma_torn_fist_body_ground.png
+- Assets/Isma/Sprites/entangled_barrage_vines_a.png
+- Assets/Isma/Sprites/isma_bow_battle_2.png
+- Assets/Isma/Animations/IsmaAnim/Catch.anim
+- Assets/Isma/Animations/WhipAnim/whip.controller
+- Assets/Isma/Animations/IsmaAnim/Idle.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0004.png
+- Assets/Isma/Animations/Wall/SpikeMiddleDest.anim
+- Assets/Isma/Animations/PlantAnim/PlantCtrl.controller
+- Assets/Isma/Sprites/isma_spike_fist_arm.png
+- Assets/Isma/Sprites/isma_dung_redirect.png
+- Assets/Isma/Animations/Wall/SpikeMiddle.anim
+- Assets/Isma/Animations/PlantAnim/SpawnGulka.anim
+- Assets/Isma/Animations/Wall/P3.controller
+- Assets/Isma/Animations/T.controller
+- Assets/Isma/Sprites/seed_fooleater.png
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0009.png
+- Assets/Isma/Prefabs/Gulka.prefab
+- Assets/Isma/Prefabs/Fool.prefab
+- Assets/Isma/Animations/IsmaAnim/GFistAntic.anim
+- Assets/Isma/Animations/Wall/Front 1.controller
+- Assets/Isma/Sprites/ogrim_knocked_out_.png
+- Assets/Isma/Animations/WhipAnim/Idle.anim
+- Assets/Isma/Animations/PlantAnim/Gulka.controller
+- Assets/Isma/Sprites/isma_arm_att.png
+- Assets/Isma/Animations/Wall/SpikeBack.anim
+- Assets/Isma/Animations/Wall/SpikeFrontDest.anim
+- Assets/Isma/Animations/IsmaAnim/BallStrike.anim
+- Assets/Isma/Sprites/isma_hand_grenade.png
+- Assets/Isma/Sprites/dung_shot_0049.png
+- Assets/Isma/Animations/IsmaAnim/Apear.anim
+- Assets/Isma/Prefabs/Isma.prefab
+- Assets/Isma/Sprites/isma_torn_fist_body_air.png
+- Assets/Isma/Animations/SwirlLoop.anim
+- Assets/Isma/Sprites/Spr.mat
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0011.png
+- Assets/Isma/Animations/PlantAnim/PlantDie.anim
+- Assets/Isma/Animations/Grenade/Idle.anim
+- Assets/Isma/Sprites/isma_ogrim_defeat_extension_.png
+- Assets/Isma/Animations/IsmaAnim/ThrowBomb.anim
+- Assets/Isma/Sprites/whipe_fist_whipe_fixed_.png
+- Assets/Isma/Sprites/acid_swipe/AcidSwipe.anim
+- Assets/Isma/Animations/IsmaAnim/LoneDeath.anim
+- Assets/Isma/Sprites/spike_wall_new_middle.png
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0007.png
+- Assets/Isma/Animations/Tangle.controller
+- Assets/Isma/Animations/BallAnim/FxCtrl.controller
+- Assets/Isma/Animations/IdleThorn.anim
+- Assets/Other/white.jpg
+- Assets/Isma/Animations/NewArmAttack.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0005.png
+- Assets/Isma/Sprites/isma_zap_enter.png
+- Assets/Isma/Sprites/entangled_barrage_body.png
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0008.png
+- Assets/Isma/Animations/IsmaAnim/OgrimCatch.anim
+- Assets/Isma/Animations/Wall/SpikeBackDest.anim
+- Assets/Isma/Animations/Wall/PetalMany.anim
+- Assets/Isma/Animations/Wall/PetalManyDest.anim
+- Assets/Isma/Sprites/grove_wall_leaf.png
+- Assets/Isma/Animations/Wall/WallFrontBuild.anim
+- Assets/Isma/Animations/IsmaAnim/Bow.anim
+- Assets/Isma/Sprites/isma_grove_attacks.png
+- Assets/Isma/Animations/BallAnim/BallCtrl.controller
+- Assets/Isma/Sprites/grove_wall_front.png
+- Assets/Isma/Animations/IsmaAnim/AFistAntic.anim
+- Assets/Isma/Sprites/isma_leave_1.png
+- Assets/Isma/Animations/Wall/WallBackDestroy.anim
+- Assets/Isma/Sprites/spike_fist_bulge.png
+- Assets/Isma/Sprites/spike_fist_elonged_vine_1.png
+- Assets/Isma/Animations/BallAnim/FxEnd.anim
+- Assets/Isma/Animations/ThornShot.anim
+- Assets/Isma/Animations/IsmaAnim/GFistEnd.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0001.png
+- Assets/Isma/Animations/Wall/Back 1.controller
+- Assets/Isma/Animations/Wall/Middle.controller
+- Assets/Isma/Animations/Wall/WallFrontDestroy.anim
+- Assets/Isma/Animations/WhipAnim/Whip.anim
+- Assets/Isma/Animations/Wall/SpikeFront.anim
+- Assets/Isma/Sprites/grove_wall_back.png
+- Assets/Isma/Animations/IsmaAnim/AgonyLoop.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0006.png
+- Assets/Isma/Sprites/spike_wall_new_back.png
+- Assets/Isma/Sprites/newest_thorn_vine.png
+- Assets/Isma/Animations/IsmaAnim/GFist.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0010.png
+- Assets/Isma/Animations/IsmaAnim/AgonyLoopIntro.anim
+- Assets/Isma/Sprites/seed_gulka.png
+- Assets/Isma/Animations/Swirl.anim
+- Assets/Isma/Animations/Wall/PetalOneDest.anim
+- Assets/Isma/Sprites/acid_swipe/isma_acid_swipe.0012.png
+- Assets/Isma/Animations/Wall/Back.controller
+- Assets/Isma/Animations/IsmaAnim/Falling.anim
+- Assets/Isma/Animations/Grenade/Bomb.anim
+- Assets/Isma/Prefabs/Plant.prefab
+- Assets/Isma/Animations/Grenade/Bomb.controller
+- Assets/Isma/Sprites/isma_grenade_explosion_seed.png
+- Assets/Isma/Sprites/spike_wall_new_front.png
+- Assets/Isma/Animations/PlantAnim/SpawnFool.anim
+- Assets/Isma/Animations/IsmaAnim/AgonyLoopEnd.anim
+- Assets/Isma/Sprites/isma_defeat_single.png
+- Assets/Isma/Animations/NewAThornAnim.anim
+- Assets/Isma/Animations/Wall/PetalOne.anim
+- Assets/Isma/Sprites/isma_bow_battle_1.png
+- Assets/Isma/Animations/IsmaAnim/IsmaCtrl.controller
+- Assets/Isma/Animations/PlantAnim/Fool.controller
+- Assets/Isma/Sprites/isma_zip_zap.png
+- Assets/Isma/Animations/IsmaAnim/AFist.anim
+- Assets/Isma/Sprites/entangled_barrage_vines_b.png
+- Assets/Isma/Animations/IsmaAnim/EndBow.anim
+- Assets/Isma/Animations/IsmaAnim/Agony.anim
+- Assets/Isma/Sprites/chock_1_0049.png
+Dependencies:
+- C:/Users/Saleh/Desktop/HollowKnight/Unity/PaleCourt-Unity/AssetBundles/StandaloneWindows/miscbund
+- C:/Users/Saleh/Desktop/HollowKnight/Unity/PaleCourt-Unity/AssetBundles/StandaloneWindows/soundbund

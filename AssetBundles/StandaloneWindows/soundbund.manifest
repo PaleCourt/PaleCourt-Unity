@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 4109525180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9b288b40e1685d79ec499bebab545c8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Music/DryyaEnd.mp3
+- Assets/Zemer/Sound/AudBigSlash.wav
+- Assets/Zemer/Sound/ZAudAtt3.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt5.wav
+- Assets/Zemer/Music/ZP2Loop.wav
+- Assets/Music/HegemolMusic.mp3
+- Assets/Isma/IsmaAud/IsmaAudAgonyShoot.wav
+- Assets/Zemer/Sound/breakable_wall_hit_2.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt2.wav
+- Assets/Zemer/Sound/ZAudLaser.wav
+- Assets/Zemer/Sound/ZAudP1Death.wav
+- Assets/Zemer/Sound/ZAudCounter.wav
+- Assets/Zemer/Sound/breakable_wall_hit_1.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt4.wav
+- Assets/Zemer/Sound/AudDashIntro.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt7.wav
+- Assets/Zemer/Sound/ZAudP2Death2.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt9.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt1.wav
+- Assets/Zemer/Sound/AudBasicSlash1.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt6.wav
+- Assets/Zemer/Music/ZP1Loop.wav
+- Assets/Music/LoneIsmaIntro.wav
+- Assets/Zemer/Sound/ZAudP2Death1.wav
+- Assets/Isma/IsmaAud/IsmaAudAgonyIntro.wav
+- Assets/Zemer/Sound/AudBasicSlash2.wav
+- Assets/Isma/IsmaAud/IsmaAudAtt8.wav
+- Assets/Music/Zem_Area.mp3
+- Assets/Music/DryyaLoop.mp3
+- Assets/Isma/IsmaAud/IsmaAudAtt3.wav
+- Assets/Zemer/Sound/ZAudAtt2.wav
+- Assets/Zemer/Sound/AudDash.wav
+- Assets/Zemer/Sound/ZAudHoriz.wav
+- Assets/Zemer/Sound/ZAudAtt6.wav
+- Assets/Music/OgrimMusic.wav
+- Assets/Zemer/Sound/AudBigSlash2.wav
+- Assets/Zemer/Sound/ZAudBow.wav
+- Assets/Music/LoneIsmaLoop.wav
+- Assets/Zemer/Sound/AudLand.wav
+- Assets/Music/Aud_Isma.wav
+- Assets/Zemer/Music/ZP1Intro.wav
+- Assets/Isma/IsmaAud/IsmaAudDeath.wav
+- Assets/Zemer/Sound/ZAudAtt1.wav
+- Assets/Zemer/Sound/ZAudAtt5.wav
+- Assets/Zemer/Sound/ZAudAtt4.wav
+- Assets/Zemer/Music/ZP2Intro.wav
+- Assets/Music/MM_Aud.wav
+Dependencies: []
