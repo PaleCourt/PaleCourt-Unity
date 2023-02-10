@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 41e85e5deaeee2d41b346e92d9569c75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5429004674278882921
+    second: hegemol2_fixed_WHegemol_0
+  - first:
+      213: -1746430398153669072
+    second: hegemol2_fixed_WHegemol_1
+  - first:
+      213: -299297216609756399
+    second: hegemol2_fixed_WHegemol_2
+  - first:
+      213: -2204281054195361320
+    second: hegemol2_fixed_WHegemol_3
+  - first:
+      213: -9102454561837916206
+    second: hegemol2_fixed_WHegemol_4
+  - first:
+      213: 4646942068557558793
+    second: hegemol2_fixed_WHegemol_5
+  - first:
+      213: -8541648220692983498
+    second: hegemol2_fixed_WHegemol_6
+  - first:
+      213: -8234180758741752469
+    second: hegemol2_fixed_WHegemol_7
+  - first:
+      213: -3186038928223518513
+    second: hegemol2_fixed_WHegemol_8
+  - first:
+      213: -129242691239263024
+    second: hegemol2_fixed_WHegemol_9
+  - first:
+      213: -6030756924672971191
+    second: hegemol2_fixed_WHegemol_10
+  - first:
+      213: 1072183239390820395
+    second: hegemol2_fixed_WHegemol_11
+  - first:
+      213: 4417743142402322600
+    second: hegemol2_fixed_WHegemol_12
+  - first:
+      213: -8101270344108527650
+    second: hegemol2_fixed_WHegemol_13
+  - first:
+      213: -1008868504460221632
+    second: hegemol2_fixed_WHegemol_14
+  - first:
+      213: -6301977687217527435
+    second: hegemol2_fixed_WHegemol_15
+  - first:
+      213: -7014541356613200355
+    second: hegemol2_fixed_WHegemol_16
+  - first:
+      213: 2960197037412783378
+    second: hegemol2_fixed_WHegemol_17
+  - first:
+      213: 6767280076670091373
+    second: hegemol2_fixed_WHegemol_18
+  - first:
+      213: -7849832956593964012
+    second: hegemol2_fixed_WHegemol_19
+  - first:
+      213: -4046172047021690932
+    second: hegemol2_fixed_WHegemol_20
+  - first:
+      213: -1049147019826363310
+    second: hegemol2_fixed_WHegemol_21
+  - first:
+      213: 8968410756331135873
+    second: hegemol2_fixed_WHegemol_22
+  - first:
+      213: 2442441419928406712
+    second: hegemol2_fixed_WHegemol_23
+  - first:
+      213: 5861165397904338385
+    second: hegemol2_fixed_WHegemol_24
+  - first:
+      213: -1056709734574264373
+    second: hegemol2_fixed_WHegemol_25
+  - first:
+      213: -8525354792771807279
+    second: hegemol2_fixed_WHegemol_26
+  - first:
+      213: -3162630097514832146
+    second: hegemol2_fixed_WHegemol_27
+  - first:
+      213: -4124411076070506962
+    second: hegemol2_fixed_WHegemol_28
+  - first:
+      213: -371117065241827135
+    second: hegemol2_fixed_WHegemol_29
+  - first:
+      213: -2930263348970143715
+    second: hegemol2_fixed_WHegemol_30
+  - first:
+      213: 8447087673765074643
+    second: hegemol2_fixed_WHegemol_31
+  - first:
+      213: -8395169101714649229
+    second: hegemol2_fixed_WHegemol_32
+  - first:
+      213: 6974358199958472771
+    second: hegemol2_fixed_WHegemol_33
+  - first:
+      213: 1441842194411149049
+    second: hegemol2_fixed_WHegemol_34
+  - first:
+      213: 7210058337760494569
+    second: hegemol2_fixed_WHegemol_35
+  - first:
+      213: 1463362654776829103
+    second: hegemol2_fixed_WHegemol_36
+  - first:
+      213: -5999356419827296477
+    second: hegemol2_fixed_WHegemol_37
+  - first:
+      213: -9124366668080803698
+    second: hegemol2_fixed_WHegemol_38
+  - first:
+      213: 5037675546400586481
+    second: hegemol2_fixed_WHegemol_39
+  - first:
+      213: 7497980070444020174
+    second: hegemol2_fixed_WHegemol_40
+  - first:
+      213: -5969171126880644582
+    second: hegemol2_fixed_WHegemol_41
+  - first:
+      213: -1530843519762505826
+    second: hegemol2_fixed_WHegemol_42
+  - first:
+      213: 6627220280901288219
+    second: hegemol2_fixed_WHegemol_43
+  - first:
+      213: 548810663028462824
+    second: hegemol2_fixed_WHegemol_44
+  - first:
+      213: -255839548613833853
+    second: hegemol2_fixed_WHegemol_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef356bcf2b75b40800000000000000
+      internalID: 5429004674278882921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0364b1d4ece63c7e0800000000000000
+      internalID: -1746430398153669072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_2
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b56b964cea8dbf0800000000000000
+      internalID: -299297216609756399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_3
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9df8b5f02d861e0800000000000000
+      internalID: -2204281054195361320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_4
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df54898dc59da180800000000000000
+      internalID: -9102454561837916206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_5
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9043138d0314d7040800000000000000
+      internalID: 4646942068557558793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_6
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 5580
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6315f39e238f57980800000000000000
+      internalID: -8541648220692983498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6567daf9305abd80800000000000000
+      internalID: -8234180758741752469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cba2a97ae8c3d0800000000000000
+      internalID: -3186038928223518513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_9
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d44ed20576d43ef0800000000000000
+      internalID: -129242691239263024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_10
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ee32287827e4ca0800000000000000
+      internalID: -6030756924672971191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_11
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28740eb9f821ee00800000000000000
+      internalID: 1072183239390820395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_12
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0fec75bf9fe4d30800000000000000
+      internalID: 4417743142402322600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_13
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 4650
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf210e5b81829f80800000000000000
+      internalID: -8101270344108527650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043a19eb077cff1f0800000000000000
+      internalID: -1008868504460221632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57526facea0ea88a0800000000000000
+      internalID: -6301977687217527435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_16
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1698c00dc757ae90800000000000000
+      internalID: -7014541356613200355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_17
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2151720958bb41920800000000000000
+      internalID: 2960197037412783378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_18
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cf7900653aed50800000000000000
+      internalID: 6767280076670091373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_19
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cff04248acf0390800000000000000
+      internalID: -7849832956593964012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_20
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 3720
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2825f5fb19d7c0800000000000000
+      internalID: -4046172047021690932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540716185ea071f0800000000000000
+      internalID: -1049147019826363310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e8e2f012367c70800000000000000
+      internalID: 8968410756331135873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_23
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8883e78b45e120800000000000000
+      internalID: 2442441419928406712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_24
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd26e720ea075150800000000000000
+      internalID: 5861165397904338385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_25
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe0085810d551f0800000000000000
+      internalID: -1056709734574264373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_26
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d799a83cfadfa980800000000000000
+      internalID: -8525354792771807279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_27
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 2790
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5ba1cea41c14d0800000000000000
+      internalID: -3162630097514832146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e71277af523c6c0800000000000000
+      internalID: -4124411076070506962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ec24def689daf0800000000000000
+      internalID: -371117065241827135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_30
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c942620d9557d0800000000000000
+      internalID: -2930263348970143715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_31
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d619551c751a3570800000000000000
+      internalID: 8447087673765074643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_32
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f86f67e2e5e7b80800000000000000
+      internalID: -8395169101714649229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_33
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488bd4c4d5e9c060800000000000000
+      internalID: 6974358199958472771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_34
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 1860
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6db0c26d3720410800000000000000
+      internalID: 1441842194411149049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ce009bd54f0460800000000000000
+      internalID: 7210058337760494569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_36
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4ab8fc498ee4410800000000000000
+      internalID: 1463362654776829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_37
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271c334f110ebca0800000000000000
+      internalID: -5999356419827296477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_38
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8011acbbdcbf5180800000000000000
+      internalID: -9124366668080803698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_39
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf0ecf73b69e540800000000000000
+      internalID: 5037675546400586481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_40
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec136c7e52d2e0860800000000000000
+      internalID: 7497980070444020174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_41
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 930
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12d2c27c7e392da0800000000000000
+      internalID: -5969171126880644582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd8d5fde951cae0800000000000000
+      internalID: -1530843519762505826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11c263abbd98fb50800000000000000
+      internalID: 6627220280901288219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_44
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e412cae364cd9700800000000000000
+      internalID: 548810663028462824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol2_fixed_WHegemol_45
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 880
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b40693943137cf0800000000000000
+      internalID: -255839548613833853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

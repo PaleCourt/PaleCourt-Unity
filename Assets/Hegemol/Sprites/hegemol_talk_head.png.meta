@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 97d6170ebed004744bf4b2e1948191d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7627166765889207803
+    second: hegemol_talk_head_0
+  - first:
+      213: 39652808084120061
+    second: hegemol_talk_head_1
+  - first:
+      213: -5191884681055104255
+    second: hegemol_talk_head_2
+  - first:
+      213: -2704183653315779401
+    second: hegemol_talk_head_3
+  - first:
+      213: -2445159095016896803
+    second: hegemol_talk_head_4
+  - first:
+      213: -7998349655209239924
+    second: hegemol_talk_head_5
+  - first:
+      213: 9039030877805763934
+    second: hegemol_talk_head_6
+  - first:
+      213: -2600022685344999273
+    second: hegemol_talk_head_7
+  - first:
+      213: -3264270065404538449
+    second: hegemol_talk_head_8
+  - first:
+      213: 5285142172437974598
+    second: hegemol_talk_head_9
+  - first:
+      213: 3620825434026853149
+    second: hegemol_talk_head_10
+  - first:
+      213: 1205052290319862501
+    second: hegemol_talk_head_11
+  - first:
+      213: -6328420390556767373
+    second: hegemol_talk_head_12
+  - first:
+      213: 8822916326601771701
+    second: hegemol_talk_head_13
+  - first:
+      213: 4322921629941522819
+    second: hegemol_talk_head_14
+  - first:
+      213: 3165228418113774416
+    second: hegemol_talk_head_15
+  - first:
+      213: 7877024170459154072
+    second: hegemol_talk_head_16
+  - first:
+      213: 4628395555446101351
+    second: hegemol_talk_head_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hegemol_talk_head_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5024284ac3cd62690800000000000000
+      internalID: -7627166765889207803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 672
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df16334d400ec8000800000000000000
+      internalID: 39652808084120061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 672
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031beee368b2f7b0800000000000000
+      internalID: -5191884681055104255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 672
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e1b07b4fc87ad0800000000000000
+      internalID: -2704183653315779401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 672
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6c33212cc011ed0800000000000000
+      internalID: -2445159095016896803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a92eb9d57200190800000000000000
+      internalID: -7998349655209239924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 448
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d566941b6117d70800000000000000
+      internalID: 9039030877805763934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 448
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798dd08a42ddaebd0800000000000000
+      internalID: -2600022685344999273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 448
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11f9c9babf2b2d0800000000000000
+      internalID: -3264270065404538449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 448
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0a9fcdc8985940800000000000000
+      internalID: 5285142172437974598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13cedc5c81cf3230800000000000000
+      internalID: 3620825434026853149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 224
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea49446ca439b010800000000000000
+      internalID: 1205052290319862501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 224
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b66872f2fec28a0800000000000000
+      internalID: -6328420390556767373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 224
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac71a37ab417a70800000000000000
+      internalID: 8822916326601771701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816480915a1efb30800000000000000
+      internalID: 4322921629941522819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a4a6e9762deb20800000000000000
+      internalID: 3165228418113774416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896426fafbfc05d60800000000000000
+      internalID: 7877024170459154072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_talk_head_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7659c524c3d5b3040800000000000000
+      internalID: 4628395555446101351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

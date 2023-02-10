@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: da9c67f949f461e488b814e96e3cf4a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3872802074162460579
+    second: hegemol_stagger_defeat__0
+  - first:
+      213: -2465300002472484566
+    second: hegemol_stagger_defeat__1
+  - first:
+      213: 2722608583274225787
+    second: hegemol_stagger_defeat__2
+  - first:
+      213: -8813624108671718665
+    second: hegemol_stagger_defeat__3
+  - first:
+      213: -4698533961624775169
+    second: hegemol_stagger_defeat__4
+  - first:
+      213: 1541387447455849124
+    second: hegemol_stagger_defeat__5
+  - first:
+      213: -3851256544228685624
+    second: hegemol_stagger_defeat__6
+  - first:
+      213: -4254098930916887872
+    second: hegemol_stagger_defeat__7
+  - first:
+      213: -6561517310967432746
+    second: hegemol_stagger_defeat__8
+  - first:
+      213: -8309935119092461141
+    second: hegemol_stagger_defeat__9
+  - first:
+      213: 5604327138064405277
+    second: hegemol_stagger_defeat__10
+  - first:
+      213: 5361844794625306219
+    second: hegemol_stagger_defeat__11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.67094517, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a779dba7f4feb530800000000000000
+      internalID: 3872802074162460579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1452
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.67094517, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21abdf95be79cdd0800000000000000
+      internalID: -2465300002472484566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__2
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1452
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.67094517, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b706d7cd416a8c520800000000000000
+      internalID: 2722608583274225787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__3
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1452
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.67094517, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faadcad197bfa580800000000000000
+      internalID: -8813624108671718665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.67094517, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff51f3c71447bceb0800000000000000
+      internalID: -4698533961624775169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__5
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 726
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.58926487, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1ad287bb146510800000000000000
+      internalID: 1541387447455849124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__6
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 726
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.5157526, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8c95ee3969d8ac0800000000000000
+      internalID: -3851256544228685624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__7
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 726
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.46091014, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2745fbf8766f4c0800000000000000
+      internalID: -4254098930916887872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.46091014, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b53425cec0f4a0800000000000000
+      internalID: -6561517310967432746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__9
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 0
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.46091014, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba153ff790e2dac80800000000000000
+      internalID: -8309935119092461141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__10
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.46091014, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13196dc6d196cd40800000000000000
+      internalID: 5604327138064405277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hegemol_stagger_defeat__11
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 0
+        width: 857
+        height: 726
+      alignment: 9
+      pivot: {x: 0.46091014, y: 0.42699724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e2b64be69196a40800000000000000
+      internalID: 5361844794625306219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
