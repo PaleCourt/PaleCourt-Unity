@@ -71,3 +71,28 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+AssetBundles/StandaloneWindows/dependencies overworld
+AssetBundles/StandaloneWindows/dependencies overworld.manifest
+AssetBundles/StandaloneWindows/ismawin
+AssetBundles/StandaloneWindows/ismawin.manifest
+AssetBundles/StandaloneWindows/miscbund
+AssetBundles/StandaloneWindows/miscbund.manifest
+AssetBundles/StandaloneWindows/owarenadep
+AssetBundles/StandaloneWindows/owarenadep.manifest
+AssetBundles/StandaloneWindows/owarenadryya
+AssetBundles/StandaloneWindows/owarenadryya.manifest
+AssetBundles/StandaloneWindows/owarenahegemol
+AssetBundles/StandaloneWindows/owarenahegemol.manifest
+AssetBundles/StandaloneWindows/owarenaisma
+AssetBundles/StandaloneWindows/owarenaisma.manifest
+AssetBundles/StandaloneWindows/owarenazemer
+AssetBundles/StandaloneWindows/owarenazemer.manifest
+AssetBundles/StandaloneWindows/rewardroom
+AssetBundles/StandaloneWindows/rewardroom.manifest
+AssetBundles/StandaloneWindows/soundbund
+AssetBundles/StandaloneWindows/soundbund.manifest
+AssetBundles/StandaloneWindows/StandaloneWindows
+AssetBundles/StandaloneWindows/StandaloneWindows.manifest
+AssetBundles/StandaloneWindows/zemerwin
+AssetBundles/StandaloneWindows/zemerwin.manifest
