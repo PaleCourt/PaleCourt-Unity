@@ -1,22 +1,12 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &100100000
-Prefab:
-  m_ObjectHideFlags: 1
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications: []
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1037365077093396}
-  m_IsPrefabParent: 1
 --- !u!1 &1037365077093396
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
   m_Component:
   - component: {fileID: 4505921502184236}
   - component: {fileID: 33550307959614666}
@@ -31,9 +21,10 @@ GameObject:
   m_IsActive: 1
 --- !u!4 &4505921502184236
 Transform:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1037365077093396}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 32, y: 0, z: -0.000002}
@@ -42,11 +33,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &33550307959614666
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1037365077093396}
+  m_Mesh: {fileID: 4300000, guid: 883e44508f31c974384ecc2c23f7e874, type: 3}
 --- !u!23 &23126645503737694
 MeshRenderer:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1037365077093396}
   m_Enabled: 1
   m_CastShadows: 1
@@ -55,6 +55,10 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 168e1d83e8b0d4d4d9002a886e591603, type: 2}
   m_StaticBatchInfo:
@@ -64,6 +68,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -76,18 +81,13 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!33 &33550307959614666
-MeshFilter:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1037365077093396}
-  m_Mesh: {fileID: 4300000, guid: 883e44508f31c974384ecc2c23f7e874, type: 3}
+  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!68 &68488230066044724
 EdgeCollider2D:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1037365077093396}
   m_Enabled: 1
   m_Density: 1
@@ -103,23 +103,27 @@ EdgeCollider2D:
   - {x: 14, y: 15}
   - {x: 14, y: 12}
   - {x: 19, y: 12}
-  - {x: 19, y: 22}
-  - {x: 23, y: 22}
-  - {x: 23, y: 24}
-  - {x: 26, y: 24}
-  - {x: 26, y: 26}
-  - {x: 30, y: 26}
-  - {x: 30, y: 28}
-  - {x: 41, y: 28}
-  - {x: 41, y: 26}
-  - {x: 45, y: 26}
-  - {x: 45, y: 24}
-  - {x: 48, y: 24}
-  - {x: 48, y: 22}
-  - {x: 52, y: 22}
+  - {x: 19, y: 20.7}
+  - {x: 23, y: 20.7}
+  - {x: 23, y: 20.7}
+  - {x: 26, y: 20.7}
+  - {x: 26, y: 20.7}
+  - {x: 30, y: 20.7}
+  - {x: 30, y: 20.7}
+  - {x: 41, y: 20.7}
+  - {x: 41, y: 20.7}
+  - {x: 45, y: 20.7}
+  - {x: 45, y: 20.7}
+  - {x: 48, y: 20.7}
+  - {x: 48, y: 20.7}
+  - {x: 52, y: 20.7}
   - {x: 52, y: 6}
   - {x: 9, y: 6}
   - {x: 9, y: 0}
   - {x: 64, y: 0}
   - {x: 64, y: 32}
   - {x: 9, y: 32}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0
