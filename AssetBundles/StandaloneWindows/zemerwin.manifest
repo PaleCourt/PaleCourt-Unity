@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4251110980
+CRC: 1436570557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 70ca1e82ecf50d10881116425e0a34fa
+    Hash: 13195e2246fefa7206fbb3f603f23b16
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9947a777c40e2f0540602c88e53834a6
+    Hash: 46ecca14435560d34fc6fa33640e2b2e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -34,9 +34,9 @@ ClassTypes:
 - Class: 111
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 84562e21bb85d8344a7479b9afd7121e, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84562e21bb85d8344a7479b9afd7121e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
 - Class: 114
@@ -128,6 +128,7 @@ Assets:
 - Assets/Zemer/Animation/Zemer/Z3Swing.anim
 - Assets/Zemer/Animation/Zemer/ZThrow3Air.anim
 - Assets/Zemer/Animation/Zemer/ZKnocked.anim
+- Assets/Zemer/Animation/ZMultiDashAir.anim
 - Assets/Zemer/Animation/Zemer/ZThrow2.anim
 - Assets/Zemer/Animation/Zemer/Z5LandSlide.anim
 - Assets/Zemer/Animation/ZWalkLeft.anim

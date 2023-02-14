@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2595084043
+CRC: 4064518163
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -43,3 +43,7 @@ AssetBundleManifest:
       Name: owarenazemer
       Dependencies:
         Dependency_0: owarenadep
+    Info_11:
+      Name: hegemolwin
+      Dependencies:
+        Dependency_0: miscbund
