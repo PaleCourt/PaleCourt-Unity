@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: d71ed63081b59fd47b7489e718f6106e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1271358752979033876
+    second: mossbag_0
+  - first:
+      213: -7855798270171467391
+    second: mossbag_1
+  - first:
+      213: 7186450985813008456
+    second: mossbag_2
+  - first:
+      213: -9028562881894568362
+    second: mossbag_3
+  - first:
+      213: -9020124426523305643
+    second: mossbag_4
+  - first:
+      213: 8747885208180139337
+    second: mossbag_5
+  - first:
+      213: -5480188600265236534
+    second: mossbag_6
+  - first:
+      213: -7896577801305723497
+    second: mossbag_7
+  - first:
+      213: -4418933101437925261
+    second: mossbag_8
+  - first:
+      213: 7819050133821344939
+    second: mossbag_9
+  - first:
+      213: -4243605767451862243
+    second: mossbag_10
+  - first:
+      213: 2877365397087715088
+    second: mossbag_11
+  - first:
+      213: 678015599387160670
+    second: mossbag_12
+  - first:
+      213: -7898071482447875312
+    second: mossbag_13
+  - first:
+      213: 5637974755978084020
+    second: mossbag_14
+  - first:
+      213: -3672164163832681989
+    second: mossbag_15
+  - first:
+      213: 3601287267275017573
+    second: mossbag_16
+  - first:
+      213: 825495307336674566
+    second: mossbag_17
+  - first:
+      213: 8987372026879921832
+    second: mossbag_18
+  - first:
+      213: -6264321921217471031
+    second: mossbag_19
+  - first:
+      213: 3667069139821065759
+    second: mossbag_20
+  - first:
+      213: 198373431228313283
+    second: mossbag_21
+  - first:
+      213: 2569074192600596625
+    second: mossbag_22
+  - first:
+      213: -850377969074429686
+    second: mossbag_23
+  - first:
+      213: -8180168131933474356
+    second: mossbag_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mossbag_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2156
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1665cc06c4a110800000000000000
+      internalID: 1271358752979033876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2156
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1813d4758199af290800000000000000
+      internalID: -7855798270171467391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_2
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2156
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840e32d98176bb360800000000000000
+      internalID: 7186450985813008456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 2156
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea560f4e914b280800000000000000
+      internalID: -9028562881894568362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_4
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2156
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559114fef9412d280800000000000000
+      internalID: -9020124426523305643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1617
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a871af3bb66970800000000000000
+      internalID: 8747885208180139337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1617
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9b0bd08572f3b0800000000000000
+      internalID: -5480188600265236534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_7
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1617
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79defebd358b96290800000000000000
+      internalID: -7896577801305723497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_8
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1617
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c39ab1cbcca2c0800000000000000
+      internalID: -4418933101437925261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_9
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1617
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac446b6ba8d28c60800000000000000
+      internalID: 7819050133821344939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b9b30c90fab15c0800000000000000
+      internalID: -4243605767451862243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_11
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1078
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff96e65947ee720800000000000000
+      internalID: 2877365397087715088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_12
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1078
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5035a9689bc86900800000000000000
+      internalID: 678015599387160670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_13
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1078
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133d0e15d9646290800000000000000
+      internalID: -7898071482447875312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_14
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1078
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be71b65b2c1e3e40800000000000000
+      internalID: 5637974755978084020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf965d1262ad90dc0800000000000000
+      internalID: -3672164163832681989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 539
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d801c60b75af130800000000000000
+      internalID: 3601287267275017573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 539
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ded8dbb9fb47b00800000000000000
+      internalID: 825495307336674566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_18
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 539
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aec576cd3f89bc70800000000000000
+      internalID: 8987372026879921832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_19
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 539
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdd3270768a019a0800000000000000
+      internalID: -6264321921217471031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16f4d524fb04e230800000000000000
+      internalID: 3667069139821065759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_21
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 0
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce2d3da593c0c200800000000000000
+      internalID: 198373431228313283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190059bdd5f27a320800000000000000
+      internalID: 2569074192600596625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_23
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01208c1eb9d234f0800000000000000
+      internalID: -850377969074429686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mossbag_24
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 537
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17225ac643a7e80800000000000000
+      internalID: -8180168131933474356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
