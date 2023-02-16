@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 68f0c82532bf9aa4eb28143aab0776b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5840051112339550182
+    second: Boon_Unlock_0
+  - first:
+      213: -8929818607563744122
+    second: Boon_Unlock_1
+  - first:
+      213: 8460731241328677233
+    second: Boon_Unlock_2
+  - first:
+      213: 7044091921128371528
+    second: Boon_Unlock_3
+  - first:
+      213: -2412620933895845307
+    second: Boon_Unlock_4
+  - first:
+      213: -5670968172299449190
+    second: Boon_Unlock_5
+  - first:
+      213: -5023639901499100318
+    second: Boon_Unlock_6
+  - first:
+      213: 7825695285542085540
+    second: Boon_Unlock_7
+  - first:
+      213: 7152195107646454862
+    second: Boon_Unlock_8
+  - first:
+      213: 871026988088068384
+    second: Boon_Unlock_9
+  - first:
+      213: -2538686858770956527
+    second: Boon_Unlock_10
+  - first:
+      213: 2643093728544005023
+    second: Boon_Unlock_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boon_Unlock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2008
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efaf157b870c0150800000000000000
+      internalID: 5840051112339550182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2008
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c5d73e949e21480800000000000000
+      internalID: -8929818607563744122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_2
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2008
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711273bc3e8a6570800000000000000
+      internalID: 8460731241328677233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_3
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 2008
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453e04f744a1c160800000000000000
+      internalID: 7044091921128371528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a87711b06a48ed0800000000000000
+      internalID: -2412620933895845307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_5
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1004
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8b8d4e7cac41b0800000000000000
+      internalID: -5670968172299449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_6
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1004
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263faaf3022784ab0800000000000000
+      internalID: -5023639901499100318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_7
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1004
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a36f2f56647a9c60800000000000000
+      internalID: 7825695285542085540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbd837e83b14360800000000000000
+      internalID: 7152195107646454862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_9
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02984c64e62861c00800000000000000
+      internalID: 871026988088068384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_10
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f3103a0c5c4ccd0800000000000000
+      internalID: -2538686858770956527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boon_Unlock_11
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 0
+        width: 1062
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9ded0eb72ea420800000000000000
+      internalID: 2643093728544005023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b9532a9fb7be66748b70a69b44f0a9e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: charmunlock
+  assetBundleVariant: 

@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: a701f57fe7f712f44bdea571442b999d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -210726685503222244
+    second: Crest_Upgrade_0
+  - first:
+      213: -4097018465421159539
+    second: Crest_Upgrade_1
+  - first:
+      213: 7413316451968796002
+    second: Crest_Upgrade_2
+  - first:
+      213: 8680276739269578107
+    second: Crest_Upgrade_3
+  - first:
+      213: -7093273211917884103
+    second: Crest_Upgrade_4
+  - first:
+      213: 6526774913325532585
+    second: Crest_Upgrade_5
+  - first:
+      213: -7562001623939323917
+    second: Crest_Upgrade_6
+  - first:
+      213: -9119898131544647361
+    second: Crest_Upgrade_7
+  - first:
+      213: 1034522867406751093
+    second: Crest_Upgrade_8
+  - first:
+      213: -7618053062952212949
+    second: Crest_Upgrade_9
+  - first:
+      213: -4050545497160402445
+    second: Crest_Upgrade_10
+  - first:
+      213: -4178350282220833615
+    second: Crest_Upgrade_11
+  - first:
+      213: 6851505957482588608
+    second: Crest_Upgrade_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crest_Upgrade_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2262
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e82ed2239531df0800000000000000
+      internalID: -210726685503222244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_1
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2262
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d831b52a9677427c0800000000000000
+      internalID: -4097018465421159539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_2
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 2262
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c82f190461e660800000000000000
+      internalID: 7413316451968796002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_3
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2262
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dcf3c44b9867870800000000000000
+      internalID: 8680276739269578107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93527d47891af8d90800000000000000
+      internalID: -7093273211917884103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_5
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1508
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a503bd0433c39a50800000000000000
+      internalID: 6526774913325532585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_6
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1508
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f76b26969f5e0790800000000000000
+      internalID: -7562001623939323917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_7
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1508
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395889f7fc9f6180800000000000000
+      internalID: -9119898131544647361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754cc7111d5b5e00800000000000000
+      internalID: 1034522867406751093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 754
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2628a6f91d374690800000000000000
+      internalID: -7618053062952212949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_10
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 754
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9323fb45299c7c0800000000000000
+      internalID: -4050545497160402445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_11
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 754
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4f2116e848306c0800000000000000
+      internalID: -4178350282220833615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crest_Upgrade_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 938
+        height: 754
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9e8341e50751f50800000000000000
+      internalID: 6851505957482588608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: charmunlock
+  assetBundleVariant: 
