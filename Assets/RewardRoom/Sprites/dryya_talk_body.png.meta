@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 17b8d9891a78e0b4fa1dbdac73b2a38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1685494589993424541
+    second: dryya_talk_body_0
+  - first:
+      213: -5926866285311638007
+    second: dryya_talk_body_1
+  - first:
+      213: 1620967872455271637
+    second: dryya_talk_body_2
+  - first:
+      213: 1978811781458188670
+    second: dryya_talk_body_3
+  - first:
+      213: 7474008232431718875
+    second: dryya_talk_body_4
+  - first:
+      213: -5975240018459796064
+    second: dryya_talk_body_5
+  - first:
+      213: 8837637790769673626
+    second: dryya_talk_body_6
+  - first:
+      213: 5701913950366938038
+    second: dryya_talk_body_7
+  - first:
+      213: 4660950295505251402
+    second: dryya_talk_body_8
+  - first:
+      213: 2608074336244187790
+    second: dryya_talk_body_9
+  - first:
+      213: -3228558102502756554
+    second: dryya_talk_body_10
+  - first:
+      213: 7042275963218593735
+    second: dryya_talk_body_11
+  - first:
+      213: 3517216816755308944
+    second: dryya_talk_body_12
+  - first:
+      213: 4790866139332996551
+    second: dryya_talk_body_13
+  - first:
+      213: 6914058134834702130
+    second: dryya_talk_body_14
+  - first:
+      213: -878473991320926664
+    second: dryya_talk_body_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dryya_talk_body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369699cb99beb98e0800000000000000
+      internalID: -1685494589993424541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1005
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c2c0f38a8fbda0800000000000000
+      internalID: -5926866285311638007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1005
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4640611b5de7610800000000000000
+      internalID: 1620967872455271637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1005
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e795c2fb4d6267b10800000000000000
+      internalID: 1978811781458188670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1107e63e209b760800000000000000
+      internalID: 7474008232431718875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 670
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad51048cdea31da0800000000000000
+      internalID: -5975240018459796064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 670
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f4643fb895aa70800000000000000
+      internalID: 8837637790769673626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 670
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3377f1784412f40800000000000000
+      internalID: 5701913950366938038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ca75759950fa040800000000000000
+      internalID: 4660950295505251402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 335
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c5a76acdb13420800000000000000
+      internalID: 2608074336244187790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 335
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2d9be28bd133d0800000000000000
+      internalID: -3228558102502756554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_11
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 335
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78aed4da03bb160800000000000000
+      internalID: 7042275963218593735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dryya_talk_body_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fab05f0aafc030800000000000000
+      internalID: 3517216816755308944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: rewardroomdep
+  assetBundleVariant: 
