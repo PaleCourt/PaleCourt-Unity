@@ -1,61 +1,55 @@
 fileFormatVersion: 2
-guid: 97d6170ebed004744bf4b2e1948191d9
+guid: 9ef3e5a3b93ead34b8e5af103e4507e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7627166765889207803
-    second: hegemol_talk_head_0
+      213: -6049422461442332159
+    second: isma_sit_chat_0
   - first:
-      213: 39652808084120061
-    second: hegemol_talk_head_1
+      213: -2659722243755628175
+    second: isma_sit_chat_1
   - first:
-      213: -5191884681055104255
-    second: hegemol_talk_head_2
+      213: 8367678573563515492
+    second: isma_sit_chat_2
   - first:
-      213: -2704183653315779401
-    second: hegemol_talk_head_3
+      213: -852822999599259208
+    second: isma_sit_chat_3
   - first:
-      213: -2445159095016896803
-    second: hegemol_talk_head_4
+      213: -6278453245535649997
+    second: isma_sit_chat_4
   - first:
-      213: -7998349655209239924
-    second: hegemol_talk_head_5
+      213: 4710783835505103949
+    second: isma_sit_chat_5
   - first:
-      213: 9039030877805763934
-    second: hegemol_talk_head_6
+      213: 3465420230763583085
+    second: isma_sit_chat_6
   - first:
-      213: -2600022685344999273
-    second: hegemol_talk_head_7
+      213: -5335309712900092725
+    second: isma_sit_chat_7
   - first:
-      213: -3264270065404538449
-    second: hegemol_talk_head_8
+      213: -196892945656832548
+    second: isma_sit_chat_8
   - first:
-      213: 5285142172437974598
-    second: hegemol_talk_head_9
+      213: -1172737741506987598
+    second: isma_sit_chat_9
   - first:
-      213: 3620825434026853149
-    second: hegemol_talk_head_10
+      213: -7642549659620759571
+    second: isma_sit_chat_10
   - first:
-      213: 1205052290319862501
-    second: hegemol_talk_head_11
+      213: 5333646892864787779
+    second: isma_sit_chat_11
   - first:
-      213: -6328420390556767373
-    second: hegemol_talk_head_12
+      213: 8361776370180768810
+    second: isma_sit_chat_12
   - first:
-      213: 8822916326601771701
-    second: hegemol_talk_head_13
+      213: -8531200399844766067
+    second: isma_sit_chat_13
   - first:
-      213: 4322921629941522819
-    second: hegemol_talk_head_14
+      213: -8616113214899865642
+    second: isma_sit_chat_14
   - first:
-      213: 3165228418113774416
-    second: hegemol_talk_head_15
-  - first:
-      213: 7877024170459154072
-    second: hegemol_talk_head_16
-  - first:
-      213: 4628395555446101351
-    second: hegemol_talk_head_17
+      213: -7800715265780846488
+    second: isma_sit_chat_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -119,10 +113,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -131,10 +125,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 8192
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -145,379 +139,295 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hegemol_talk_head_0
+      name: isma_sit_chat_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 672
-        width: 175
-        height: 224
+        y: 723
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5024284ac3cd62690800000000000000
-      internalID: -7627166765889207803
+      spriteID: 10ae57192522c0ca0800000000000000
+      internalID: -6049422461442332159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_1
+      name: isma_sit_chat_1
       rect:
         serializedVersion: 2
-        x: 175
-        y: 672
-        width: 175
-        height: 224
+        x: 184
+        y: 723
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df16334d400ec8000800000000000000
-      internalID: 39652808084120061
+      spriteID: 179adbb06b4c61bd0800000000000000
+      internalID: -2659722243755628175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_2
+      name: isma_sit_chat_2
       rect:
         serializedVersion: 2
-        x: 350
-        y: 672
-        width: 175
-        height: 224
+        x: 368
+        y: 723
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1031beee368b2f7b0800000000000000
-      internalID: -5191884681055104255
+      spriteID: 46296eb2457ff1470800000000000000
+      internalID: 8367678573563515492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_3
+      name: isma_sit_chat_3
       rect:
         serializedVersion: 2
-        x: 525
-        y: 672
-        width: 175
-        height: 224
+        x: 552
+        y: 723
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4e1b07b4fc87ad0800000000000000
-      internalID: -2704183653315779401
+      spriteID: 8b16a94100a2a24f0800000000000000
+      internalID: -852822999599259208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_4
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 672
-        width: 175
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dd6c33212cc011ed0800000000000000
-      internalID: -2445159095016896803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hegemol_talk_head_5
+      name: isma_sit_chat_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 448
-        width: 175
-        height: 224
+        y: 482
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8a92eb9d57200190800000000000000
-      internalID: -7998349655209239924
+      spriteID: 33ff2f0b9047ed8a0800000000000000
+      internalID: -6278453245535649997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_6
+      name: isma_sit_chat_5
       rect:
         serializedVersion: 2
-        x: 175
-        y: 448
-        width: 175
-        height: 224
+        x: 184
+        y: 482
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5d566941b6117d70800000000000000
-      internalID: 9039030877805763934
+      spriteID: d441fe880f0106140800000000000000
+      internalID: 4710783835505103949
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_7
+      name: isma_sit_chat_6
       rect:
         serializedVersion: 2
-        x: 350
-        y: 448
-        width: 175
-        height: 224
+        x: 368
+        y: 482
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 798dd08a42ddaebd0800000000000000
-      internalID: -2600022685344999273
+      spriteID: d669d1cd655a71030800000000000000
+      internalID: 3465420230763583085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_8
+      name: isma_sit_chat_7
       rect:
         serializedVersion: 2
-        x: 525
-        y: 448
-        width: 175
-        height: 224
+        x: 552
+        y: 482
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa11f9c9babf2b2d0800000000000000
-      internalID: -3264270065404538449
+      spriteID: bcc06e3751c25f5b0800000000000000
+      internalID: -5335309712900092725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_9
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 448
-        width: 175
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64e0a9fcdc8985940800000000000000
-      internalID: 5285142172437974598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hegemol_talk_head_10
+      name: isma_sit_chat_8
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
-        width: 175
-        height: 224
+        y: 241
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d13cedc5c81cf3230800000000000000
-      internalID: 3620825434026853149
+      spriteID: cdd185bb8ee744df0800000000000000
+      internalID: -196892945656832548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_11
+      name: isma_sit_chat_9
       rect:
         serializedVersion: 2
-        x: 175
-        y: 224
-        width: 175
-        height: 224
+        x: 184
+        y: 241
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ea49446ca439b010800000000000000
-      internalID: 1205052290319862501
+      spriteID: 2b938cecc3999bfe0800000000000000
+      internalID: -1172737741506987598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_12
+      name: isma_sit_chat_10
       rect:
         serializedVersion: 2
-        x: 350
-        y: 224
-        width: 175
-        height: 224
+        x: 368
+        y: 241
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37b66872f2fec28a0800000000000000
-      internalID: -6328420390556767373
+      spriteID: de7a508939530f590800000000000000
+      internalID: -7642549659620759571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_13
+      name: isma_sit_chat_11
       rect:
         serializedVersion: 2
-        x: 525
-        y: 224
-        width: 175
-        height: 224
+        x: 552
+        y: 241
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bac71a37ab417a70800000000000000
-      internalID: 8822916326601771701
+      spriteID: 3455296179be40a40800000000000000
+      internalID: 5333646892864787779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_14
-      rect:
-        serializedVersion: 2
-        x: 700
-        y: 224
-        width: 175
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3816480915a1efb30800000000000000
-      internalID: 4322921629941522819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hegemol_talk_head_15
+      name: isma_sit_chat_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 175
-        height: 224
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 053a4a6e9762deb20800000000000000
-      internalID: 3165228418113774416
+      spriteID: a2441eb5e4ffa0470800000000000000
+      internalID: 8361776370180768810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hegemol_talk_head_16
+      name: isma_sit_chat_13
       rect:
         serializedVersion: 2
-        x: 175
+        x: 184
         y: 0
-        width: 175
-        height: 224
+        width: 184
+        height: 241
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 896426fafbfc05d60800000000000000
-      internalID: 7877024170459154072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hegemol_talk_head_17
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 0
-        width: 175
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7659c524c3d5b3040800000000000000
-      internalID: 4628395555446101351
+      spriteID: d8e0593cf661b9980800000000000000
+      internalID: -8531200399844766067
       vertices: []
       indices: 
       edges: []
