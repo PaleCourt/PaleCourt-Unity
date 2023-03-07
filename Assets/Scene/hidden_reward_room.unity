@@ -204,7 +204,11 @@ Transform:
   m_LocalScale: {x: -1.508937, y: 1.6113111, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 49
+=======
+  m_RootOrder: 40
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 127.864006}
 --- !u!1 &5934365
 GameObject:
@@ -286,7 +290,11 @@ Transform:
   m_LocalScale: {x: 7.758987, y: 4.795416, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 118
+=======
+  m_RootOrder: 109
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -4.2380004}
 --- !u!1 &6202776
 GameObject:
@@ -480,7 +488,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 26
+=======
+  m_RootOrder: 17
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &9590114
 GameObject:
@@ -726,7 +738,11 @@ Transform:
   m_LocalScale: {x: 3.4079354, y: 1.9194193, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 84
+=======
+  m_RootOrder: 75
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -34.121002}
 --- !u!1 &11759332
 GameObject:
@@ -1252,7 +1268,11 @@ Transform:
   - {fileID: 1133166722}
   - {fileID: 1838570540}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 79
+=======
+  m_RootOrder: 70
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17.808}
 --- !u!1 &24055654
 GameObject:
@@ -1294,7 +1314,11 @@ Transform:
   - {fileID: 443750720}
   - {fileID: 2095931925}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 209
+=======
+  m_RootOrder: 200
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &26400630
 GameObject:
@@ -1624,7 +1648,11 @@ Transform:
   - {fileID: 109796160}
   - {fileID: 1119588025}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 135
+=======
+  m_RootOrder: 126
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 50.081}
 --- !u!1 &42424630
 GameObject:
@@ -1666,7 +1694,11 @@ Transform:
   - {fileID: 1209915246}
   - {fileID: 1303178816}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 192
+=======
+  m_RootOrder: 183
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &46490776
 GameObject:
@@ -1750,7 +1782,11 @@ Transform:
   - {fileID: 1148197901}
   - {fileID: 772494183}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 96
+=======
+  m_RootOrder: 87
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &49471479
 GameObject:
@@ -1996,7 +2032,11 @@ Transform:
   m_LocalScale: {x: -1.6, y: 1.6, z: 1.6}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 18
+=======
+  m_RootOrder: 9
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &52773149
 GameObject:
@@ -2080,7 +2120,11 @@ Transform:
   - {fileID: 306857781}
   - {fileID: 383282326}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 98
+=======
+  m_RootOrder: 89
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &55383666
 GameObject:
@@ -2159,6 +2203,110 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &60690972
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 60690973}
+  - component: {fileID: 60690975}
+  - component: {fileID: 60690974}
+  m_Layer: 0
+  m_Name: Dryya
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &60690973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60690972}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -137.92609, y: 19.853264, z: 85.160645}
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1}
+  m_Children:
+  - {fileID: 729544712}
+  m_Father: {fileID: 326875962}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &60690974
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60690972}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 5c6a870c478eb8c4ea21abd511123dd7, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &60690975
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 60690972}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -1685494589993424541, guid: 17b8d9891a78e0b4fa1dbdac73b2a38d,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.16, y: 3.35}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -2982,7 +3130,11 @@ Transform:
   m_LocalScale: {x: -1.508937, y: 1.6113111, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 50
+=======
+  m_RootOrder: 41
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 121.71901}
 --- !u!1 &85312294
 GameObject:
@@ -3146,7 +3298,11 @@ Transform:
   m_LocalScale: {x: 1.3536448, y: 1.477363, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 42
+=======
+  m_RootOrder: 33
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -134.89801}
 --- !u!1 &85864888
 GameObject:
@@ -3504,7 +3660,11 @@ Transform:
   m_LocalScale: {x: 2.2969153, y: 1.8509538, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 215
+=======
+  m_RootOrder: 206
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30.905}
 --- !u!1 &94198425
 GameObject:
@@ -3593,7 +3753,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1828941054}
     m_Modifications:
     - target: {fileID: 1266439657969330, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_Name
@@ -3609,19 +3769,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 10
+=======
+      value: 8
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 336.5
+      value: 9.862549
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 121.345276
+      value: -27.215591
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 67.86618
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3646,6 +3810,12 @@ PrefabInstance:
       objectReference: {fileID: 6200000, guid: 219d2b7c41548a54aa6cf6e30fa20b17, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
+--- !u!4 &97304153 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653,
+    type: 3}
+  m_PrefabInstance: {fileID: 97304152}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &99999158
 GameObject:
   m_ObjectHideFlags: 0
@@ -3726,7 +3896,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 31
+=======
+  m_RootOrder: 22
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &103541852
 GameObject:
@@ -4056,7 +4230,11 @@ Transform:
   - {fileID: 1093381480}
   - {fileID: 2075649687}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 107
+=======
+  m_RootOrder: 98
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -43.144}
 --- !u!1 &109796159
 GameObject:
@@ -4580,7 +4758,11 @@ Transform:
   - {fileID: 354787265}
   - {fileID: 805365458}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 104
+=======
+  m_RootOrder: 95
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &134673126
 GameObject:
@@ -5062,7 +5244,11 @@ Transform:
   - {fileID: 317405102}
   - {fileID: 1046265201}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 206
+=======
+  m_RootOrder: 197
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &146393524
 GameObject:
@@ -6160,7 +6346,11 @@ Transform:
   - {fileID: 1589930357}
   - {fileID: 1319227036}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 48
+=======
+  m_RootOrder: 39
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &176065728
 GameObject:
@@ -6369,7 +6559,7 @@ GameObject:
   - component: {fileID: 184999331}
   - component: {fileID: 184999330}
   - component: {fileID: 184999329}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: secretroom_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6473,11 +6663,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 184999328}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 225.5, y: 121.3453, z: 0}
+  m_LocalPosition: {x: -101.13745, y: -27.215569, z: 67.86618}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 11
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 9
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &194640772
 GameObject:
@@ -6601,7 +6796,11 @@ Transform:
   - {fileID: 2004964765}
   - {fileID: 1551017283}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 201
+=======
+  m_RootOrder: 192
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &195171304
 GameObject:
@@ -7013,7 +7212,11 @@ Transform:
   - {fileID: 1998996208}
   - {fileID: 584003304}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 97
+=======
+  m_RootOrder: 88
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &200172742
 GameObject:
@@ -7359,7 +7562,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &214576288
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7423,7 +7626,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 124
+=======
+  m_RootOrder: 115
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &216315923
 GameObject:
@@ -7833,7 +8040,11 @@ Transform:
   m_LocalScale: {x: 1.0389872, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 24
+=======
+  m_RootOrder: 15
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &228357920
 GameObject:
@@ -7875,7 +8086,11 @@ Transform:
   - {fileID: 649450108}
   - {fileID: 341200955}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 205
+=======
+  m_RootOrder: 196
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &229182000
 GameObject:
@@ -8039,7 +8254,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 37
+=======
+  m_RootOrder: 28
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &234663663
 GameObject:
@@ -9393,7 +9612,11 @@ Transform:
   - {fileID: 317349942}
   - {fileID: 1782551700}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 189
+=======
+  m_RootOrder: 180
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &276126325
 GameObject:
@@ -10297,7 +10520,11 @@ Transform:
   - {fileID: 1198191178}
   - {fileID: 229182001}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 232
+=======
+  m_RootOrder: 223
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &295777892
 GameObject:
@@ -10379,7 +10606,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 122
+=======
+  m_RootOrder: 113
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &296735483
 GameObject:
@@ -10789,7 +11020,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 136
+=======
+  m_RootOrder: 127
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &302060060
 GameObject:
@@ -12349,7 +12584,11 @@ Transform:
   - {fileID: 1291243630}
   - {fileID: 146393525}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 62
+=======
+  m_RootOrder: 53
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &326597832
 GameObject:
@@ -12432,6 +12671,41 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1000469635}
   m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &326875961
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 326875962}
+  m_Layer: 0
+  m_Name: Knights
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &326875962
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326875961}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 436.66608, y: 110.30674, z: -85.06065}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1584113972}
+  - {fileID: 1363015289}
+  - {fileID: 60690973}
+  - {fileID: 1699918393}
+  - {fileID: 1788266177}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &327134129
 GameObject:
@@ -13089,6 +13363,7 @@ Transform:
   - {fileID: 2083100337}
   - {fileID: 580853683}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 147
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &347882489
@@ -13122,77 +13397,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 245
+=======
+  m_RootOrder: 138
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &347882491
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347882489}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 4eb6f88f51a42334f8d121df9194f536, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &347882492
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 347882489}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f06cbd41e10fe344c8351286863182dd, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 2.28, y: 3.17}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &351230594
 GameObject:
   m_ObjectHideFlags: 0
@@ -13765,7 +13973,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 149
+=======
+  m_RootOrder: 140
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &363340720
 GameObject:
@@ -14205,7 +14417,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 169
+=======
+  m_RootOrder: 160
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &373139984
 GameObject:
@@ -14247,7 +14463,11 @@ Transform:
   - {fileID: 410506728}
   - {fileID: 957335962}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 184
+=======
+  m_RootOrder: 175
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &375367729
 GameObject:
@@ -14992,7 +15212,11 @@ Transform:
   - {fileID: 774695472}
   - {fileID: 1754419291}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 231
+=======
+  m_RootOrder: 222
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 180}
 --- !u!1 &390195565
 GameObject:
@@ -15238,7 +15462,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 28
+=======
+  m_RootOrder: 19
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &395915840
 GameObject:
@@ -15280,7 +15508,11 @@ Transform:
   - {fileID: 1216463442}
   - {fileID: 1775173770}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 178
+=======
+  m_RootOrder: 169
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &398996642
 GameObject:
@@ -15556,7 +15788,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 163
+=======
+  m_RootOrder: 154
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &403814625
 GameObject:
@@ -15720,7 +15956,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 144
+=======
+  m_RootOrder: 135
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &409542377
 GameObject:
@@ -15802,7 +16042,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 41
+=======
+  m_RootOrder: 32
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &409551132
 GameObject:
@@ -15884,7 +16128,11 @@ Transform:
   m_LocalScale: {x: 10.40367, y: 7.726873, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 116
+=======
+  m_RootOrder: 107
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -15.065001}
 --- !u!1 &410406576
 GameObject:
@@ -15966,7 +16214,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 29
+=======
+  m_RootOrder: 20
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410506727
 GameObject:
@@ -16418,7 +16670,11 @@ Transform:
   - {fileID: 55383667}
   - {fileID: 64938553}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 214
+=======
+  m_RootOrder: 205
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &417160682
 GameObject:
@@ -16502,7 +16758,11 @@ Transform:
   - {fileID: 1118327138}
   - {fileID: 26400631}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 133
+=======
+  m_RootOrder: 124
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 19.890001}
 --- !u!1 &417726363
 GameObject:
@@ -16912,7 +17172,11 @@ Transform:
   m_LocalScale: {x: 13.066549, y: 10.3806, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 115
+=======
+  m_RootOrder: 106
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -7.7950006}
 --- !u!1 &422944760
 GameObject:
@@ -17008,7 +17272,11 @@ Transform:
   - {fileID: 874007176}
   - {fileID: 677361105}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 47
+=======
+  m_RootOrder: 38
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &431633241
 GameObject:
@@ -17326,7 +17594,11 @@ Transform:
   - {fileID: 1693478187}
   - {fileID: 1093207708}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 181
+=======
+  m_RootOrder: 172
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &438410951
 GameObject:
@@ -17490,7 +17762,11 @@ Transform:
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 159
+=======
+  m_RootOrder: 150
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &443750719
 GameObject:
@@ -17656,7 +17932,11 @@ Transform:
   - {fileID: 2121995827}
   - {fileID: 1766147340}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 132
+=======
+  m_RootOrder: 123
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10.007001}
 --- !u!1 &454366013
 GameObject:
@@ -19634,7 +19914,11 @@ Transform:
   - {fileID: 1363597933}
   - {fileID: 454908902}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 57
+=======
+  m_RootOrder: 48
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &521560595
 GameObject:
@@ -19716,7 +20000,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 142
+=======
+  m_RootOrder: 133
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &523787133
 GameObject:
@@ -20297,7 +20585,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1828941054}
     m_Modifications:
     - target: {fileID: 1266439657969330, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_Name
@@ -20309,19 +20597,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 9
+=======
+      value: 7
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 256.5
+      value: -70.13745
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 121.3453
+      value: -27.215569
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 67.86618
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalRotation.w
@@ -20346,6 +20638,12 @@ PrefabInstance:
       objectReference: {fileID: 6200000, guid: 219d2b7c41548a54aa6cf6e30fa20b17, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
+--- !u!4 &542182397 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653,
+    type: 3}
+  m_PrefabInstance: {fileID: 542182396}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &545845482
 GameObject:
   m_ObjectHideFlags: 0
@@ -20948,7 +21246,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 140
+=======
+  m_RootOrder: 131
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &575689856
 GameObject:
@@ -21114,7 +21416,11 @@ Transform:
   - {fileID: 2145359141}
   - {fileID: 196831063}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 95
+=======
+  m_RootOrder: 86
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &578017640
 GameObject:
@@ -21320,7 +21626,11 @@ Transform:
   - {fileID: 1838858297}
   - {fileID: 401659986}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 177
+=======
+  m_RootOrder: 168
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &579460928
 GameObject:
@@ -21484,7 +21794,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 56
+=======
+  m_RootOrder: 47
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &580853682
 GameObject:
@@ -22212,7 +22526,11 @@ Transform:
   - {fileID: 289651935}
   - {fileID: 1879641784}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 213
+=======
+  m_RootOrder: 204
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &599079052
 GameObject:
@@ -22448,7 +22766,11 @@ Transform:
   - {fileID: 599969095}
   - {fileID: 959903388}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 204
+=======
+  m_RootOrder: 195
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &604056720
 GameObject:
@@ -22490,7 +22812,11 @@ Transform:
   - {fileID: 1568810172}
   - {fileID: 477667174}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 188
+=======
+  m_RootOrder: 179
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &604191157
 GameObject:
@@ -22984,7 +23310,11 @@ Transform:
   - {fileID: 432886299}
   - {fileID: 1584110904}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 70
+=======
+  m_RootOrder: 61
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &616993964
 GameObject:
@@ -23066,7 +23396,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 36
+=======
+  m_RootOrder: 27
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &617530993
 GameObject:
@@ -23700,7 +24034,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 221
+=======
+  m_RootOrder: 212
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &633712598
 GameObject:
@@ -23784,7 +24122,11 @@ Transform:
   - {fileID: 2045109480}
   - {fileID: 1203603778}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 75
+=======
+  m_RootOrder: 66
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.254002}
 --- !u!1 &636459069
 GameObject:
@@ -24276,7 +24618,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 39
+=======
+  m_RootOrder: 30
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &650341886
 GameObject:
@@ -24882,7 +25228,11 @@ Transform:
   - {fileID: 72572764}
   - {fileID: 797916267}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 74
+=======
+  m_RootOrder: 65
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 11.624001}
 --- !u!1 &670631015
 GameObject:
@@ -24986,11 +25336,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670631015}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 241.44, y: 152.9, z: 0}
+  m_LocalPosition: {x: -85.19745, y: 4.3391266, z: 67.86618}
   m_LocalScale: {x: 5.026292, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 5
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 3
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &670996624
 GameObject:
@@ -25094,11 +25449,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 670996624}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 213.93, y: 100.67, z: 0}
+  m_LocalPosition: {x: -112.70746, y: -47.89087, z: 67.86618}
   m_LocalScale: {x: 1.1568348, y: 4.2810154, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 2
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 0
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &676112861
 GameObject:
@@ -25180,7 +25540,11 @@ Transform:
   m_LocalScale: {x: 1.6802543, y: 1.5672065, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 81
+=======
+  m_RootOrder: 72
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -5.5270004}
 --- !u!1 &677361104
 GameObject:
@@ -25426,7 +25790,11 @@ Transform:
   m_LocalScale: {x: 15.104607, y: 12.872833, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 112
+=======
+  m_RootOrder: 103
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -7.7950006}
 --- !u!1 &682654326
 GameObject:
@@ -25508,7 +25876,11 @@ Transform:
   m_LocalScale: {x: 1.4626732, y: 1.4975746, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 52
+=======
+  m_RootOrder: 43
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -117.144005}
 --- !u!1 &684895800
 GameObject:
@@ -25672,7 +26044,11 @@ Transform:
   m_LocalScale: {x: 1.9383762, y: 1.7741762, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 82
+=======
+  m_RootOrder: 73
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &691189137
 GameObject:
@@ -25836,7 +26212,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 137
+=======
+  m_RootOrder: 128
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -25.217001}
 --- !u!1 &696967823
 GameObject:
@@ -25920,7 +26300,11 @@ Transform:
   - {fileID: 1194527254}
   - {fileID: 720009759}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 58
+=======
+  m_RootOrder: 49
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &698722845
 GameObject:
@@ -26126,7 +26510,11 @@ Transform:
   - {fileID: 1225431607}
   - {fileID: 1790138883}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 198
+=======
+  m_RootOrder: 189
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &704470687
 GameObject:
@@ -26209,7 +26597,11 @@ Transform:
   m_Children:
   - {fileID: 2024289493}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 65
+=======
+  m_RootOrder: 56
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &713818284
 GameObject:
@@ -26867,6 +27259,109 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &729544711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 729544712}
+  - component: {fileID: 729544714}
+  - component: {fileID: 729544713}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &729544712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729544711}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.27, y: 1.64, z: -0.01}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 60690973}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &729544713
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729544711}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3e7af52c2df80ee40aeab5763d9846ef, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &729544714
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729544711}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -650631642697575268, guid: f2028f9f83cfc9247b5036c53e3e8c67,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.94, y: 1.41}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &738285510
 GameObject:
   m_ObjectHideFlags: 0
@@ -27265,7 +27760,11 @@ Transform:
   - {fileID: 1566697722}
   - {fileID: 1258062990}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 194
+=======
+  m_RootOrder: 185
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &750092444
 GameObject:
@@ -27349,7 +27848,11 @@ Transform:
   - {fileID: 413415346}
   - {fileID: 1759416829}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 237
+=======
+  m_RootOrder: 228
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &757803045
 GameObject:
@@ -27513,7 +28016,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 164
+=======
+  m_RootOrder: 155
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &760898987
 GameObject:
@@ -27595,7 +28102,11 @@ Transform:
   m_LocalScale: {x: 3.5248115, y: 1.8868723, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 173
+=======
+  m_RootOrder: 164
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -32.283}
 --- !u!1 &761687776
 GameObject:
@@ -31400,7 +31911,11 @@ Transform:
   m_Children:
   - {fileID: 11759333}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 69
+=======
+  m_RootOrder: 60
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &797400402
 GameObject:
@@ -31840,7 +32355,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 33
+=======
+  m_RootOrder: 24
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &820365903
 GameObject:
@@ -31924,7 +32443,11 @@ Transform:
   - {fileID: 957987373}
   - {fileID: 1222701601}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 234
+=======
+  m_RootOrder: 225
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &820608960
 GameObject:
@@ -32078,7 +32601,11 @@ Transform:
   - {fileID: 1000494769}
   - {fileID: 664338681}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 197
+=======
+  m_RootOrder: 188
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &830559198
 GameObject:
@@ -32242,7 +32769,11 @@ Transform:
   m_LocalScale: {x: 4.641584, y: 5.5332413, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 85
+=======
+  m_RootOrder: 76
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &833666966
 GameObject:
@@ -32741,7 +33272,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1828941054}
     m_Modifications:
     - target: {fileID: 1266439657969330, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_Layer
@@ -32753,19 +33284,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 8
+=======
+      value: 6
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 265.5
+      value: -61.13745
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 121.345276
+      value: -27.215591
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 67.86618
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalRotation.w
@@ -32790,6 +33325,12 @@ PrefabInstance:
       objectReference: {fileID: 6200000, guid: 219d2b7c41548a54aa6cf6e30fa20b17, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
+--- !u!4 &842267537 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653,
+    type: 3}
+  m_PrefabInstance: {fileID: 842267536}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &842862250
 GameObject:
   m_ObjectHideFlags: 0
@@ -33034,7 +33575,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 27
+=======
+  m_RootOrder: 18
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &847457123
 GameObject:
@@ -33200,7 +33745,11 @@ Transform:
   - {fileID: 1514178816}
   - {fileID: 2063107011}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 77
+=======
+  m_RootOrder: 68
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.254002}
 --- !u!1 &854169650
 GameObject:
@@ -33874,7 +34423,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &870959147
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -33938,7 +34487,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 130
+=======
+  m_RootOrder: 121
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &870972843
 GameObject:
@@ -34022,7 +34575,11 @@ Transform:
   - {fileID: 2140577979}
   - {fileID: 613159917}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 60
+=======
+  m_RootOrder: 51
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &871167663
 GameObject:
@@ -34228,7 +34785,11 @@ Transform:
   - {fileID: 782579463}
   - {fileID: 12304066}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 182
+=======
+  m_RootOrder: 173
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &874007175
 GameObject:
@@ -34392,7 +34953,11 @@ Transform:
   m_LocalScale: {x: 7.352878, y: 70.58433, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 14
+=======
+  m_RootOrder: 5
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 88.649}
 --- !u!1 &874420944
 GameObject:
@@ -34558,7 +35123,11 @@ Transform:
   - {fileID: 1697809968}
   - {fileID: 713818285}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 233
+=======
+  m_RootOrder: 224
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &878720038
 GameObject:
@@ -35132,7 +35701,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 150
+=======
+  m_RootOrder: 141
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -33.532}
 --- !u!1 &895266823
 GameObject:
@@ -35378,7 +35951,11 @@ Transform:
   m_LocalScale: {x: 3.5248115, y: 1.8868723, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 172
+=======
+  m_RootOrder: 163
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -9.745001}
 --- !u!1 &900389347
 GameObject:
@@ -35584,7 +36161,11 @@ Transform:
   - {fileID: 684895801}
   - {fileID: 1424908341}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 202
+=======
+  m_RootOrder: 193
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &909434194
 GameObject:
@@ -35912,7 +36493,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 22
+=======
+  m_RootOrder: 13
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &920583263
 GameObject:
@@ -36106,7 +36691,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 40
+=======
+  m_RootOrder: 31
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &924066253
 GameObject:
@@ -36270,7 +36859,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 220
+=======
+  m_RootOrder: 211
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -176.27101}
 --- !u!1 &925353663
 GameObject:
@@ -36680,7 +37273,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 16
+=======
+  m_RootOrder: 7
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &939440475
 GameObject:
@@ -36844,7 +37441,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 63
+=======
+  m_RootOrder: 54
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &942757298
 GameObject:
@@ -38465,7 +39066,11 @@ Transform:
   m_Children:
   - {fileID: 196585564}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 89
+=======
+  m_RootOrder: 80
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &989013573
 GameObject:
@@ -38483,7 +39088,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &989013574
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -38547,7 +39152,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 126
+=======
+  m_RootOrder: 117
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &989879460
 GameObject:
@@ -38713,7 +39322,11 @@ Transform:
   - {fileID: 1352885108}
   - {fileID: 15873517}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 94
+=======
+  m_RootOrder: 85
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &993799987
 GameObject:
@@ -38797,7 +39410,11 @@ Transform:
   - {fileID: 2025525081}
   - {fileID: 299189190}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 87
+=======
+  m_RootOrder: 78
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -36.173}
 --- !u!1 &1000469633
 GameObject:
@@ -38892,7 +39509,11 @@ Transform:
   - {fileID: 326597834}
   - {fileID: 9590116}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 46
+=======
+  m_RootOrder: 37
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1000494768
 GameObject:
@@ -39158,7 +39779,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 217
+=======
+  m_RootOrder: 208
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1010585638
 GameObject:
@@ -39322,7 +39947,11 @@ Transform:
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 228
+=======
+  m_RootOrder: 219
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 14.055}
 --- !u!1 &1013123805
 GameObject:
@@ -39340,7 +39969,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1013123806
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39404,8 +40033,95 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 125
+=======
+  m_RootOrder: 116
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1016756315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1016756316}
+  - component: {fileID: 1016756317}
+  m_Layer: 0
+  m_Name: Head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1016756316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016756315}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.22, y: 1.5, z: -0.01}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1363015289}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1016756317
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1016756315}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -7627166765889207803, guid: 97d6170ebed004744bf4b2e1948191d9,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.75, y: 2.24}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1020144194
 GameObject:
   m_ObjectHideFlags: 0
@@ -39652,7 +40368,11 @@ Transform:
   - {fileID: 1382645282}
   - {fileID: 1151862742}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 99
+=======
+  m_RootOrder: 90
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1026405518
 GameObject:
@@ -39816,7 +40536,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 162
+=======
+  m_RootOrder: 153
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1031469674
 GameObject:
@@ -39981,7 +40705,11 @@ Transform:
   m_Children:
   - {fileID: 256583553}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 88
+=======
+  m_RootOrder: 79
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 32.966003}
 --- !u!1 &1040417863
 GameObject:
@@ -40311,7 +41039,11 @@ Transform:
   - {fileID: 773840986}
   - {fileID: 438410952}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 100
+=======
+  m_RootOrder: 91
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1046265200
 GameObject:
@@ -40557,7 +41289,11 @@ Transform:
   m_LocalScale: {x: -1.038987, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 35
+=======
+  m_RootOrder: 26
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1052596273
 GameObject:
@@ -40575,7 +41311,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1052596274
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -40639,7 +41375,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 131
+=======
+  m_RootOrder: 122
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1056715433
 GameObject:
@@ -40721,7 +41461,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1.6548686, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 54
+=======
+  m_RootOrder: 45
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1064110706
 GameObject:
@@ -41296,7 +42040,11 @@ Transform:
   m_Children:
   - {fileID: 964408468}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 229
+=======
+  m_RootOrder: 220
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1073874369
 GameObject:
@@ -41666,7 +42414,11 @@ Transform:
   - {fileID: 172374987}
   - {fileID: 279066471}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 183
+=======
+  m_RootOrder: 174
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1083403489
 GameObject:
@@ -41914,7 +42666,11 @@ Transform:
   - {fileID: 1255485054}
   - {fileID: 2105216879}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 105
+=======
+  m_RootOrder: 96
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1093207707
 GameObject:
@@ -42160,7 +42916,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 167
+=======
+  m_RootOrder: 158
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1095949146
 GameObject:
@@ -42324,7 +43084,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 158
+=======
+  m_RootOrder: 149
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1097212011
 GameObject:
@@ -42652,7 +43416,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 154
+=======
+  m_RootOrder: 145
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1102291222
 GameObject:
@@ -42734,7 +43502,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 55
+=======
+  m_RootOrder: 46
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1103573275
 GameObject:
@@ -42898,7 +43670,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 223
+=======
+  m_RootOrder: 214
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1112844199
 GameObject:
@@ -43246,7 +44022,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 101
+=======
+  m_RootOrder: 92
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1117492722
 GameObject:
@@ -43575,11 +44355,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1121496507}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 275.5, y: 121.3453, z: 0}
+  m_LocalPosition: {x: -51.13745, y: -27.215569, z: 67.86618}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 13
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 11
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!68 &1121496511
 EdgeCollider2D:
@@ -43811,7 +44596,11 @@ Transform:
   m_Children:
   - {fileID: 454921148}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 66
+=======
+  m_RootOrder: 57
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1133166721
 GameObject:
@@ -45317,7 +46106,11 @@ Transform:
   m_LocalScale: {x: 1.6, y: 1.6, z: 1.6}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 20
+=======
+  m_RootOrder: 11
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1179134393
 GameObject:
@@ -45471,7 +46264,11 @@ Transform:
   - {fileID: 1705169203}
   - {fileID: 1714833730}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 208
+=======
+  m_RootOrder: 199
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1188364271
 GameObject:
@@ -45637,7 +46434,11 @@ Transform:
   - {fileID: 838291223}
   - {fileID: 1498881496}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 72
+=======
+  m_RootOrder: 63
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1191525136
 GameObject:
@@ -45721,7 +46522,11 @@ Transform:
   - {fileID: 239572791}
   - {fileID: 1064229693}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 59
+=======
+  m_RootOrder: 50
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1194527253
 GameObject:
@@ -46009,7 +46814,11 @@ Transform:
   - {fileID: 1072778753}
   - {fileID: 1697321501}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 207
+=======
+  m_RootOrder: 198
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1198443908
 GameObject:
@@ -46092,11 +46901,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1198443908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 328.5, y: 121.3453, z: 0}
+  m_LocalPosition: {x: 1.8625488, y: -27.215569, z: 67.86618}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 12
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 10
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1198443912
 BoxCollider2D:
@@ -46861,7 +47675,11 @@ Transform:
   - {fileID: 721914984}
   - {fileID: 1725314758}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 196
+=======
+  m_RootOrder: 187
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1211229644
 GameObject:
@@ -46965,11 +47783,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1211229644}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 361.5, y: 100.67, z: 0}
+  m_LocalPosition: {x: 34.86255, y: -47.89087, z: 67.86618}
   m_LocalScale: {x: 1.1568348, y: 4.2810154, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 3
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 1
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1213459366
 GameObject:
@@ -47133,7 +47956,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 139
+=======
+  m_RootOrder: 130
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1216463441
 GameObject:
@@ -47543,7 +48370,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 23
+=======
+  m_RootOrder: 14
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1225431606
 GameObject:
@@ -47995,7 +48826,11 @@ Transform:
   - {fileID: 1418582139}
   - {fileID: 1891659110}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 203
+=======
+  m_RootOrder: 194
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1234602059
 GameObject:
@@ -48777,7 +49612,11 @@ Transform:
   - {fileID: 1575105441}
   - {fileID: 1692767174}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 175
+=======
+  m_RootOrder: 166
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1252600616
 GameObject:
@@ -48941,7 +49780,11 @@ Transform:
   m_LocalScale: {x: 9.527822, y: 6.9386606, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 117
+=======
+  m_RootOrder: 108
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 43.34}
 --- !u!1 &1255485053
 GameObject:
@@ -50437,7 +51280,11 @@ Transform:
   - {fileID: 1352253279}
   - {fileID: 1357294543}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 176
+=======
+  m_RootOrder: 167
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1298328832
 GameObject:
@@ -50519,7 +51366,11 @@ Transform:
   m_LocalScale: {x: 15.104607, y: 12.872833, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 114
+=======
+  m_RootOrder: 105
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 17.989}
 --- !u!1 &1301523419
 GameObject:
@@ -51361,11 +52212,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1318472710}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 241.44, y: 100.73, z: 0}
+  m_LocalPosition: {x: -85.19745, y: -47.830864, z: 67.86618}
   m_LocalScale: {x: 5.026292, y: 1.3103795, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 4
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 2
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1319227034
 GameObject:
@@ -51753,7 +52609,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 121
+=======
+  m_RootOrder: 112
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1327329913
 GameObject:
@@ -52409,7 +53269,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 120
+=======
+  m_RootOrder: 111
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1343759824
 GameObject:
@@ -52449,7 +53313,6 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0dc4433ec5e1ebb4799c075bfbcd388b, type: 2}
   - {fileID: 2100000, guid: 0dc4433ec5e1ebb4799c075bfbcd388b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -57226,7 +58089,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 230
+=======
+  m_RootOrder: 221
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1350598444
 GameObject:
@@ -57308,7 +58175,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 165
+=======
+  m_RootOrder: 156
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1352253278
 GameObject:
@@ -57432,7 +58303,11 @@ Transform:
   - {fileID: 860293893}
   - {fileID: 1287031025}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 180
+=======
+  m_RootOrder: 171
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1352885107
 GameObject:
@@ -57598,7 +58473,11 @@ Transform:
   - {fileID: 290140738}
   - {fileID: 1400496157}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 239
+=======
+  m_RootOrder: 230
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 10.007001}
 --- !u!1 &1353684608
 GameObject:
@@ -57928,6 +58807,109 @@ Transform:
   m_Father: {fileID: 1319227036}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!1 &1363015288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1363015289}
+  - component: {fileID: 1363015291}
+  - component: {fileID: 1363015290}
+  m_Layer: 0
+  m_Name: Hegemol
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1363015289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1363015288}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -142.74606, y: 20.143257, z: 85.160645}
+  m_LocalScale: {x: 2.2, y: 2.2, z: 1}
+  m_Children:
+  - {fileID: 1016756316}
+  m_Father: {fileID: 326875962}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1363015290
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1363015288}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 65c622f97e54b61499b09f3097965f5b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1363015291
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1363015288}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 41d3d514ae05ddb4e8482d387ecb9657, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.23, y: 2.87}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1363597932
 GameObject:
   m_ObjectHideFlags: 0
@@ -58254,7 +59236,11 @@ Transform:
   m_LocalScale: {x: 1.508937, y: 1.6113111, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 51
+=======
+  m_RootOrder: 42
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 120.23301}
 --- !u!1 &1380217489
 GameObject:
@@ -58584,7 +59570,11 @@ Transform:
   - {fileID: 1205873656}
   - {fileID: 291121627}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 73
+=======
+  m_RootOrder: 64
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 6.1340003}
 --- !u!1 &1390288791
 GameObject:
@@ -58748,7 +59738,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 227
+=======
+  m_RootOrder: 218
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1400496156
 GameObject:
@@ -58994,7 +59988,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 17
+=======
+  m_RootOrder: 8
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1406581494
 GameObject:
@@ -59078,7 +60076,11 @@ Transform:
   - {fileID: 583306982}
   - {fileID: 856195134}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 93
+=======
+  m_RootOrder: 84
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1413567780
 GameObject:
@@ -59448,7 +60450,11 @@ Transform:
   - {fileID: 1304844602}
   - {fileID: 297254518}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 195
+=======
+  m_RootOrder: 186
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1419318746
 GameObject:
@@ -59859,7 +60865,11 @@ Transform:
   m_Children:
   - {fileID: 1241473889}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 90
+=======
+  m_RootOrder: 81
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -38.452003}
 --- !u!1 &1435463040
 GameObject:
@@ -59901,7 +60911,11 @@ Transform:
   - {fileID: 1781936213}
   - {fileID: 1294133028}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 210
+=======
+  m_RootOrder: 201
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1436668417
 GameObject:
@@ -60096,7 +61110,144 @@ Transform:
   m_Children:
   - {fileID: 1236784370}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 157
+=======
+  m_RootOrder: 148
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1443830932
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1443830934}
+  - component: {fileID: 1443830933}
+  m_Layer: 8
+  m_Name: TileMap
+  m_TagString: TileMap
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1443830933
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443830932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7de943f43c5cfe54a9cee2f048b28beb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  editorDataGUID: 4dd69630363c99c4eb85387b7a786b30
+  data: {fileID: 11400000, guid: 8a219c8f304f8804a9c072e62887ac72, type: 2}
+  renderData: {fileID: 1828941053}
+  spriteCollection: {fileID: 114831980506203291, guid: 0336398e8af559242a0a2743a651e0f8,
+    type: 3}
+  spriteCollectionKey: 895126549
+  width: 120
+  height: 48
+  partitionSizeX: 32
+  partitionSizeY: 32
+  layers:
+  - hash: 1939926937
+    spriteChannel:
+      chunks:
+      - spriteIds: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 9272c34970a1233479dddb195d1f44d0, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+        - {fileID: 0}
+      - spriteIds: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 0888226c09373b84aa8783a719894b00, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+        - {fileID: 0}
+      - spriteIds: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: b7fc53daf54de264e822ee531c44ea86, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+      - spriteIds: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 3e836a89a075ebd40934d27f6dfe87b3, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+      - spriteIds: ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 1ca1f0e25382d1749b0977c7b9ee5f90, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+      - spriteIds: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: e9692593f68dc024f8abe052a1e79565, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+      - spriteIds: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 92b7e513a5a51fd4da56b998e2523717, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+      - spriteIds: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+        gameObject: {fileID: 0}
+        mesh: {fileID: 4300000, guid: 0f242592f7388ae40b43b534bb788704, type: 2}
+        meshCollider: {fileID: 0}
+        colliderMesh: {fileID: 0}
+        edgeColliders:
+        - {fileID: 0}
+    width: 120
+    height: 48
+    numColumns: 4
+    numRows: 2
+    divX: 32
+    divY: 32
+    gameObject: {fileID: 0}
+  colorChannel:
+    clearColor: {r: 1, g: 1, b: 1, a: 1}
+    chunks: []
+    numColumns: 4
+    numRows: 2
+    divX: 32
+    divY: 32
+  prefabsRoot: {fileID: 0}
+  tilePrefabsList: []
+  _inEditMode: 0
+  serializedMeshPath: 
+--- !u!4 &1443830934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443830932}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 371.31003, y: 90.45872, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1444904556
 GameObject:
@@ -60466,7 +61617,11 @@ Transform:
   - {fileID: 1098673699}
   - {fileID: 1827534226}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 199
+=======
+  m_RootOrder: 190
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1457983212
 GameObject:
@@ -60508,7 +61663,11 @@ Transform:
   - {fileID: 1304016498}
   - {fileID: 1835862793}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 186
+=======
+  m_RootOrder: 177
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1465586587
 GameObject:
@@ -60754,7 +61913,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 222
+=======
+  m_RootOrder: 213
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1480171567
 GameObject:
@@ -61658,7 +62821,11 @@ Transform:
   - {fileID: 1545746760}
   - {fileID: 417726364}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 106
+=======
+  m_RootOrder: 97
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1502395732
 GameObject:
@@ -61922,7 +63089,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1503244910
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -61986,7 +63153,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 123
+=======
+  m_RootOrder: 114
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1505725233
 GameObject:
@@ -62070,7 +63241,11 @@ Transform:
   - {fileID: 71316348}
   - {fileID: 195171305}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 71
+=======
+  m_RootOrder: 62
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1508340252
 GameObject:
@@ -62236,7 +63411,11 @@ Transform:
   - {fileID: 299469490}
   - {fileID: 1560386674}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 110
+=======
+  m_RootOrder: 101
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1510162250
 GameObject:
@@ -62737,7 +63916,11 @@ Transform:
   - {fileID: 1534489979}
   - {fileID: 968258785}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 64
+=======
+  m_RootOrder: 55
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1517235851
 GameObject:
@@ -62943,7 +64126,11 @@ Transform:
   - {fileID: 939440476}
   - {fileID: 649804023}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 200
+=======
+  m_RootOrder: 191
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1518358493
 GameObject:
@@ -63025,7 +64212,11 @@ Transform:
   m_LocalScale: {x: 2.2969153, y: 1.8509538, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 216
+=======
+  m_RootOrder: 207
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 30.905}
 --- !u!1 &1523077488
 GameObject:
@@ -63435,7 +64626,11 @@ Transform:
   m_LocalScale: {x: 1.6, y: 1.6, z: 1.6}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 19
+=======
+  m_RootOrder: 10
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1534302946
 GameObject:
@@ -63693,7 +64888,11 @@ Transform:
   m_LocalScale: {x: 2.218093, y: 1.9093326, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 83
+=======
+  m_RootOrder: 74
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1542992072
 GameObject:
@@ -63941,7 +65140,11 @@ Transform:
   - {fileID: 1517468434}
   - {fileID: 475014862}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 78
+=======
+  m_RootOrder: 69
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.254002}
 --- !u!1 &1545746759
 GameObject:
@@ -64627,7 +65830,11 @@ Transform:
   m_LocalScale: {x: 74.67787, y: 29.387882, z: 36.84761}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 240
+=======
+  m_RootOrder: 231
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1561951487
 GameObject:
@@ -65055,7 +66262,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1572562362
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65119,7 +66326,11 @@ Transform:
   m_LocalScale: {x: 1.1121175, y: 1.1682472, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 129
+=======
+  m_RootOrder: 120
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1572924071
 GameObject:
@@ -65446,6 +66657,108 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 3.875, y: 3.625}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1584113971
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1584113972}
+  - component: {fileID: 1584113974}
+  - component: {fileID: 1584113973}
+  m_Layer: 0
+  m_Name: Zemer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1584113972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584113971}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -126.33609, y: 21.633263, z: 85.160645}
+  m_LocalScale: {x: 1.4, y: 1.4, z: 1}
+  m_Children: []
+  m_Father: {fileID: 326875962}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1584113973
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584113971}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: a47cc4a49054c16428d93de9bda0b288, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1584113974
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1584113971}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 289516442490490080, guid: 641bc6fef6564664fbca9bd2543ceaf3, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.36, y: 6.56}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -65874,7 +67187,7 @@ GameObject:
   - component: {fileID: 1593999055}
   - component: {fileID: 1593999054}
   - component: {fileID: 1593999053}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: secretroom_border (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65901,19 +67214,19 @@ EdgeCollider2D:
   - {x: 16, y: 0}
   - {x: 32, y: 0}
   - {x: 32, y: 6}
-  - {x: 23, y: 6}
-  - {x: 23, y: 9}
-  - {x: 24, y: 9}
-  - {x: 24, y: 10}
-  - {x: 25, y: 10}
-  - {x: 25, y: 11}
+  - {x: 26, y: 6}
+  - {x: 26, y: 9}
+  - {x: 26, y: 9}
+  - {x: 26, y: 10}
+  - {x: 26, y: 10}
+  - {x: 26, y: 11}
   - {x: 26, y: 11}
   - {x: 26, y: 13}
   - {x: 28, y: 13}
   - {x: 28, y: 15}
   - {x: 32, y: 15}
   - {x: 32, y: 32}
-  - {x: 16, y: 32}
+  - {x: 19, y: 32}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -65978,11 +67291,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1593999052}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 378.5, y: 121.3453, z: 0}
+  m_LocalPosition: {x: 51.86255, y: -27.215569, z: 67.86618}
   m_LocalScale: {x: -1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_RootOrder: 6
+=======
+  m_Father: {fileID: 1828941054}
+  m_RootOrder: 5
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1595718944
 GameObject:
@@ -66064,7 +67382,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 166
+=======
+  m_RootOrder: 157
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1602774561
 GameObject:
@@ -66476,7 +67798,11 @@ Transform:
   - {fileID: 1136721351}
   - {fileID: 1603126971}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 236
+=======
+  m_RootOrder: 227
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1606384341
 GameObject:
@@ -66764,7 +68090,11 @@ Transform:
   - {fileID: 255475090}
   - {fileID: 509254298}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 212
+=======
+  m_RootOrder: 203
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1617723110
 GameObject:
@@ -67012,14 +68342,18 @@ Transform:
   - {fileID: 94198426}
   - {fileID: 1448472812}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 109
+=======
+  m_RootOrder: 100
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1621452394
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1828941054}
     m_Modifications:
     - target: {fileID: 1266439657969330, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_Name
@@ -67031,19 +68365,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 7
+=======
+      value: 4
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 327.5
+      value: 0.8625488
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 121.3453
+      value: -27.215569
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 67.86618
       objectReference: {fileID: 0}
     - target: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
       propertyPath: m_LocalRotation.w
@@ -67068,6 +68406,12 @@ PrefabInstance:
       objectReference: {fileID: 6200000, guid: 219d2b7c41548a54aa6cf6e30fa20b17, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e4e7a14c5356ee4bb6472041a3cf653, type: 3}
+--- !u!4 &1621452395 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4246407153780414, guid: 4e4e7a14c5356ee4bb6472041a3cf653,
+    type: 3}
+  m_PrefabInstance: {fileID: 1621452394}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1629421408
 GameObject:
   m_ObjectHideFlags: 0
@@ -70732,7 +72076,11 @@ Transform:
   m_LocalScale: {x: -1.353645, y: 1.477363, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 44
+=======
+  m_RootOrder: 35
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -94.941}
 --- !u!1 &1650472468
 GameObject:
@@ -70856,7 +72204,11 @@ Transform:
   - {fileID: 2097141515}
   - {fileID: 1561951488}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 185
+=======
+  m_RootOrder: 176
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1651618120
 GameObject:
@@ -71184,7 +72536,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 25
+=======
+  m_RootOrder: 16
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1670605040
 GameObject:
@@ -72088,6 +73444,109 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1699918392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1699918393}
+  - component: {fileID: 1699918395}
+  - component: {fileID: 1699918394}
+  m_Layer: 0
+  m_Name: Isma
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1699918393
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699918392}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -129.93607, y: 18.80326, z: 85.160645}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 326875962}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1699918394
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699918392}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b16b3359852f3f943b4a811bc01e6248, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1699918395
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699918392}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -6049422461442332159, guid: 9ef3e5a3b93ead34b8e5af103e4507e2,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.84, y: 2.41}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &1705169202
 GameObject:
   m_ObjectHideFlags: 0
@@ -72620,7 +74079,11 @@ Transform:
   - {fileID: 435544325}
   - {fileID: 1634600839}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 187
+=======
+  m_RootOrder: 178
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1714833729
 GameObject:
@@ -72948,7 +74411,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 171
+=======
+  m_RootOrder: 162
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1718789581
 GameObject:
@@ -73032,7 +74499,11 @@ Transform:
   - {fileID: 1066028620}
   - {fileID: 85864889}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 145
+=======
+  m_RootOrder: 136
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1720384349
 GameObject:
@@ -73362,6 +74833,83 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1724651026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1724651029}
+  - component: {fileID: 1724651028}
+  - component: {fileID: 1724651027}
+  m_Layer: 13
+  m_Name: CameraLockArea
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1724651027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1724651026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec120b662d5312e459a962a9c4d31017, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cameraXMin: 248.5
+  cameraYMin: 124
+  cameraXMax: 355.5
+  cameraYMax: 144
+  preventLookUp: 1
+  preventLookDown: 1
+  maxPriority: 1
+--- !u!61 &1724651028
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1724651026}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -162, y: 29}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 107, y: 20}
+  m_EdgeRadius: 0
+--- !u!4 &1724651029
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1724651026}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 464, y: 105, z: -0.000015258789}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1725314757
 GameObject:
   m_ObjectHideFlags: 0
@@ -73526,7 +75074,11 @@ Transform:
   - {fileID: 1356498309}
   - {fileID: 384309893}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 61
+=======
+  m_RootOrder: 52
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1729027824
 GameObject:
@@ -74034,7 +75586,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 88f51b09d58084046bcd97bc90349b63, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -76811,7 +78362,11 @@ Transform:
   - {fileID: 713826001}
   - {fileID: 245811590}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 111
+=======
+  m_RootOrder: 102
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1759416828
 GameObject:
@@ -77057,7 +78612,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 21
+=======
+  m_RootOrder: 12
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1765992997
 GameObject:
@@ -77385,7 +78944,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 67
+=======
+  m_RootOrder: 58
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1769551400
 GameObject:
@@ -77427,7 +78990,11 @@ Transform:
   - {fileID: 1759496837}
   - {fileID: 1278498302}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 211
+=======
+  m_RootOrder: 202
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1773656373
 GameObject:
@@ -77511,7 +79078,11 @@ Transform:
   - {fileID: 2024718161}
   - {fileID: 265347072}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 92
+=======
+  m_RootOrder: 83
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1775173769
 GameObject:
@@ -77759,7 +79330,11 @@ Transform:
   - {fileID: 1680109412}
   - {fileID: 2025916776}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 238
+=======
+  m_RootOrder: 229
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 75.944}
 --- !u!1 &1781936212
 GameObject:
@@ -78084,6 +79659,108 @@ SpriteRenderer:
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &1788266176
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1788266177}
+  - component: {fileID: 1788266179}
+  - component: {fileID: 1788266178}
+  m_Layer: 0
+  m_Name: Ogrim
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1788266177
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788266176}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -133.97607, y: 19.773262, z: 85.160645}
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1}
+  m_Children: []
+  m_Father: {fileID: 326875962}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1788266178
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788266176}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4eb6f88f51a42334f8d121df9194f536, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &1788266179
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1788266176}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: f06cbd41e10fe344c8351286863182dd, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 2.28, y: 3.17}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -78721,7 +80398,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 143
+=======
+  m_RootOrder: 134
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1814673617
 GameObject:
@@ -78885,7 +80566,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 15
+=======
+  m_RootOrder: 6
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1821264245
 GameObject:
@@ -78967,7 +80652,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 170
+=======
+  m_RootOrder: 161
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1822336063
 GameObject:
@@ -79009,7 +80698,11 @@ Transform:
   - {fileID: 1706551005}
   - {fileID: 2062734488}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 191
+=======
+  m_RootOrder: 182
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1825744729
 GameObject:
@@ -79257,6 +80950,48 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1828941053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1828941054}
+  m_Layer: 0
+  m_Name: TileMap Render Data
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1828941054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1828941053}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 326.63745, y: 148.56087, z: -67.86618}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 670996628}
+  - {fileID: 1211229648}
+  - {fileID: 1318472714}
+  - {fileID: 670631019}
+  - {fileID: 1621452395}
+  - {fileID: 1593999056}
+  - {fileID: 842267537}
+  - {fileID: 542182397}
+  - {fileID: 97304153}
+  - {fileID: 184999332}
+  - {fileID: 1198443911}
+  - {fileID: 1121496510}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1834394330
 GameObject:
   m_ObjectHideFlags: 0
@@ -79337,7 +81072,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 141
+=======
+  m_RootOrder: 132
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1835862792
 GameObject:
@@ -79665,7 +81404,11 @@ Transform:
   m_LocalScale: {x: 1.0169737, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 38
+=======
+  m_RootOrder: 29
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1844233463
 GameObject:
@@ -80157,7 +81900,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 156
+=======
+  m_RootOrder: 147
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1854067310
 GameObject:
@@ -80351,7 +82098,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 161
+=======
+  m_RootOrder: 152
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1859150721
 GameObject:
@@ -80393,7 +82144,11 @@ Transform:
   - {fileID: 1929319372}
   - {fileID: 390195566}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 174
+=======
+  m_RootOrder: 165
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1866262614
 GameObject:
@@ -80575,7 +82330,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1869598865
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -80639,7 +82394,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 128
+=======
+  m_RootOrder: 119
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1874950908
 GameObject:
@@ -80967,7 +82726,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 155
+=======
+  m_RootOrder: 146
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1884774882
 GameObject:
@@ -81215,7 +82978,11 @@ Transform:
   - {fileID: 661487248}
   - {fileID: 1996764822}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 226
+=======
+  m_RootOrder: 217
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1894889585
 GameObject:
@@ -81299,7 +83066,11 @@ Transform:
   - {fileID: 1767780921}
   - {fileID: 276126326}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 108
+=======
+  m_RootOrder: 99
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1896018391
 GameObject:
@@ -81341,7 +83112,11 @@ Transform:
   - {fileID: 1869215860}
   - {fileID: 872516037}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 190
+=======
+  m_RootOrder: 181
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1897967427
 GameObject:
@@ -81587,7 +83362,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 138
+=======
+  m_RootOrder: 129
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1908142441
 GameObject:
@@ -82385,7 +84164,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 152
+=======
+  m_RootOrder: 143
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 7.9930005}
 --- !u!1 &1935731979
 GameObject:
@@ -82795,7 +84578,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 168
+=======
+  m_RootOrder: 159
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1943164323
 GameObject:
@@ -83565,7 +85352,11 @@ Transform:
   - {fileID: 1637505218}
   - {fileID: 2086760399}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 76
+=======
+  m_RootOrder: 67
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 21.254002}
 --- !u!1 &1963483533
 GameObject:
@@ -83649,7 +85440,11 @@ Transform:
   - {fileID: 1272506865}
   - {fileID: 1413567781}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 148
+=======
+  m_RootOrder: 139
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1965959574
 GameObject:
@@ -83731,7 +85526,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 119
+=======
+  m_RootOrder: 110
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1967182438
 GameObject:
@@ -83813,7 +85612,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 30
+=======
+  m_RootOrder: 21
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1967197413
 GameObject:
@@ -83895,7 +85698,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 160
+=======
+  m_RootOrder: 151
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1969791340
 GameObject:
@@ -84059,7 +85866,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 151
+=======
+  m_RootOrder: 142
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1977471642
 GameObject:
@@ -84387,7 +86198,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 224
+=======
+  m_RootOrder: 215
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 172.77}
 --- !u!1 &1986067935
 GameObject:
@@ -84471,7 +86286,11 @@ Transform:
   - {fileID: 1088676088}
   - {fileID: 2011342517}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 103
+=======
+  m_RootOrder: 94
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1986347694
 GameObject:
@@ -84635,7 +86454,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 32
+=======
+  m_RootOrder: 23
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1991966625
 GameObject:
@@ -85461,7 +87284,11 @@ Transform:
   m_LocalScale: {x: 14.527405, y: 6.7234926, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 45
+=======
+  m_RootOrder: 36
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2004964764
 GameObject:
@@ -85625,7 +87452,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 34
+=======
+  m_RootOrder: 25
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2010783038
 GameObject:
@@ -85807,7 +87638,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2015659670
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -85871,7 +87702,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 127
+=======
+  m_RootOrder: 118
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2016463739
 GameObject:
@@ -85953,7 +87788,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 219
+=======
+  m_RootOrder: 210
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -176.27101}
 --- !u!1 &2017175590
 GameObject:
@@ -86363,7 +88202,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 218
+=======
+  m_RootOrder: 209
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -176.27101}
 --- !u!1 &2024025626
 GameObject:
@@ -86445,7 +88288,11 @@ Transform:
   m_LocalScale: {x: 1.7411469, y: 1.9083328, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 43
+=======
+  m_RootOrder: 34
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -120.899}
 --- !u!1 &2024289492
 GameObject:
@@ -86855,7 +88702,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1.6548686, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 53
+=======
+  m_RootOrder: 44
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2030156980
 GameObject:
@@ -86939,7 +88790,11 @@ Transform:
   - {fileID: 1783363828}
   - {fileID: 142485583}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 102
+=======
+  m_RootOrder: 93
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -30.804}
 --- !u!1 &2034330706
 GameObject:
@@ -87105,7 +88960,11 @@ Transform:
   - {fileID: 954219826}
   - {fileID: 1978362668}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 80
+=======
+  m_RootOrder: 71
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -17.808}
 --- !u!1 &2036867957
 GameObject:
@@ -87639,7 +89498,11 @@ Transform:
   - {fileID: 925353664}
   - {fileID: 1316873755}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 179
+=======
+  m_RootOrder: 170
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2052653338
 GameObject:
@@ -88049,7 +89912,11 @@ Transform:
   m_LocalScale: {x: 15.104607, y: 12.872833, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 113
+=======
+  m_RootOrder: 104
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -7.7950006}
 --- !u!1 &2057973671
 GameObject:
@@ -88245,7 +90112,11 @@ Transform:
   - {fileID: 1947154374}
   - {fileID: 1158058442}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 235
+=======
+  m_RootOrder: 226
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -54.585003}
 --- !u!1 &2062734487
 GameObject:
@@ -88655,7 +90526,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 146
+=======
+  m_RootOrder: 137
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2080156338
 GameObject:
@@ -88861,7 +90736,11 @@ Transform:
   - {fileID: 70608676}
   - {fileID: 134673127}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 193
+=======
+  m_RootOrder: 184
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2086760398
 GameObject:
@@ -89437,7 +91316,11 @@ Transform:
   - {fileID: 1146332413}
   - {fileID: 1510162251}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 134
+=======
+  m_RootOrder: 125
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 37.601}
 --- !u!1 &2100384413
 GameObject:
@@ -89765,7 +91648,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 153
+=======
+  m_RootOrder: 144
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2104864235
 GameObject:
@@ -90041,7 +91928,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 68
+=======
+  m_RootOrder: 59
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2114677812
 GameObject:
@@ -90207,7 +92098,11 @@ Transform:
   - {fileID: 524186183}
   - {fileID: 617530994}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 86
+=======
+  m_RootOrder: 77
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -42.093002}
 --- !u!1 &2121537270
 GameObject:
@@ -90455,7 +92350,11 @@ Transform:
   - {fileID: 546617456}
   - {fileID: 691189138}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 91
+=======
+  m_RootOrder: 82
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2130268160
 GameObject:
@@ -90539,7 +92438,11 @@ Transform:
   - {fileID: 974721973}
   - {fileID: 1828663329}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 225
+=======
+  m_RootOrder: 216
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2131504779
 GameObject:
@@ -91197,6 +93100,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!4 &83117052664889138
 Transform:
   m_ObjectHideFlags: 0
@@ -91795,3 +93699,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 241
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> b15c29edda0edb8502f7be2eb9de04cb0a9d76a2
