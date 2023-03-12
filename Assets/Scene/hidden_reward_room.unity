@@ -189,7 +189,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &3627398
@@ -2967,7 +2967,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &85283971
@@ -3131,7 +3131,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &85334817
@@ -6369,7 +6369,7 @@ GameObject:
   - component: {fileID: 184999331}
   - component: {fileID: 184999330}
   - component: {fileID: 184999329}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: secretroom_border
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6396,10 +6396,10 @@ EdgeCollider2D:
   - {x: 16, y: 0}
   - {x: 32, y: 0}
   - {x: 32, y: 6}
-  - {x: 23, y: 6}
-  - {x: 23, y: 9}
-  - {x: 24, y: 9}
-  - {x: 24, y: 10}
+  - {x: 25, y: 6}
+  - {x: 25, y: 9}
+  - {x: 25, y: 9}
+  - {x: 25, y: 10}
   - {x: 25, y: 10}
   - {x: 25, y: 11}
   - {x: 26, y: 11}
@@ -7359,7 +7359,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &214576288
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13117,7 +13117,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 347882489}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 302.69, y: 130.08, z: 0.1}
+  m_LocalPosition: {x: 302.69, y: 130, z: 0.1}
   m_LocalScale: {x: 1.7, y: 1.7, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -33874,7 +33874,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &870959147
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -38483,7 +38483,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &989013574
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39340,7 +39340,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1013123806
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -40575,7 +40575,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1052596274
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -58239,7 +58239,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1373252315
@@ -61922,7 +61922,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1503244910
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65055,7 +65055,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1572562362
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65874,7 +65874,7 @@ GameObject:
   - component: {fileID: 1593999055}
   - component: {fileID: 1593999054}
   - component: {fileID: 1593999053}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: secretroom_border (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65901,10 +65901,10 @@ EdgeCollider2D:
   - {x: 16, y: 0}
   - {x: 32, y: 0}
   - {x: 32, y: 6}
-  - {x: 23, y: 6}
-  - {x: 23, y: 9}
-  - {x: 24, y: 9}
-  - {x: 24, y: 10}
+  - {x: 25, y: 6}
+  - {x: 25, y: 9}
+  - {x: 25, y: 9}
+  - {x: 25, y: 10}
   - {x: 25, y: 10}
   - {x: 25, y: 11}
   - {x: 26, y: 11}
@@ -70717,7 +70717,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1650301551
@@ -80575,7 +80575,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1869598865
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -85807,7 +85807,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &2015659670
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -86430,7 +86430,7 @@ SpriteRenderer:
   m_Size: {x: 4.69, y: 1.76}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &2024025628
@@ -91526,7 +91526,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 06d29d1d3c87ee642bb7f4626d40183f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ba76f5cb411223647b69f81666cf9a56, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -91534,7 +91534,7 @@ SpriteRenderer:
   m_Size: {x: 3.23, y: 2.87}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &5137008496841580582
