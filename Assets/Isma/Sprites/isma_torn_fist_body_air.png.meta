@@ -98,24 +98,24 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 100
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 100
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
@@ -172,12 +172,12 @@ TextureImporter:
       name: isma_torn_fist_body_air_2
       rect:
         serializedVersion: 2
-        x: 2510
-        y: 623
-        width: 235
-        height: 300
+        x: 2494
+        y: 626
+        width: 251
+        height: 297
       alignment: 9
-      pivot: {x: 0.61480635, y: 0.09211548}
+      pivot: {x: 0.6393606, y: 0.08294478}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,11 +194,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 3557
-        y: 618
+        y: 603
         width: 231
-        height: 303
+        height: 318
       alignment: 9
-      pivot: {x: 0.57517415, y: 0.065059245}
+      pivot: {x: 0.57517415, y: 0.10916038}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -214,12 +214,12 @@ TextureImporter:
       name: isma_torn_fist_body_air_4
       rect:
         serializedVersion: 2
-        x: 425
-        y: 314
+        x: 382
+        y: 293
         width: 209
         height: 304
       alignment: 9
-      pivot: {x: 0.2979364, y: 0.031529076}
+      pivot: {x: 0.50367796, y: 0.100607894}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +235,12 @@ TextureImporter:
       name: isma_torn_fist_body_air_5
       rect:
         serializedVersion: 2
-        x: 1489
+        x: 1468
         y: 312
-        width: 180
+        width: 249
         height: 303
       alignment: 9
-      pivot: {x: 0.178144, y: 0.08961673}
+      pivot: {x: 0.21311606, y: 0.08961673}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -257,11 +257,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2517
-        y: 314
+        y: 301
         width: 209
-        height: 304
+        height: 325
       alignment: 9
-      pivot: {x: 0.2970794, y: 0.031658877}
+      pivot: {x: 0.2970794, y: 0.06961323}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +277,12 @@ TextureImporter:
       name: isma_torn_fist_body_air_7
       rect:
         serializedVersion: 2
-        x: 3557
-        y: 309
-        width: 231
-        height: 303
+        x: 3537
+        y: 295
+        width: 251
+        height: 308
       alignment: 9
-      pivot: {x: 0.57498497, y: 0.06349651}
+      pivot: {x: 0.6088506, y: 0.107920125}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -299,11 +299,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 418
-        y: 5
+        y: 4
         width: 235
-        height: 300
+        height: 288
       alignment: 9
-      pivot: {x: 0.61568475, y: 0.09053376}
+      pivot: {x: 0.61568475, y: 0.09777813}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -339,7 +339,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3cfa73a2d24772a4fbbf02904cd694b0
     internalID: 0
     vertices: []
     indices: 
