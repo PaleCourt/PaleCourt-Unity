@@ -10,6 +10,8 @@ TagManager:
   - TransitionGate
   - Battle Gate
   - TileMap
+  - Geo
+  - Journal Up Msg
   layers:
   - Default
   - TransparentFX
@@ -24,7 +26,7 @@ TagManager:
   - 
   - Enemies
   - 
-  - 
+  - Hero Detector
   - 
   - 
   - 
