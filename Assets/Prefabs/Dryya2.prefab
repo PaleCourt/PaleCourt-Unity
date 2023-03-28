@@ -25164,7 +25164,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: 30
+        value: 27
       - useVariable: 1
         name: Slash Speed Crt
         tooltip: 
