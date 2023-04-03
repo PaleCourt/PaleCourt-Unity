@@ -154,12 +154,12 @@ TextureImporter:
       name: isma_bow_battle_1_1
       rect:
         serializedVersion: 2
-        x: 234
+        x: 224
         y: 354
-        width: 165
-        height: 340
+        width: 184
+        height: 347
       alignment: 9
-      pivot: {x: 0.6635306, y: 0.0031810985}
+      pivot: {x: 0.64936197, y: 0.0031170028}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -177,10 +177,10 @@ TextureImporter:
         serializedVersion: 2
         x: 479
         y: 355
-        width: 169
+        width: 175
         height: 330
       alignment: 9
-      pivot: {x: 0.68205845, y: 0.0032077674}
+      pivot: {x: 0.6586737, y: 0.0032077674}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,12 +196,12 @@ TextureImporter:
       name: isma_bow_battle_1_3
       rect:
         serializedVersion: 2
-        x: 40
+        x: 30
         y: 0
-        width: 189
-        height: 286
+        width: 205
+        height: 292
       alignment: 9
-      pivot: {x: 0.56691986, y: 0.000000035982943}
+      pivot: {x: 0.5714532, y: 0.000000035982943}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,12 +217,12 @@ TextureImporter:
       name: isma_bow_battle_1_4
       rect:
         serializedVersion: 2
-        x: 273
+        x: 263
         y: 0
-        width: 193
+        width: 203
         height: 277
       alignment: 9
-      pivot: {x: 0.5551291, y: 0.00046274523}
+      pivot: {x: 0.57704383, y: 0.00046274523}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -237,7 +237,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 75029606873e10d459491823c791f4a4
     internalID: 0
     vertices: []
     indices: 
