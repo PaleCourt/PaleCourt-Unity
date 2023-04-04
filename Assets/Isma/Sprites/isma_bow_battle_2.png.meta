@@ -169,12 +169,12 @@ TextureImporter:
       name: isma_bow_battle_2_2
       rect:
         serializedVersion: 2
-        x: 60
+        x: 0
         y: 40
-        width: 236
+        width: 296
         height: 299
       alignment: 9
-      pivot: {x: 0.08244279, y: 0.024782863}
+      pivot: {x: 0.2684341, y: 0.024782863}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
