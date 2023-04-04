@@ -12,6 +12,7 @@ TagManager:
   - TileMap
   - Geo
   - Journal Up Msg
+  - HeroWalkable
   layers:
   - Default
   - TransparentFX
