@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: bb52f5433fb642c448947358b8288299
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3160357044739246270
+    second: tiso_shield_block_up_parry__0
+  - first:
+      213: -2460795959154988345
+    second: tiso_shield_block_up_parry__1
+  - first:
+      213: 3539002964824908383
+    second: tiso_shield_block_up_parry__2
+  - first:
+      213: 5851982787807064250
+    second: tiso_shield_block_up_parry__3
+  - first:
+      213: 8742981942450359061
+    second: tiso_shield_block_up_parry__4
+  - first:
+      213: -7366814882860684864
+    second: tiso_shield_block_up_parry__5
+  - first:
+      213: -6195879744629706133
+    second: tiso_shield_block_up_parry__6
+  - first:
+      213: -1516376334559525110
+    second: tiso_shield_block_up_parry__7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80617ecf7dbdb20800000000000000
+      internalID: 3160357044739246270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 536
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caa9ddec1f79ddd0800000000000000
+      internalID: -2460795959154988345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 536
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52617132701d1130800000000000000
+      internalID: 3539002964824908383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b0f2275b663150800000000000000
+      internalID: 5851982787807064250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 268
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b886d11cf455970800000000000000
+      internalID: 8742981942450359061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 268
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9270525e0d3c990800000000000000
+      internalID: -7366814882860684864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62fe4e0330d30aa0800000000000000
+      internalID: -6195879744629706133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_shield_block_up_parry__7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 238
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0745c002cfb4fae0800000000000000
+      internalID: -1516376334559525110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

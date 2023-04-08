@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 14fa176c97e9de840891674e19838beb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2864163939514500968
+    second: tiso_spin_3
+  - first:
+      213: 6808247916376737809
+    second: tiso_land_3
+  - first:
+      213: 5503200651079451978
+    second: tiso_intro_1
+  - first:
+      213: 2848328594161630038
+    second: tiso_spin_2
+  - first:
+      213: -8887544940826027967
+    second: tiso_land_1
+  - first:
+      213: 783647416234657538
+    second: Tiso Godhome - atlas0 #48402_6
+  - first:
+      213: 8697628496045933134
+    second: tiso_intro_2
+  - first:
+      213: -4220226648578750255
+    second: tiso_spin_1
+  - first:
+      213: 5409933191596465519
+    second: tiso_dead
+  - first:
+      213: 1368999460948340454
+    second: tiso_intro_3
+  - first:
+      213: 1521929156761587629
+    second: tiso_roar_1
+  - first:
+      213: 4253973570169568736
+    second: tiso_roar_3
+  - first:
+      213: -4357997744071377658
+    second: tiso_roar_2
+  - first:
+      213: -6507980480540711565
+    second: tiso_land_2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiso_spin_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 821
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867ce319ded8fb720800000000000000
+      internalID: 2864163939514500968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_land_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 812
+        width: 223
+        height: 193
+      alignment: 9
+      pivot: {x: 0.47902417, y: 0.22283144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118cd668861cb7e50800000000000000
+      internalID: 6808247916376737809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_intro_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 206
+        height: 275
+      alignment: 9
+      pivot: {x: 0.4463704, y: 0.1679046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450a4fb5db4f5c40800000000000000
+      internalID: 5503200651079451978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_spin_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 589
+        width: 163
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b779ae3cb478720800000000000000
+      internalID: 2848328594161630038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_land_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 429
+        width: 230
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4726549, y: 0.22555943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489ebce6f819a480800000000000000
+      internalID: -8887544940826027967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiso Godhome - atlas0 #48402_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 625
+        width: 186
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207c1d15c2310ea00800000000000000
+      internalID: 783647416234657538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_intro_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 207
+        height: 274
+      alignment: 9
+      pivot: {x: 0.45293272, y: 0.16360652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42022ff80f24b870800000000000000
+      internalID: 8697628496045933134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_spin_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 315
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d883db093ebe65c0800000000000000
+      internalID: -4220226648578750255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_dead
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 477
+        width: 216
+        height: 139
+      alignment: 9
+      pivot: {x: 0.6751477, y: 0.611343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd3bf1391f31b40800000000000000
+      internalID: 5409933191596465519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_intro_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 208
+        height: 270
+      alignment: 9
+      pivot: {x: 0.45501247, y: 0.15435885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee687a1c9aff210800000000000000
+      internalID: 1368999460948340454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_roar_1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 9
+        width: 202
+        height: 202
+      alignment: 9
+      pivot: {x: 0.40174896, y: 0.21585464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf851a218afe1510800000000000000
+      internalID: 1521929156761587629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_roar_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 8
+        width: 201
+        height: 202
+      alignment: 9
+      pivot: {x: 0.38241592, y: 0.21491173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed7bdd6c66290b30800000000000000
+      internalID: 4253973570169568736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_roar_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 217
+        width: 198
+        height: 201
+      alignment: 9
+      pivot: {x: 0.38788196, y: 0.21460174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dfba434284583c0800000000000000
+      internalID: -4357997744071377658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_land_2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 133
+        width: 215
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4821255, y: 0.23604059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375e134db320fa5a0800000000000000
+      internalID: -6507980480540711565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
