@@ -6322,7 +6322,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 17
         - useVariable: 0
           name: 
           tooltip: 
@@ -13765,7 +13765,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 25
+          value: 27
         - useVariable: 1
           name: Walk Accel Crt
           tooltip: 
@@ -14091,7 +14091,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 5
+          value: 12
         - useVariable: 0
           name: 
           tooltip: 
@@ -25873,6 +25873,13 @@ MonoBehaviour:
         value: {fileID: 0}
       objectVariables:
       - useVariable: 1
+        name: Beams Clip
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 74d01c4bfeb26af488d1e8b3cd7cce69, type: 3}
+      - useVariable: 1
         name: Counter
         tooltip: 
         showInInspector: 0
@@ -25880,12 +25887,26 @@ MonoBehaviour:
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: 318b9a95553db0f49ac4b15b25cf8f00, type: 3}
       - useVariable: 1
+        name: Dagger Throw
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 7f1360ac40d4501448e6969ef942a9f6, type: 3}
+      - useVariable: 1
         name: Dash
         tooltip: 
         showInInspector: 0
         networkSync: 0
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: 1c8547a5f5c34f74a94414876111b12e, type: 3}
+      - useVariable: 1
+        name: Dash Light
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 3816378ad5ba15a44a19aedc86e1ec89, type: 3}
       - useVariable: 1
         name: Dive
         tooltip: 
@@ -25908,6 +25929,13 @@ MonoBehaviour:
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: 6c965918854c93d449a66e661a25db0f, type: 3}
       - useVariable: 1
+        name: Jump
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 4d399a3b26b1ed44a8b796c30e6419aa, type: 3}
+      - useVariable: 1
         name: Land
         tooltip: 
         showInInspector: 0
@@ -25929,33 +25957,96 @@ MonoBehaviour:
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: d3f6e10de9da5794ca0f27c1c9fd2a05, type: 3}
       - useVariable: 1
-        name: Dagger Throw
+        name: Voice1
         tooltip: 
         showInInspector: 0
         networkSync: 0
         typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: 7f1360ac40d4501448e6969ef942a9f6, type: 3}
+        value: {fileID: 8300000, guid: 60a7f435884a9f940bdb627e5e520ab0, type: 3}
       - useVariable: 1
-        name: Jump
+        name: Voice2
         tooltip: 
         showInInspector: 0
         networkSync: 0
         typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: 4d399a3b26b1ed44a8b796c30e6419aa, type: 3}
+        value: {fileID: 8300000, guid: 4782875bad20f9b4ba323a9e5c8b2d6f, type: 3}
       - useVariable: 1
-        name: Dash Light
+        name: Voice3
         tooltip: 
         showInInspector: 0
         networkSync: 0
         typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: 3816378ad5ba15a44a19aedc86e1ec89, type: 3}
+        value: {fileID: 8300000, guid: 3e7611d8d6848cb4e876c88c3fafd0a8, type: 3}
       - useVariable: 1
-        name: Beams Clip
+        name: VoiceAlt1
         tooltip: 
         showInInspector: 0
         networkSync: 0
         typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: 74d01c4bfeb26af488d1e8b3cd7cce69, type: 3}
+        value: {fileID: 8300000, guid: c2236e94e809f1a43ae95895b2d73d4a, type: 3}
+      - useVariable: 1
+        name: VoiceAlt2
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: f5140e77a12f9ca4ab4e0146cc60e5c0, type: 3}
+      - useVariable: 1
+        name: VoiceAlt3
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 83210ba43109aa747b1c4d5723a9aa31, type: 3}
+      - useVariable: 1
+        name: VoiceAlt4
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: 14cabd097986d8143a9b1fcea6dd57ae, type: 3}
+      - useVariable: 1
+        name: VoiceAlt5
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: c16414ed07cb2ad458db9cd11743b22e, type: 3}
+      - useVariable: 1
+        name: VoiceDeath
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: aa755433515bffe43a045bb30110df56, type: 3}
+      - useVariable: 1
+        name: Voice4
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: ce750f40b41c1164f844d3defb28d2eb, type: 3}
+      - useVariable: 1
+        name: Voice5
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: f7bf0f4a250d57c4186a287d2113e704, type: 3}
+      - useVariable: 1
+        name: Voice6
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: f83e3de96250fd84396b3e4e8838be25, type: 3}
+      - useVariable: 1
+        name: VoiceBeams
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        typeName: UnityEngine.AudioClip
+        value: {fileID: 8300000, guid: cc59eb9863c3af940a289c0ba8066e5b, type: 3}
       materialVariables: []
       textureVariables: []
       arrayVariables: []
@@ -25975,7 +26066,7 @@ MonoBehaviour:
       - GameObjects
       - Ints
       - Strings
-      variableCategoryIDs: 0300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000500000005000000050000000500000005000000050000000500000005000000050000000500000005000000050000000500000005000000050000000000000000000000000000000500000002000000020000000200000002000000060000000600000006000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000000000000
+      variableCategoryIDs: 030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000030000000300000003000000050000000500000005000000050000000500000005000000050000000500000005000000050000000500000005000000050000000500000005000000000000000000000000000000050000000200000002000000020000000200000006000000060000000600000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000400000004000000040000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000000000000
     description: 
     docUrl: 
     showStateLabel: 0
