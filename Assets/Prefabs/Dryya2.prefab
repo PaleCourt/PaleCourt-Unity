@@ -25999,19 +25999,19 @@ MonoBehaviour:
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: 83210ba43109aa747b1c4d5723a9aa31, type: 3}
       - useVariable: 1
-        name: VoiceAlt4
+        name: 
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: 14cabd097986d8143a9b1fcea6dd57ae, type: 3}
+        typeName: 
+        value: {fileID: 0}
       - useVariable: 1
-        name: VoiceAlt5
+        name: 
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: c16414ed07cb2ad458db9cd11743b22e, type: 3}
+        typeName: 
+        value: {fileID: 0}
       - useVariable: 1
         name: VoiceDeath
         tooltip: 
@@ -26020,26 +26020,26 @@ MonoBehaviour:
         typeName: UnityEngine.AudioClip
         value: {fileID: 8300000, guid: aa755433515bffe43a045bb30110df56, type: 3}
       - useVariable: 1
-        name: Voice4
+        name: 
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: ce750f40b41c1164f844d3defb28d2eb, type: 3}
+        typeName: 
+        value: {fileID: 0}
       - useVariable: 1
-        name: Voice5
+        name: 
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: f7bf0f4a250d57c4186a287d2113e704, type: 3}
+        typeName: 
+        value: {fileID: 0}
       - useVariable: 1
-        name: Voice6
+        name: 
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        typeName: UnityEngine.AudioClip
-        value: {fileID: 8300000, guid: f83e3de96250fd84396b3e4e8838be25, type: 3}
+        typeName: 
+        value: {fileID: 0}
       - useVariable: 1
         name: VoiceBeams
         tooltip: 
