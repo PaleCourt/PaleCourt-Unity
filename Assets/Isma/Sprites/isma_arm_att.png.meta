@@ -156,7 +156,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 1497
-        width: 1818
+        width: 1586
         height: 499
       alignment: 9
       pivot: {x: 0.012012596, y: 0.4366208}
@@ -175,12 +175,12 @@ TextureImporter:
       name: isma_arm_att_1
       rect:
         serializedVersion: 2
-        x: 1818
+        x: 1598
         y: 1497
         width: 1818
         height: 499
       alignment: 9
-      pivot: {x: 0.055332903, y: 0.50685304}
+      pivot: {x: 0.05762652, y: 0.60295004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
