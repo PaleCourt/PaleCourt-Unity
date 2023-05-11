@@ -30660,7 +30660,7 @@ MonoBehaviour:
   cameraYMax: 103
   preventLookUp: 1
   preventLookDown: 1
-  maxPriority: 1
+  maxPriority: 0
 --- !u!61 &603138230
 BoxCollider2D:
   m_ObjectHideFlags: 0
