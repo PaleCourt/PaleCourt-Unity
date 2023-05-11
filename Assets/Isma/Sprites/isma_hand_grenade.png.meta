@@ -231,10 +231,10 @@ TextureImporter:
         serializedVersion: 2
         x: 741
         y: 328
-        width: 224
+        width: 230
         height: 322
       alignment: 9
-      pivot: {x: 0.25408173, y: 0.010729772}
+      pivot: {x: 0.24745348, y: 0.010729772}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,10 +252,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1521
         y: 327
-        width: 247
+        width: 260
         height: 320
       alignment: 9
-      pivot: {x: 0.035494786, y: 0.0034308434}
+      pivot: {x: 0.03372, y: 0.0034308434}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,12 +313,12 @@ TextureImporter:
       name: isma_hand_grenade_8
       rect:
         serializedVersion: 2
-        x: 1892
+        x: 1842
         y: 0
         width: 328
         height: 320
       alignment: 9
-      pivot: {x: 0.045414995, y: 0.010820964}
+      pivot: {x: 0.19785397, y: 0.010820964}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -333,7 +333,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e94c5324e1632b94b8f3103cc27ad9a6
     internalID: 0
     vertices: []
     indices: 
