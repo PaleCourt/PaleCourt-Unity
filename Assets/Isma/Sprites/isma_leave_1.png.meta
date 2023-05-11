@@ -148,12 +148,12 @@ TextureImporter:
       name: isma_bow_battle_2_1
       rect:
         serializedVersion: 2
-        x: 318
+        x: 308
         y: 339
-        width: 186
+        width: 208
         height: 288
       alignment: 9
-      pivot: {x: 0.2562963, y: 0.5502479}
+      pivot: {x: 0.2772649, y: 0.5502479}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -169,12 +169,12 @@ TextureImporter:
       name: isma_bow_battle_2_2
       rect:
         serializedVersion: 2
-        x: 74
+        x: 64
         y: 40
-        width: 222
+        width: 232
         height: 299
       alignment: 9
-      pivot: {x: 0.2669961, y: 0.493844}
+      pivot: {x: 0.29859096, y: 0.493844}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

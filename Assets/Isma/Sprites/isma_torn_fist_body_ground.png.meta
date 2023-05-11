@@ -193,12 +193,12 @@ TextureImporter:
       name: isma_torn_fist_body_ground_2
       rect:
         serializedVersion: 2
-        x: 2080
+        x: 2070
         y: 648
         width: 216
         height: 317
       alignment: 9
-      pivot: {x: 0.18516597, y: 0.011469796}
+      pivot: {x: 0.23148148, y: 0.011469796}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -381,7 +381,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4934164c271176c4ba53b0a08e60e082
     internalID: 0
     vertices: []
     indices: 

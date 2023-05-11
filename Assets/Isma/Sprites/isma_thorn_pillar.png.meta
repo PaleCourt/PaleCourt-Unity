@@ -207,10 +207,10 @@ TextureImporter:
         serializedVersion: 2
         x: 322
         y: 334
-        width: 322
+        width: 334
         height: 334
       alignment: 9
-      pivot: {x: 0.02, y: 0.05}
+      pivot: {x: 0.019281438, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -226,12 +226,12 @@ TextureImporter:
       name: isma_thorn_pillar_5
       rect:
         serializedVersion: 2
-        x: 644
+        x: 656
         y: 334
-        width: 322
+        width: 310
         height: 334
       alignment: 9
-      pivot: {x: 0.02, y: 0.05}
+      pivot: {x: -0.017935483, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
