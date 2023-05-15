@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 794c4cd2fe1e3f4478345d41609cf76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -190373931151190615
+    second: tiso_glider_attack__0
+  - first:
+      213: -2717021137653214453
+    second: tiso_glider_attack__1
+  - first:
+      213: -1689325182221941827
+    second: tiso_glider_attack__2
+  - first:
+      213: 8269692959561105254
+    second: tiso_glider_attack__3
+  - first:
+      213: -3635408537811079513
+    second: tiso_glider_attack__4
+  - first:
+      213: 6945466967717605829
+    second: tiso_glider_attack__5
+  - first:
+      213: 5992102952286000649
+    second: tiso_glider_attack__6
+  - first:
+      213: 7553043335373338964
+    second: tiso_glider_attack__7
+  - first:
+      213: 4071369797943991447
+    second: tiso_glider_attack__8
+  - first:
+      213: -2737333110157791540
+    second: tiso_glider_attack__9
+  - first:
+      213: 2387497063062101613
+    second: tiso_glider_attack__10
+  - first:
+      213: 9096096923053354659
+    second: tiso_glider_attack__11
+  - first:
+      213: -3902535742016584571
+    second: tiso_glider_attack__12
+  - first:
+      213: -253389227539225198
+    second: tiso_glider_attack__13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiso_glider_attack__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1359
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.5483132, y: 0.44731387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51d331be7ab5df0800000000000000
+      internalID: -190373931151190615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1359
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.60371, y: 0.4259564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d3f2bba33b4ad0800000000000000
+      internalID: -2717021137653214453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1359
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.6161392, y: 0.44213408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30a8b72bf4e88e0800000000000000
+      internalID: -1689325182221941827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1359
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.61304164, y: 0.441842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f30389ee9d3c270800000000000000
+      internalID: 8269692959561105254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.6158688, y: 0.43939114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2952323f6c8dc0800000000000000
+      internalID: -3635408537811079513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 906
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.55456126, y: 0.41957748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c174029861436060800000000000000
+      internalID: 6945466967717605829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 906
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.531178, y: 0.41369304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906939833e9382350800000000000000
+      internalID: 5992102952286000649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 906
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.51948625, y: 0.40780836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593f0255ecc1d860800000000000000
+      internalID: 7553043335373338964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.53957903, y: 0.4433381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c94bb9249608830800000000000000
+      internalID: 4071369797943991447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 453
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.45314133, y: 0.43243852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce21211a0a030ad0800000000000000
+      internalID: -2737333110157791540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 453
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.50658137, y: 0.10596518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eda1aede7122120800000000000000
+      internalID: 2387497063062101613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 453
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.5110854, y: 0.0946309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae6e1555f3db3e70800000000000000
+      internalID: 9096096923053354659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.592155, y: 0.11459779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58406dd4b6867d9c0800000000000000
+      internalID: -3902535742016584571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiso_glider_attack__13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 228
+        height: 453
+      alignment: 9
+      pivot: {x: 0.62647665, y: 0.115099184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952d9e07d7cb7cf0800000000000000
+      internalID: -253389227539225198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
