@@ -2203,7 +2203,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: e2894f98c8ffe444ba69f218c2c508d6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5273,7 +5273,7 @@ MonoBehaviour:
     type: 3}
   _color: {r: 1, g: 1, b: 1, a: 1}
   _scale: {x: 1, y: 1, z: 1}
-  _spriteId: 36
+  _spriteId: 41
   boxCollider2D: {fileID: 0}
   polygonCollider2D: []
   edgeCollider2D: []
