@@ -11,6 +11,15 @@ TextureImporter:
   - first:
       213: 21300004
     second: isma_zap_enter_2
+  - first:
+      213: -7654638125958575658
+    second: isma_zap_enter_3
+  - first:
+      213: 923476803691032490
+    second: isma_zap_enter_4
+  - first:
+      213: 8054638110897966369
+    second: isma_zap_enter_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -151,7 +160,7 @@ TextureImporter:
         x: 164
         y: 642
         width: 164
-        height: 395
+        height: 453
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,10 +178,10 @@ TextureImporter:
       name: isma_zap_enter_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 164
-        height: 347
+        x: 353
+        y: 618
+        width: 189
+        height: 349
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,10 +195,73 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: isma_zap_enter_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 220
+        height: 302
+      alignment: 9
+      pivot: {x: 0.47319093, y: 0.00430891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c3123e2345c590800000000000000
+      internalID: -7654638125958575658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_zap_enter_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 211
+        height: 318
+      alignment: 9
+      pivot: {x: 0.41433513, y: 0.0011236361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf215a9249d0dc00800000000000000
+      internalID: 923476803691032490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: isma_zap_enter_5
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 191
+        height: 376
+      alignment: 9
+      pivot: {x: 0.48, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d8562cfa2d7cf60800000000000000
+      internalID: 8054638110897966369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e9461423233ca4942aa3a6fb8d0995f3
     internalID: 0
     vertices: []
     indices: 
