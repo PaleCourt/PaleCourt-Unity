@@ -220,8 +220,6 @@ MonoBehaviour:
 
     FoldingPapers
 
-    Spoonsei
-
     HuntHussle'
 --- !u!222 &38139196
 CanvasRenderer:
@@ -301,13 +299,19 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'General Milky
+  m_Text: 'Spoonsei
+
+    General Milky
+
+    Azerod
+
+    Pan
+
+    DwarfWoot
 
     Schy
 
     Alprechim
-
-    Knightmere
 
     ygsbzr
 
@@ -326,7 +330,7 @@ MonoBehaviour:
 
     Chrome
 
-    DwarfWoot
+    HelenSB
 
     Exempt-Medic
 
@@ -452,8 +456,6 @@ MonoBehaviour:
     FoldingPapers
 
     Zaliant
-
-    Spoonsei
 
     HuntHussle
 
@@ -1326,7 +1328,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7160}
+  m_AnchoredPosition: {x: 0, y: -7040}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &619171863
@@ -2390,7 +2392,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -4080}
+  m_AnchoredPosition: {x: 0, y: -4000}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1195741510
@@ -2767,7 +2769,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -8740}
+  m_AnchoredPosition: {x: 0, y: -8540}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1345274108
@@ -3051,8 +3053,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Croissant\r    Zaliant\r    JoSeBach\r\nChaktis\r    FoldingPapers\r   
-    RocketFire20\r\nSpoonsei\r    Erie    HuntHussle\nManno Stone    Azerod"
+  m_Text: "Croissant\r    Zaliant\r    JoSeBach\r    FoldingPapers\r\nChaktis\r   
+    RocketFire20\r    HuntHussle\r\nKnightmere\r    Manno Stone\r    Erie\n"
 --- !u!222 &1533625453
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3627,7 +3629,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -100}
+  m_AnchoredPosition: {x: 0, y: -70}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1806052712
@@ -3952,8 +3954,6 @@ MonoBehaviour:
     JoSeBach
 
     FoldingPapers
-
-    Spoonsei
 
     HuntHussle'
 --- !u!222 &1853635095
@@ -4403,7 +4403,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -5740}
+  m_AnchoredPosition: {x: 0, y: -5600}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2085219849
@@ -4484,7 +4484,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -10400}
+  m_AnchoredPosition: {x: 0, y: -10200}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2121263915
