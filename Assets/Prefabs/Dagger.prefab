@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6161535787292683816}
   - component: {fileID: 6161535787292683819}
   - component: {fileID: 8044803280027760430}
-  - component: {fileID: 5107285800122453847}
   m_Layer: 22
   m_Name: Dagger
   m_TagString: Untagged
@@ -124,16 +123,3 @@ MonoBehaviour:
   hazardType: 1
   shadowDashHazard: 0
   resetOnEnable: 0
---- !u!114 &5107285800122453847
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6161535787292683821}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1786408462, guid: b2da73be62f860046a4f8607fbc26a57, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Speed: 69
