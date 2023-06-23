@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1718610706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d97dcce3dd527d15e5454a9ae6bd9345
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a7f1746ce19c5af03e99bb8f39d6284b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Hegemol/Prefabs/Mace.prefab
+- Assets/Hegemol/Prefabs/Hegemol.prefab
+- Assets/Hegemol/Prefabs/Debris.prefab
+Dependencies:
+- C:/Users/RCRobot/source/repos/PaleCourt-Unity/AssetBundles/StandaloneWindows/miscbund

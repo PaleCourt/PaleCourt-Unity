@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3863482649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 217b40f3c375a9771ccece8619f89c9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a062ee2c66638b27ed263d13246d686
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllFiles/pale court gg throne aditions.prefab
+Dependencies:
+- C:/Users/RCRobot/source/repos/PaleCourt-Unity/AssetBundles/StandaloneWindows/workshopdep

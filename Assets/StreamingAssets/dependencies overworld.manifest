@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 211377599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d15256a80f949a4588d0c0d3d7675bf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4df3b4729a8682a7992a795ffbe3ba0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a52dc93d730d1a04d8bd622c5b8eb489, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/maggot__0.prefab
+- Assets/Zemer/new animations/maggot__0.controller
+Dependencies:
+- C:/Users/RCRobot/source/repos/PaleCourt-Unity/AssetBundles/StandaloneWindows/owarenadep

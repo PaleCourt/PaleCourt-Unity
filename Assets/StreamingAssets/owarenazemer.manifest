@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 3486635080
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1761e0580b9342279746f21030dab68e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82438ada0afc56ef1d09fb12f5d3bd46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 62
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64b23a9971043c842afdd3583761b7d3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9316d72d6c8e9374e8a1728e09fc1946, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f958bdac3057e4bbe7be1af21780b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c6ad557b87caea4fbddbf303bc6fb6b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e08d3febc110e2649958c67d37bffcd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00b3e88c5e7fdc94b992cc595165a0f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec120b662d5312e459a962a9c4d31017, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 336406c2b38d7d2418fe5fa78e8e2d53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d81d637d3233d644b61155ef4177ecf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24166cc1efa992b4cb0b506dc5467ce7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d22fb556a2a1df4b9d5c6d6877d70d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7de943f43c5cfe54a9cee2f048b28beb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41dcb92b7f8727640b1d39c29d72daf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dce1fc8ac054cac409eb455ad8797df4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d70cbe6f8d911d946b2bd8dc330478bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52bbbd2d6e7fd2a49b699c2849213806, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd093b5fd70a48a448ee2fe08bf99c88, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4edf351bd6ed83d469840e5c95f9ae5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 067c619cb4d96d8418c402bacad05229, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scene/zemer overworld arena.unity
+Dependencies:
+- C:/Users/RCRobot/source/repos/PaleCourt-Unity/AssetBundles/StandaloneWindows/owarenadep

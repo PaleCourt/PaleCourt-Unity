@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3450793301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7afb65ee806d7d6d29bfdaee9a04dfb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 94c6e0d9a5b2ecacec2cb6ec5dfa27fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Charms/purity_charm_get.wav
+- Assets/Charms/BoonAppearAnim.anim
+- Assets/Charms/BoonAppear.controller
+- Assets/Charms/purity_reset.wav
+- Assets/Charms/BloomGrowAnim.anim
+- Assets/Charms/LamentAppear.prefab
+- Assets/Charms/PurityAppear.prefab
+- Assets/Charms/CrestUpgrade.controller
+- Assets/Charms/CrestUpgradeAnim.anim
+- Assets/Charms/LamentAppearAnim.anim
+- Assets/Charms/spell_information_screen.wav
+- Assets/Charms/Crest_Upgrade.png
+- Assets/Charms/CrestUpgrade.prefab
+- Assets/Charms/BloomGrow.prefab
+- Assets/Charms/PurityAppearAnim.anim
+- Assets/Charms/spell_pickup_notail_3.wav
+- Assets/Charms/BoonAppear.prefab
+- Assets/Charms/Lament_Unlock.png
+- Assets/Charms/kings_brand_get.wav
+- Assets/Charms/spell_information_merged.mp3
+- Assets/Charms/PurityAppear.controller
+- Assets/Charms/purity_max.wav
+- Assets/Charms/abyss_bloom.wav
+- Assets/Charms/LamentAppear.controller
+- Assets/Charms/Abyssal_Bloom_Unlock.png
+- Assets/Charms/Boon_Unlock.png
+- Assets/Charms/gg_shadelord_screen_fill.wav
+- Assets/Charms/Purity_Unlock.png
+- Assets/Charms/GameObject.controller
+Dependencies: []

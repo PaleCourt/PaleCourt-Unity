@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2722686888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a04b824d64adc181d27680d0a8f58849
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b81642c80d584c04cde3e45552722833
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Tiso/Sprites/tiso_multitool_tools.png
+- Assets/Tiso/Prefabs/ShieldHalf.prefab
+- Assets/Tiso/Prefabs/Tiso.prefab
+- Assets/Tiso/Prefabs/ShieldVert.prefab
+- Assets/Tiso/Prefabs/ShieldFull.prefab
+Dependencies: []

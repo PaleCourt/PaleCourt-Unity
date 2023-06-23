@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2033897790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a610ea9a408c2eeee83b1e1ae5521bb4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 144ca982e35ca8194dddede9ab9b5e5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllFiles/gg_workshop_pale_court_entrance.prefab
+- Assets/Tiso/Sprites/Tiso_Statue.png
+Dependencies:
+- C:/Users/RCRobot/source/repos/PaleCourt-Unity/AssetBundles/StandaloneWindows/workshopdep

@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 1874956613
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: owarenadep
+      Dependencies: {}
+    Info_1:
+      Name: soundbund
+      Dependencies: {}
+    Info_2:
+      Name: ismawin
+      Dependencies:
+        Dependency_0: soundbund
+        Dependency_1: miscbund
+    Info_3:
+      Name: zemerwin
+      Dependencies: {}
+    Info_4:
+      Name: miscbund
+      Dependencies: {}
+    Info_5:
+      Name: hegemolwin
+      Dependencies:
+        Dependency_0: miscbund
+    Info_6:
+      Name: dependencies overworld
+      Dependencies:
+        Dependency_0: owarenadep
+    Info_7:
+      Name: owarenahegemol
+      Dependencies:
+        Dependency_0: owarenadep
+    Info_8:
+      Name: owarenaisma
+      Dependencies:
+        Dependency_0: owarenadep
+    Info_9:
+      Name: owarenazemer
+      Dependencies:
+        Dependency_0: owarenadep
+    Info_10:
+      Name: rewardroom
+      Dependencies:
+        Dependency_0: owarenadep
+        Dependency_1: workshopdep
+    Info_11:
+      Name: owarenadryya
+      Dependencies:
+        Dependency_0: owarenadep
+    Info_12:
+      Name: artistsbund
+      Dependencies: {}
+    Info_13:
+      Name: charmunlock
+      Dependencies: {}
+    Info_14:
+      Name: workshopdep
+      Dependencies: {}
+    Info_15:
+      Name: workshopentrance
+      Dependencies:
+        Dependency_0: workshopdep
+    Info_16:
+      Name: titlescreen
+      Dependencies:
+        Dependency_0: workshopdep
+    Info_17:
+      Name: ggarenahub
+      Dependencies:
+        Dependency_0: workshopdep
+    Info_18:
+      Name: ismabg
+      Dependencies:
+        Dependency_0: workshopdep
+    Info_19:
+      Name: tisobundle
+      Dependencies: {}
+    Info_20:
+      Name: creditsbundle
+      Dependencies: {}
+    Info_21:
+      Name: bloomparkour
+      Dependencies:
+        Dependency_0: owarenadep
