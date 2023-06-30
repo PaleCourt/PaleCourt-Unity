@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5588232674128437021}
   - component: {fileID: 8787539429713019719}
-  - component: {fileID: 3153447211790297370}
+  - component: {fileID: 2131674035509954612}
   m_Layer: 0
   m_Name: tutorial_poles_0003_b1
   m_TagString: Untagged
@@ -83,7 +83,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &3153447211790297370
+--- !u!114 &2131674035509954612
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -92,33 +92,48 @@ MonoBehaviour:
   m_GameObject: {fileID: 4563327503652001723}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb282fe19d963ea4e9f82839f32495ee, type: 3}
+  m_Script: {fileID: 11500000, guid: bfff991ac09e18e41a9ab99e77727c68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  wholeRenderer: {fileID: 0}
-  wholeParts: []
-  remnantParts: []
-  debrisParts: []
-  angleOffset: 0
-  inertBackgroundThreshold: 0
-  inertForegroundThreshold: 0
-  effectOffset: {x: 0, y: 0, z: 0}
-  audioSourcePrefab: {fileID: 0}
-  breakAudioEvent:
-    Clip: {fileID: 0}
-    PitchMin: 0
-    PitchMax: 0
-    Volume: 0
-  breakAudioClipTable: {fileID: 0}
-  dustHitRegularPrefab: {fileID: 0}
-  dustHitDownPrefab: {fileID: 0}
-  flingSpeedMin: 0
-  flingSpeedMax: 0
-  strikeEffectPrefab: {fileID: 0}
-  nailHitEffectPrefab: {fileID: 0}
-  spellHitEffectPrefab: {fileID: 0}
-  preventParticleRotation: 0
-  hitEventReciever: {fileID: 0}
-  forwardBreakEvent: 0
+  flingDebris: []
+  attackMagnitude: 0
+  right:
+    effectPrefab: {fileID: 0}
+    scale: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    minFlingSpeed: 0
+    maxFlingSpeed: 0
+    minFlingAngle: 0
+    maxFlingAngle: 0
+  left:
+    effectPrefab: {fileID: 0}
+    scale: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    minFlingSpeed: 0
+    maxFlingSpeed: 0
+    minFlingAngle: 0
+    maxFlingAngle: 0
+  up:
+    effectPrefab: {fileID: 0}
+    scale: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    minFlingSpeed: 0
+    maxFlingSpeed: 0
+    minFlingAngle: 0
+    maxFlingAngle: 0
+  down:
+    effectPrefab: {fileID: 0}
+    scale: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0}
+    minFlingSpeed: 0
+    maxFlingSpeed: 0
+    minFlingAngle: 0
+    maxFlingAngle: 0
   containingParticles: []
   flingObjectRegister: []
+  objectNailEffectPrefab: {fileID: 0}
+  midpointNailEffectPrefab: {fileID: 0}
+  spellHitEffectPrefab: {fileID: 0}
+  cutSound: []
+  pitchMin: 0
+  pitchMax: 0
