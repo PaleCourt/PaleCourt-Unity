@@ -301,8 +301,6 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Spoonsei
 
-    General Milky
-
     Azerod
 
     Pan
@@ -452,6 +450,8 @@ MonoBehaviour:
     Croissant
 
     JoSeBach
+
+    Knightmere
 
     FoldingPapers
 
@@ -769,13 +769,12 @@ MonoBehaviour:
 
     Hollow Knight Discord
 
-    Necromancer
-    and Curly (they asked to be on here)
+    Clazex
+
+    Mulhima
+    (I stole his code for this credits sequence)
 
     Risto The Chicken
-
-    Hallownest Vocalized
-    (I stole their code for this credits sequence)
 
 '
 --- !u!222 &319247651
@@ -979,7 +978,7 @@ RectTransform:
   - {fileID: 379436277}
   - {fileID: 1533625451}
   m_Father: {fileID: 1595390192}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1020,7 +1019,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 180}
+  m_AnchoredPosition: {x: 0, y: 140}
   m_SizeDelta: {x: 800, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &467950412
@@ -1217,7 +1216,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -2500}
+  m_AnchoredPosition: {x: 0, y: -2450}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &556515294
@@ -1943,6 +1942,8 @@ MonoBehaviour:
 
     Gauthier
 
+    MAT
+
 
     Croissant
 
@@ -1994,8 +1995,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -5500}
-  m_SizeDelta: {x: 1920, y: 8650}
+  m_AnchoredPosition: {x: 0, y: -7150}
+  m_SizeDelta: {x: 1920, y: 11800}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &983439139
 GameObject:
@@ -2113,6 +2114,85 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &1098849916
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1098849917}
+  - component: {fileID: 1098849919}
+  - component: {fileID: 1098849918}
+  m_Layer: 5
+  m_Name: Body 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1098849917
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1098849916}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2064666675}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 250}
+  m_SizeDelta: {x: 800, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1098849918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1098849916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 010068cfdca56c948bb37675bbf59239, type: 3}
+    m_FontSize: 50
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 300
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: Translation
+--- !u!222 &1098849919
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1098849916}
+  m_CullTransparentMesh: 1
 --- !u!1 &1143478432
 GameObject:
   m_ObjectHideFlags: 0
@@ -2148,7 +2228,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 800, y: 100}
+  m_SizeDelta: {x: 1920, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1143478434
 MonoBehaviour:
@@ -2183,7 +2263,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "JoSeBach\r\nChaktis\r\nFoldingPapers\r\nHooKnows\r"
+  m_Text: "JoSeBach\r    Chaktis\r    FoldingPapers\r\nHooKnows\r    RocketFire20\r   
+    Saleh\r\n"
 --- !u!222 &1143478435
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2550,6 +2631,8 @@ MonoBehaviour:
 
 
 
+
+
     Art
 
 
@@ -2769,7 +2852,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -8540}
+  m_AnchoredPosition: {x: 0, y: -8640}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1345274108
@@ -3054,7 +3137,8 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "Croissant\r    Zaliant\r    JoSeBach\r    FoldingPapers\r\nChaktis\r   
-    RocketFire20\r    HuntHussle\r\nKnightmere\r    Manno Stone\r    Erie\n"
+    RocketFire20\r    HuntHussle\r    General Milky\nKnightmere\r    Manno Stone\r   
+    Erie\n"
 --- !u!222 &1533625453
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3097,6 +3181,7 @@ RectTransform:
   - {fileID: 1208724829}
   - {fileID: 727571867}
   - {fileID: 1526209395}
+  - {fileID: 2064666675}
   - {fileID: 442551877}
   m_Father: {fileID: 2053519376}
   m_RootOrder: 1
@@ -3176,7 +3261,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Zaliant\r\nFoldingPapers\r\nGauthier\r\nCarsonComposes\r"
+  m_Text: 'Zaliant
+
+    FoldingPapers
+
+    Gauthier
+
+    CarsonComposes
+
+    MAT'
 --- !u!222 &1606327814
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3374,6 +3467,7 @@ MonoBehaviour:
     Music
 
 
+
     Playtesting'
 --- !u!222 &1691371016
 CanvasRenderer:
@@ -3455,6 +3549,10 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'RiverRobot
 
+    Saleh
+
+    Jngo102
+
     SFGrenade
 
     RedFrog
@@ -3469,7 +3567,12 @@ MonoBehaviour:
 
     Croissant
 
-    JoSeBach'
+    JoSeBach
+
+    HelenSB
+
+    General
+    Milky'
 --- !u!222 &1706474098
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3512,7 +3615,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 180}
+  m_AnchoredPosition: {x: 0, y: 220}
   m_SizeDelta: {x: 800, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1796284369
@@ -4263,6 +4366,96 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1995493144}
   m_CullTransparentMesh: 1
+--- !u!1 &2012120569
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2012120570}
+  - component: {fileID: 2012120572}
+  - component: {fileID: 2012120571}
+  m_Layer: 5
+  m_Name: Body 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2012120570
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012120569}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2064666675}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 800, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2012120571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012120569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 010068cfdca56c948bb37675bbf59239, type: 3}
+    m_FontSize: 70
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 300
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: 'Portuguese - Manno Stone
+
+    Spanish- HelenSB, MEBI
+
+    French - Azerod,
+    Gauthier
+
+    Italian - JoSeBach
+
+    Chinese - Whisky
+
+'
+--- !u!222 &2012120572
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012120569}
+  m_CullTransparentMesh: 1
 --- !u!1 &2053519375
 GameObject:
   m_ObjectHideFlags: 0
@@ -4367,6 +4560,43 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: -1000
   m_TargetDisplay: 0
+--- !u!1 &2064666674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2064666675}
+  m_Layer: 5
+  m_Name: Translation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &2064666675
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2064666674}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1098849917}
+  - {fileID: 2012120570}
+  m_Father: {fileID: 1595390192}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &2085219847
 GameObject:
   m_ObjectHideFlags: 0
@@ -4484,7 +4714,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -10200}
+  m_AnchoredPosition: {x: 0, y: -10700}
   m_SizeDelta: {x: 1920, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2121263915
