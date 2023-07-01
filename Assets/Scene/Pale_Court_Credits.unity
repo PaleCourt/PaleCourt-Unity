@@ -582,7 +582,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 250}
+  m_AnchoredPosition: {x: 0, y: 210}
   m_SizeDelta: {x: 800, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &141044394
@@ -768,8 +768,6 @@ MonoBehaviour:
     Hollow Knight Modding Community
 
     Hollow Knight Discord
-
-    Clazex
 
     Mulhima
     (I stole his code for this credits sequence)
@@ -1995,8 +1993,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7150}
-  m_SizeDelta: {x: 1920, y: 11800}
+  m_AnchoredPosition: {x: 0, y: -7057.1733}
+  m_SizeDelta: {x: 1920, y: 11614.348}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &983439139
 GameObject:
@@ -3549,6 +3547,8 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'RiverRobot
 
+    HooKnows
+
     Saleh
 
     Jngo102
@@ -3556,8 +3556,6 @@ MonoBehaviour:
     SFGrenade
 
     RedFrog
-
-    HooKnows
 
 
     MEBI
@@ -3950,8 +3948,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Saleh\r    HooKnows\r    RiverRobot\r\nRedFrog\r    SFGrenade\r    Jngo102\r\nTheGreatGallus\r   
-    56\r    Link459\r"
+  m_Text: "Saleh\r    HooKnows\r    RiverRobot\r\nRedFrog\r    SFGrenade\r    Clazex   
+    Jngo102\r\nTheGreatGallus\r    56\r    Link459\r"
 --- !u!222 &1839921199
 CanvasRenderer:
   m_ObjectHideFlags: 0
