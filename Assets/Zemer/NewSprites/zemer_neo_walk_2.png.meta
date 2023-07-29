@@ -35,6 +35,9 @@ TextureImporter:
   - first:
       213: -3647476061269136006
     second: zemer_neo_walk_2_10
+  - first:
+      213: -3022384526805464602
+    second: zemer_neo_walk_2_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -141,7 +144,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30943853, y: 0.36734882}
@@ -160,9 +163,9 @@ TextureImporter:
       name: zemer_neo_walk_2_1
       rect:
         serializedVersion: 2
-        x: 474
+        x: 489
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.3038111, y: 0.36846474}
@@ -181,9 +184,9 @@ TextureImporter:
       name: zemer_neo_walk_2_2
       rect:
         serializedVersion: 2
-        x: 948
+        x: 978
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30381137, y: 0.36846474}
@@ -202,9 +205,9 @@ TextureImporter:
       name: zemer_neo_walk_2_3
       rect:
         serializedVersion: 2
-        x: 1422
+        x: 1467
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30665478, y: 0.36644116}
@@ -223,9 +226,9 @@ TextureImporter:
       name: zemer_neo_walk_2_4
       rect:
         serializedVersion: 2
-        x: 1896
+        x: 1956
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30665478, y: 0.36644116}
@@ -244,9 +247,9 @@ TextureImporter:
       name: zemer_neo_walk_2_5
       rect:
         serializedVersion: 2
-        x: 2370
+        x: 2445
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30381137, y: 0.36846483}
@@ -265,9 +268,9 @@ TextureImporter:
       name: zemer_neo_walk_2_6
       rect:
         serializedVersion: 2
-        x: 2844
+        x: 2934
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30381137, y: 0.36848134}
@@ -286,9 +289,9 @@ TextureImporter:
       name: zemer_neo_walk_2_7
       rect:
         serializedVersion: 2
-        x: 3318
+        x: 3423
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30507585, y: 0.36943078}
@@ -307,9 +310,9 @@ TextureImporter:
       name: zemer_neo_walk_2_8
       rect:
         serializedVersion: 2
-        x: 3792
+        x: 3912
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30220902, y: 0.36739066}
@@ -328,9 +331,9 @@ TextureImporter:
       name: zemer_neo_walk_2_9
       rect:
         serializedVersion: 2
-        x: 4266
+        x: 4401
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30507585, y: 0.36943078}
@@ -349,9 +352,9 @@ TextureImporter:
       name: zemer_neo_walk_2_10
       rect:
         serializedVersion: 2
-        x: 4740
+        x: 4890
         y: 0
-        width: 474
+        width: 489
         height: 666
       alignment: 9
       pivot: {x: 0.30507585, y: 0.36739066}
@@ -362,6 +365,27 @@ TextureImporter:
       bones: []
       spriteID: a7def41f8df816dc0800000000000000
       internalID: -3647476061269136006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zemer_neo_walk_2_11
+      rect:
+        serializedVersion: 2
+        x: 5379
+        y: 0
+        width: 489
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e98f1149455e06d0800000000000000
+      internalID: -3022384526805464602
       vertices: []
       indices: 
       edges: []
