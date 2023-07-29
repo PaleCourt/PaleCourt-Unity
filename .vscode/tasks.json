@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build Assetbundles",
+            "label": "Build Base Assetbundles",
             "type": "shell",
             "options": {
                 "cwd": "${workspaceFolder}",
@@ -10,7 +10,7 @@
                     "UNITY": "D:/Unity/Editor/2020.2.2f1/Editor/Unity.exe"
                 }
             },
-            "command": "& \"$Env:UNITY\" -projectPath \".\" -batchmode -quit -executeMethod CreateAssetBundles.BuildAllAssetBundlesCompressed",
+            "command": "& \"$Env:UNITY\" -projectPath \".\" -batchmode -quit -executeMethod CreateAssetBundles.BuildAllAssetBundlesCompressed | Out-Null",
             "problemMatcher": [],
             "group": "build",
         },
