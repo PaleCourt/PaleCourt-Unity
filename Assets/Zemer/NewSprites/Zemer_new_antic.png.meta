@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: dd8618af26b247b4497953ce5d27d030
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 333993353646722106
+    second: Zemer_new_antic_2
+  - first:
+      213: 95631992597218570
+    second: Zemer_new_antic_4
+  - first:
+      213: 5331687438087316575
+    second: Zemer_new_antic_5
+  - first:
+      213: -6301765795788356821
+    second: Zemer_new_antic_6
+  - first:
+      213: 7498384614938760159
+    second: Zemer_new_antic_7
+  - first:
+      213: 5434151747769274061
+    second: Zemer_new_antic_8
+  - first:
+      213: 1970730733210751316
+    second: Zemer_new_antic_9
+  - first:
+      213: -1430013999562428853
+    second: Zemer_new_antic_11
+  - first:
+      213: -6122093273651589343
+    second: Zemer_new_antic_12
+  - first:
+      213: -8858581193794104887
+    second: Zemer_new_antic_10
+  - first:
+      213: 8048352235765935766
+    second: Zemer_new_antic_0
+  - first:
+      213: 1451909484191460636
+    second: Zemer_new_antic_1
+  - first:
+      213: 14137379495055137
+    second: Zemer_new_antic_3
+  - first:
+      213: 72629458610636931
+    second: Zemer_new_antic_3
+  - first:
+      213: 7009236149086852270
+    second: Zemer_new_antic_14
+  - first:
+      213: -1095919997147229097
+    second: Zemer_new_antic_11
+  - first:
+      213: -6833029579651004088
+    second: Zemer_new_antic_12
+  - first:
+      213: 3988716989521654239
+    second: Zemer_new_antic_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zemer_new_antic_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1895
+        width: 445
+        height: 625
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eac0867bd71bf60800000000000000
+      internalID: 8048352235765935766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_1
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1896
+        width: 491
+        height: 593
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da04bbbf7362410800000000000000
+      internalID: 1451909484191460636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_3
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 1993
+        width: 856
+        height: 382
+      alignment: 9
+      pivot: {x: 0.31186682, y: 0.708514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8bda2fd9323000800000000000000
+      internalID: 14137379495055137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_2
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1900
+        width: 579
+        height: 462
+      alignment: 9
+      pivot: {x: 0.5048141, y: 0.70469975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c44718f2592a400800000000000000
+      internalID: 333993353646722106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1321
+        width: 899
+        height: 528
+      alignment: 9
+      pivot: {x: 0.37429154, y: 0.54825336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058be36ac0c35100800000000000000
+      internalID: 95631992597218570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_5
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1264
+        width: 644
+        height: 478
+      alignment: 9
+      pivot: {x: 0.44445193, y: 0.5966038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546b98f975fdf940800000000000000
+      internalID: 5331687438087316575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_6
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1264
+        width: 615
+        height: 377
+      alignment: 9
+      pivot: {x: 0.44800797, y: 0.697809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23045c9561ab88a0800000000000000
+      internalID: -6301765795788356821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_7
+      rect:
+        serializedVersion: 2
+        x: 5476
+        y: 1259
+        width: 594
+        height: 369
+      alignment: 9
+      pivot: {x: 0.348, y: 0.7012973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3dda2441d9f0860800000000000000
+      internalID: 7498384614938760159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 629
+        width: 613
+        height: 397
+      alignment: 9
+      pivot: {x: 0.335359, y: 0.65289617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0b55293cf96b40800000000000000
+      internalID: 5434151747769274061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_9
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 633
+        width: 655
+        height: 418
+      alignment: 9
+      pivot: {x: 0.31394583, y: 0.6107898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d8f41921795b10800000000000000
+      internalID: 1970730733210751316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_10
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 629
+        width: 669
+        height: 423
+      alignment: 9
+      pivot: {x: 0.30669317, y: 0.61366075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c152f9c65fff0580800000000000000
+      internalID: -8858581193794104887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_11
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 629
+        width: 596
+        height: 355
+      alignment: 9
+      pivot: {x: 0.34490025, y: 0.7294595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754dacba1928ac0f0800000000000000
+      internalID: -1095919997147229097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 0
+        width: 655
+        height: 387
+      alignment: 9
+      pivot: {x: 0.41071796, y: 0.6896093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494a2ddcc33c21a0800000000000000
+      internalID: -6833029579651004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zemer_new_antic_13
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 40
+        width: 668
+        height: 323
+      alignment: 9
+      pivot: {x: 0.2928891, y: 0.8412535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1f00608f4ca5730800000000000000
+      internalID: 3988716989521654239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
