@@ -1683,3 +1683,64 @@ MonoBehaviour:
     fps: 12
     loopStart: 0
     wrapMode: 2
+  - name: Knockout
+    frames:
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 147
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 148
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 149
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 150
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 151
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 152
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 153
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    - spriteCollection: {fileID: 3570986605670369334, guid: 9222594e3c4b17a409bdf36ce55de6d4,
+        type: 3}
+      spriteId: 154
+      triggerEvent: 0
+      eventInfo: 
+      eventInt: 0
+      eventFloat: 0
+    fps: 12
+    loopStart: 0
+    wrapMode: 2
