@@ -119,6 +119,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1251951843066034074, guid: ca72526b79024f048bcf793b435282f4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: fsm.variables.objectVariables.Array.data[1].typeName
@@ -148,6 +153,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4626865801011577347, guid: ca72526b79024f048bcf793b435282f4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5161808711269500381, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
@@ -222,7 +232,7 @@ PrefabInstance:
     - target: {fileID: 7910136807024910295, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: _spriteId
-      value: 152
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 7933696177051077509, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
