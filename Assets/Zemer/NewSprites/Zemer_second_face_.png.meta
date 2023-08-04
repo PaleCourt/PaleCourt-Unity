@@ -300,7 +300,7 @@ TextureImporter:
         serializedVersion: 2
         x: 402
         y: 849
-        width: 472
+        width: 478
         height: 700
       alignment: 9
       pivot: {x: 0.27415556, y: 0.36652988}
@@ -321,7 +321,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1462
         y: 828
-        width: 620
+        width: 639
         height: 630
       alignment: 9
       pivot: {x: 0.43238407, y: 0.40356076}
@@ -404,8 +404,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6064
-        y: 807
-        width: 867
+        y: 810
+        width: 920
         height: 699
       alignment: 9
       pivot: {x: 0.44028327, y: 0.3904109}
@@ -426,7 +426,7 @@ TextureImporter:
         serializedVersion: 2
         x: 268
         y: 39
-        width: 866
+        width: 895
         height: 631
       alignment: 9
       pivot: {x: 0.37690935, y: 0.35883468}
@@ -447,7 +447,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1198
         y: 0
-        width: 976
+        width: 1018
         height: 643
       alignment: 9
       pivot: {x: 0.5492845, y: 0.4127241}
@@ -468,7 +468,7 @@ TextureImporter:
         serializedVersion: 2
         x: 2590
         y: 0
-        width: 850
+        width: 886
         height: 648
       alignment: 9
       pivot: {x: 0.45138413, y: 0.40023446}
@@ -489,7 +489,7 @@ TextureImporter:
         serializedVersion: 2
         x: 3571
         y: 31
-        width: 748
+        width: 756
         height: 558
       alignment: 9
       pivot: {x: 0.7607853, y: 0.40652767}
@@ -549,7 +549,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: bb495e12431bfca86acf61126f3203a1
     internalID: 0
     vertices: []
     indices: 
