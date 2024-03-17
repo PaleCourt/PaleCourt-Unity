@@ -7,7 +7,7 @@
             "options": {
                 "cwd": "${workspaceFolder}",
                 "env": {
-                    "UNITY": "D:/Unity/Editor/2020.2.2f1/Editor/Unity.exe"
+                    "UNITY": "D:/Unity/Editor/2020.2.3f1/Editor/Unity.exe"
                 }
             },
             "command": "& \"$Env:UNITY\" -projectPath \".\" -batchmode -quit -executeMethod CreateAssetBundles.BuildAllAssetBundlesCompressed | Out-Null",
