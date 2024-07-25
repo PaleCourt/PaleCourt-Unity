@@ -27260,7 +27260,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 2
+          value: 1.5
         - useVariable: 1
           name: X Knockout Speed Crt
           tooltip: 
@@ -27314,7 +27314,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 15
+          value: 25
         - useVariable: 0
           name: 
           tooltip: 
@@ -27773,7 +27773,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.2
+          value: 0.3
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -27917,7 +27917,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 2
+          value: 1.5
         fsmIntParams: []
         fsmBoolParams: []
         fsmVector2Params:
@@ -28665,7 +28665,7 @@ MonoBehaviour:
       colorIndex: 6
       position:
         serializedVersion: 2
-        x: 190.92969
+        x: 168.92969
         y: 1075.0547
         width: 165.6
         height: 48
@@ -28674,8 +28674,8 @@ MonoBehaviour:
       hideUnused: 0
       transitions:
       - fsmEvent:
-          name: FINISHED
-          isSystemEvent: 1
+          name: STAB
+          isSystemEvent: 0
           isGlobal: 0
         toState: Knockout Stab
         linkStyle: 0
@@ -28735,7 +28735,7 @@ MonoBehaviour:
         stringParams:
         - PHASE 3
         - PHASE 3
-        - FINISHED
+        - STAB
         byteData: 00
         arrayParamSizes: 
         arrayParamTypes: []
@@ -29255,7 +29255,7 @@ MonoBehaviour:
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: 15
+        value: 25
       - useVariable: 1
         name: X Knockout Speed
         tooltip: 
