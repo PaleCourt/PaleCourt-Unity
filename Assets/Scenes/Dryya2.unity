@@ -119,45 +119,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1251951843066034074, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: fsm.variables.objectVariables.Array.data[1].typeName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: fsm.variables.objectVariables.Array.data[2].typeName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: fsm.variables.objectVariables.Array.data[3].typeName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: fsm.variables.objectVariables.Array.data[4].typeName
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 1770946968723725424, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: fsm.variables.objectVariables.Array.data[5].typeName
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 1888923536362383152, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4626865801011577347, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5161808711269500381, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
@@ -214,25 +179,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6491977148492018763, guid: ca72526b79024f048bcf793b435282f4,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6810587311688616079, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: m_Name
       value: Dryya2
       objectReference: {fileID: 0}
-    - target: {fileID: 7721126968190204826, guid: ca72526b79024f048bcf793b435282f4,
+    - target: {fileID: 6810587311688616079, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7910136807024910295, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
       propertyPath: _spriteId
-      value: 33
+      value: 53
       objectReference: {fileID: 0}
     - target: {fileID: 7933696177051077509, guid: ca72526b79024f048bcf793b435282f4,
         type: 3}
