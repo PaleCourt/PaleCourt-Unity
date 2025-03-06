@@ -13,7 +13,7 @@ public class CreateAssetBundles
         }
         BuildPipeline.BuildAssetBundles(assetBundleDirectory,
                                         BuildAssetBundleOptions.None,
-                                        BuildTarget.StandaloneWindows);
+                                        BuildTarget.StandaloneWindows64);
 
         assetBundleDirectory = "AssetBundles/StandaloneOSX";
         if(!Directory.Exists(assetBundleDirectory))
